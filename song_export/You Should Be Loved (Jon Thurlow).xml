@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-12-01T03:12:02">
+  <properties>
+    <titles>
+      <title>You Should Be Loved</title>
+    </titles>
+    <authors>
+      <author type="words">Jon Thurlow</author>
+      <author type="music">Jon Thurlow</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You should be loved<br/>By the ones You've redeemed<br/>You should be loved<br/>By the ones You've made clean</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Worthy of the hearts<br/>Of the ones You've redeemed<br/>Worthy of the hearts<br/>Of the ones You've made clean</lines>
+    </verse>
+    <verse name="o1a">
+      <lines>You should be loved</lines>
+    </verse>
+    <verse name="o1b">
+      <lines>You should have all our hearts<br/>We're the ones You've redeemed<br/>You should have all our hearts<br/>We're the ones You've made clean</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>We give you all our hearts<br/>We're the ones You've redeemed<br/>We give you all our hearts<br/>We're the ones You've made clean</lines>
+    </verse>
+  </lyrics>
+</song>

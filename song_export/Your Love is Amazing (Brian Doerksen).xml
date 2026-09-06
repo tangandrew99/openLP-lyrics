@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:29">
+  <properties>
+    <titles>
+      <title>Your Love is Amazing</title>
+    </titles>
+    <authors>
+      <author>Brian Doerksen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v2">
+      <lines>Your love is surprising, I can feel it rising<br/>All the joy that's growing, Deep inside of me<br/>And every time I see You, <br/>All Your goodness shines through<br/>And I can feel this God song, <br/>Rising up in me</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Your love is amazing, steady and unchanging<br/>Your love is a mountain, firm beneath my feet<br/>Your love is a mystery, how You gently lift me<br/>When I am surrounded, Your love carries me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hallelujah <br/>Hallelujah <br/>Hallelujah<br/>Your love makes me sing</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-02-07T01:59:47">
+  <properties>
+    <titles>
+      <title>Turn Your Eyes to Jesus</title>
+    </titles>
+    <authors>
+      <author>Sovereign Grace Music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Turn your eyes upon Jesus<br/>Look full in His wonderful face<br/>And the things of earth will grow strangely dim<br/>In the light of His glory and grace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Turn your eyes to the hillside<br/>Where justice and mercy embraced<br/>There the Son of God gave His life for us<br/>And our measureless debt was erased</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus, to You we lift our eyes<br/>Jesus, our glory and our prize<br/>We adore You, behold You, our Savior ever true<br/>Oh Jesus, we turn our eyes to You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Turn your eyes to the morning<br/>And see Christ the Lion awake<br/>What a glorious dawn, fear of death is gone<br/>For we carry His life in our veins</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Turn your eyes to the heavens<br/>Our King will return for His own<br/>Every knee will bow, every tongue will shout,<br/>‘All glory to Jesus alone!’</lines>
+    </verse>
+  </lyrics>
+</song>

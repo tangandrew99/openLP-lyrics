@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-03-02T03:15:02">
+  <properties>
+    <titles>
+      <title>Great Is The Lord</title>
+    </titles>
+    <authors>
+      <author>Dunno</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>And Lord we want to lift Your Name on high,<br/>And Lord we want to thank you<br/>For the works You've done in our lives.<br/><br/>And Lord we trust in Your unfailing love;<br/>For you alone are God eternal,<br/>Throughout earth and heaven above.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Great is the Lord and most worthy of praise,<br/>The city of our God, the holy place,<br/>The joy of the whole earth.<br/><br/>Great is the Lord in whom we have the victory<br/>He aids us against the enemy.<br/>We bow down on our knees.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>You washed our robes in the blood of the Lamb<br/>Rightly do we love you Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

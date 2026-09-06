@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:26">
+  <properties>
+    <titles>
+      <title>May the Words of My Mouth</title>
+    </titles>
+    <authors>
+      <author type="words">Shane and Shane</author>
+      <author type="music">Shane and Shane</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>May the words of my mouth<br/>And the meditations of my heart<br/>Be pleasing to You, pleasing to You<br/><br/>May the words of my mouth<br/>And the meditations of my heart<br/>Be pleasing to You my God</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You're my rock and my redeemer<br/>You're the reason that I sing<br/>I desire to be a blessing in Your eyes<br/><br/>Every hour and every moment<br/>Lord I want to be Your servant<br/>I desire to be a blessing in Your eyes</lines>
+    </verse>
+  </lyrics>
+</song>

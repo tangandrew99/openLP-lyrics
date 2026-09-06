@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-10-06T16:36:42">
+  <properties>
+    <titles>
+      <title>Psalm 63 (Better Than Life)</title>
+    </titles>
+    <authors>
+      <author>Shane Barnard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O God, You're my God, I seek You<br/>O my soul it longs for You<br/>My flesh faints for You in this land<br/>This dry land where there is no drink<br/><br/>I've looked upon You in this place<br/>Beholding Your power and glory, Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Because Your love is better than life is<br/>I will praise You as long as I'm alive<br/>In the face of precious Jesus<br/>O my soul will be satisfied</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You have been my help<br/>In the shadow of Your wings<br/>I'll sing for joy<br/>You have been my help<br/>In the shadow of Your wings<br/>I'll sing, I'll sing</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Your love is better than life<br/>Your love is better than life</lines>
+    </verse>
+  </lyrics>
+</song>

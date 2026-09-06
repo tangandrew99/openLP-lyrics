@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-09-28T16:23:57">
+  <properties>
+    <titles>
+      <title>Fragrance (We Pour Our Love)</title>
+    </titles>
+    <authors>
+      <author>Jaye Thomas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>From the rising of the sun<br/>To the setting of the same<br/>Jesus, Your name is <br/>Worthy of unceasing worship<br/><br/>From the rising of the sun<br/>To the setting of the same<br/>Jesus, Your name is <br/>Worthy of unending love</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>We pour our love on You<br/>We pour our love on You</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Let the fragrance of our worship <br/>be pleasing<br/>Let the fragrance of our worship <br/>be pleasing to You</lines>
+    </verse>
+    <verse name="o1">
+      <lines>You are worthy, Lord</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>You pour Your love on us<br/>You pour Your love on us</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>We pour our love on You<br/>Cause You pour Your love on us</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-03-08T18:06:03">
+  <properties>
+    <titles>
+      <title>Help Me To See</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Help me see the severity of my iniquity<br/>Help me see the beauty of Your mercy<br/><br/>Help me see the severity of the King of Glory<br/>Help me see the beauty of Your majesty</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Help me see the severity of my iniquity<br/>Help me see the beauty of Your mercy<br/><br/>Help me see the severity of the King of Glory<br/>Help me see the beauty of Your mercy</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-10-12T16:38:43">
+  <properties>
+    <titles>
+      <title>Take Your Place</title>
+    </titles>
+    <verseOrder>v1 c1 b1 b2</verseOrder>
+    <authors>
+      <author>Jon Thurlow</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>My soul longs for You, Lord<br/>In a dry and weary land</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Come and take Your place <br/>In the center of our hearts<br/>Come and take Your place<br/>(And have the preeminence, Jesus)</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I cry out for fire<br/>Set Your seal upon me</lines>
+    </verse>
+    <verse name="b2">
+      <lines>You're the only One worthy<br/>You're the only One deserving</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Come and take Your place <br/>In the center of my heart<br/>Come and take Your place<br/>(And have the preeminence, Jesus)</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Come and take Your place <br/>In the center of my heart<br/>Come and take Your place<br/>(Its where You belong)</lines>
+    </verse>
+  </lyrics>
+</song>

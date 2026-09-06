@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-05-25T16:20:53">
+  <properties>
+    <titles>
+      <title>So Good to Me</title>
+    </titles>
+    <authors>
+      <author type="words">Cory Asbury</author>
+      <author type="music">Cory Asbury</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I waited patiently upon the Lord<br/>And He inclined and heard my cry<br/>He pulled me up out of the miry clay<br/>He set my feet upon the Rock</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He gave me beauty for ashes<br/>And joy for my mourning<br/>And praise for heaviness<br/>He put a new song in my mouth and a<br/>Crown upon my head<br/>He gave me life forevermore</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He's been<br/>So good, so, so good to me<br/>So good, so, so good to me<br/>So good, so, so good to me, Jesus</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>He picked me up and He turned me around<br/>And He placed my feet on the solid ground<br/>Hallelujah, hallelujah</lines>
+    </verse>
+    <verse name="o1a">
+      <lines>Now I've got<br/>Love, joy, peace and righteousness<br/>In the Holy Spirit</lines>
+    </verse>
+    <verse name="o1b">
+      <lines>Let us become more aware of Your presence<br/>Let us experience the glory of your goodness</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>I lift my eyes up from my circumstances<br/>I lift my eyes to You</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I wanna be like Mary<br/>I wanna see what she saw<br/>I wanna choose the best thing<br/>To sit here at Your feet</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>I wanna be like David<br/>I wanna see what he saw<br/>I wanna choose the best thing<br/>To sit here at Your feet</lines>
+    </verse>
+  </lyrics>
+</song>

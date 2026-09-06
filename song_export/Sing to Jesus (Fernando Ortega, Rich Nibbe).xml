@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:27">
+  <properties>
+    <titles>
+      <title>Sing to Jesus</title>
+    </titles>
+    <authors>
+      <author>Fernando Ortega</author>
+      <author>Rich Nibbe</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Come and see, look on this mystery<br/>The Lord of the universe nailed to a tree<br/>Christ our God, spilling His holy blood<br/>Bowing in anguish, His sacred head</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sing to Jesus, Lord of our shame<br/>Lord of our sinful hearts, He is our great Redeemer<br/>Sing to Jesus, honor His name<br/>Sing of His faithfulness, pouring His life out unto death</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Come you weary and He will give you rest<br/>Come you who mourn, lay on His breast<br/>Christ who died, risen in Paradise<br/>Giver of mercy, giver of life</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Sing to Jesus, His is the throne<br/>Now and forever He is the King of heaven<br/>Sing to Jesus, we are His own<br/>Now and forever sing for the love our God has shown</lines>
+    </verse>
+  </lyrics>
+</song>

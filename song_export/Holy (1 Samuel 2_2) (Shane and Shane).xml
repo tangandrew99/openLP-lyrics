@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-09-10T16:29:18">
+  <properties>
+    <titles>
+      <title>Holy (1 Samuel 2:2)</title>
+    </titles>
+    <authors>
+      <author type="words">Shane and Shane</author>
+      <author type="music">Shane and Shane</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>There is none holy like the Lord<br/>There is none beside You<br/>There is no fortress like our God<br/>Who was and is and is to come<br/>The beginning and the end<br/>Son of God, Son of Man<br/>There is no one like You, Lord, so holy</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Holy holy holy is the Lord<br/>All glory, glory, glory to the Lord<br/>Almighty, so worthy, we give you all the praise<br/>Oh Lamb of God ,You're holy</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Holy Holy Holy<br/>Lord God Almighty<br/>Worthy worthy worthy<br/>Of all the praise and glory<br/>Holy Holy Holy<br/>Lord God almighty<br/>Worthy worthy worthy<br/>Of all the praise and glory</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Oh lamb of God You're holy</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>We give you all the glory<br/>We worship You our Lord<br/>You are worthy to be praised</lines>
+    </verse>
+  </lyrics>
+</song>

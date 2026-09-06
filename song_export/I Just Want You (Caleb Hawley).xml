@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-08-23T00:52:35">
+  <properties>
+    <titles>
+      <title>I Just Want You</title>
+    </titles>
+    <authors>
+      <author type="words">Caleb Hawley</author>
+      <author type="music">Caleb Hawley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>More than a nice melody<br/>More than the sweetest of words<br/>This is the love I have found<br/>And in this love I am found</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I just want You, Jesus<br/>I just want You, my Lord<br/>I just want You, Jesus<br/>I just want You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Never could I comprehend<br/>The love You so freely give<br/>Never could I be worthy<br/>But Your love covers all of my sin</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>There is no greater love than Yours<br/>Nothing else could ever compare<br/>And even if I searched all the world<br/>I would never find a love like Yours</lines>
+    </verse>
+  </lyrics>
+</song>

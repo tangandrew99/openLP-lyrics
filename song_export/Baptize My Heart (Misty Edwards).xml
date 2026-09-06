@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:23">
+  <properties>
+    <titles>
+      <title>Baptize My Heart</title>
+    </titles>
+    <authors>
+      <author>Misty Edwards</author>
+    </authors>
+    <themes>
+      <theme>Devotion</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Baptize my heart<br/>With Your fire, desire</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I don't want to be offended<br/>I don't want to be offended<br/>I don't want to be offended<br/>When it's all coming down</lines>
+    </verse>
+    <verse name="o1">
+      <lines>I want to be for You, not against You<br/>I want to be with You where You are</lines>
+    </verse>
+    <verse name="o2">
+      <lines>I pledge my allegiance to Jesus, to Jesus<br/>I pledge my allegiance to the Lamb</lines>
+    </verse>
+  </lyrics>
+</song>

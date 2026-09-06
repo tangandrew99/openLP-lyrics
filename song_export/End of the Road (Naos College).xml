@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:23">
+  <properties>
+    <titles>
+      <title>End of the Road</title>
+    </titles>
+    <authors>
+      <author type="words">Naos College</author>
+      <author type="music">Naos College</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Although we've come<br/>To the end of the road<br/>Still I can’t let go<br/>It's unnatural<br/>You belong to me<br/>I belong to you<br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Said we'd be forever<br/>Said it'd never die<br/>How could you love me and leave me and never<br/>Say goodbye?<br/></lines>
+    </verse>
+    <verse name="v1c">
+      <lines>When I can't sleep at night<br/>Without holding you tight<br/>Each time I try I just break down and cry<br/>Pain in my head<br/>Oh, I'd rather be dead<br/>Spinning around and around<br/></lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Although we've come<br/>To the end of the road<br/>Still I can’t let go<br/>It's unnatural<br/>You belong to me<br/>I belong to you<br/><br/></lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Come<br/>To the end of the road<br/>See you in Colorado<br/>It's just natural<br/>You belong to us<br/>We belong to you<br/></lines>
+    </verse>
+  </lyrics>
+</song>

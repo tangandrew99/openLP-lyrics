@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:22">
+  <properties>
+    <titles>
+      <title>As for Me</title>
+    </titles>
+    <authors>
+      <author type="words">Maranatha</author>
+      <author type="music">Maranatha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>As for me<br/>I shall behold Your face in righteousness<br/>I will be satisfied<br/>In Your likeness</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I want to be just like You Lord<br/>So as for me I will behold Your face</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>As for me<br/>I will behold Your face in righteousness<br/>I will be satisfied<br/>When I awake with Your likeness</lines>
+    </verse>
+  </lyrics>
+</song>

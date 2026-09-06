@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-05-16T01:30:22">
+  <properties>
+    <titles>
+      <title>Wholehearted</title>
+    </titles>
+    <authors>
+      <author>Jon Thurlow</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, I want to be wholehearted<br/>God, I want to be wholehearted<br/>Lord, I want to be wholehearted<br/>In my love for You<br/>In my love for You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord, I want to love what You love<br/>And I want to hate what You hate<br/>You know I want to be closer to You<br/>Fear Your name</lines>
+    </verse>
+  </lyrics>
+</song>

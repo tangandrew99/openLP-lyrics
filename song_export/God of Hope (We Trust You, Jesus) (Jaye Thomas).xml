@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-10-04T01:43:26">
+  <properties>
+    <titles>
+      <title>God of Hope (We Trust You, Jesus)</title>
+    </titles>
+    <authors>
+      <author>Jaye Thomas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are our hope, O God of hope<br/>All of our trust is in You<br/>You are our hope, O God of hope<br/>Give us joy in believing</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Some trust in chariots<br/>And some trust in horses<br/>But we trust in the name of the Lord our God</lines>
+    </verse>
+    <verse name="c2">
+      <lines>We trust You, Jesus<br/>We trust You, Jesus<br/>We trust You, Jesus<br/></lines>
+    </verse>
+    <verse name="e1">
+      <lines>We trust You, Jesus<br/>We trust You, Jesus<br/>All of our trust is in You</lines>
+    </verse>
+    <verse name="e2">
+      <lines>We trust You, Jesus<br/>We trust You, Jesus<br/>Give us joy in believing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come be our hope, O God of hope<br/>All of our trust is in You<br/>Come be our hope, O God of hope<br/>Give us joy in believing</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Let not a wise man boast in his wisdom<br/>Let not a rich man boast in his riches<br/>But I will boast in knowing You<br/>You're gracious and faithful</lines>
+    </verse>
+  </lyrics>
+</song>

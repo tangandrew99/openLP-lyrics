@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:24">
+  <properties>
+    <titles>
+      <title>Holy</title>
+    </titles>
+    <authors>
+      <author>Shane and Shane</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>There is none holy like The Lord<br/>There is none be side You<br/>There is no fortress like our God<br/>Who was and is and is to come<br/>The beginning and the end<br/>Son of God, Son of Man<br/>There is no one like You Lord so holy</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Holy holy holy is The Lord<br/>All glory glory glory to the Lord<br/>Almighty, so worthy we give you all the praise<br/>Oh Lamb of God You're holy</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Holy Holy Holy<br/>Lord God almighty<br/>Worthy worthy worthy<br/>Of all the praise and glory</lines>
+    </verse>
+  </lyrics>
+</song>

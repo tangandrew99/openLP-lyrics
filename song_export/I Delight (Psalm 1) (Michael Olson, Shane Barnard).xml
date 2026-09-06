@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-03-02T16:56:06">
+  <properties>
+    <titles>
+      <title>I Delight (Psalm 1)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 o1 o2</verseOrder>
+    <authors>
+      <author>Shane Barnard</author>
+      <author>Michael Olson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, You are a stream of purest water<br/>Blessing grows in beauty by Your side<br/>From the rising of the sun <br/>Until the day is done<br/>In Your Word, oh Lord, I will abide</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I delight in You, I delight in You<br/>Like water, You satisfy my soul<br/>I delight in You, I delight in You<br/>Oh day and night, I delight in You</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Keep me from the counsel of the wicked<br/>Keep Your light upon the ancient path<br/>The chaff will blow away<br/>And all the flowers fade<br/>But only You and Your word will last</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, You know my heart is prone to wander<br/>Lord, You know my feet have gone astray<br/>Though my flesh may fail<br/>Every sin was nailed to the cross<br/>Now I will sing</lines>
+    </verse>
+    <verse name="o1">
+      <lines>I want to be like a tree<br/>Planted by the streams of purest water<br/>Whose leaf does not wither<br/>So I will build my house upon the rock<br/>Of Your word and not on sinking sand<br/>So I will stand</lines>
+    </verse>
+    <verse name="o2">
+      <lines>You have loved me with an everlasting love<br/>You have drawn me with Your lovingkindness</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>The world will pass away <br/>And all the flowers fade<br/>But only You and Your word will last</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:28">
+  <properties>
+    <titles>
+      <title>You Are Faithful To Us</title>
+    </titles>
+    <authors>
+      <author>Earno</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You are faithful to us, O God<br/>You are faithful to us</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You are who You say You are<br/>You are who You say You are<br/>You are who You say You are, O God</lines>
+    </verse>
+  </lyrics>
+</song>

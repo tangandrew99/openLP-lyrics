@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:23">
+  <properties>
+    <titles>
+      <title>Cry In My Heart</title>
+    </titles>
+    <authors>
+      <author>Starfield</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>For what do I have if I don't have You, Jesus?<br/>What in this life, could mean anymore?<br/>You are my rock, You are my glory<br/>You are the lifter of my head<br/>Lifter of this head</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>There's a cry in my heart for Your glory to fall<br/>For Your presence to fill up my senses<br/>There's a yearning again, a thirst for discipline<br/>A hunger for things that are deeper</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Could You take me beyond?<br/>Could You carry me through?<br/>If I open my heart?<br/>Could I go there with You?</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>For I've been here before<br/>But I know there's still more<br/>Oh, Lord, I need to know You</lines>
+    </verse>
+  </lyrics>
+</song>

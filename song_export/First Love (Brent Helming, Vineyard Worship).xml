@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-03-29T16:56:23">
+  <properties>
+    <titles>
+      <title>First Love</title>
+    </titles>
+    <verseOrder>v1 c1 e1</verseOrder>
+    <authors>
+      <author>Vineyard Worship</author>
+      <author>Brent Helming</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Be my first love<br/>Be my first love<br/>Light a way for my feet<br/>And wash me in Your words of life</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Holy Spirit give me a passion<br/>For the Son of God<br/>Holy Spirit give me a passion<br/>For the Son of God</lines>
+    </verse>
+    <verse name="e1">
+      <lines>My heart cries Jesus, Jesus<br/>Jesus Lord<br/>My heart cries Jesus, Jesus<br/>Jesus, Lord of my life</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Be my first love<br/>Be my first love<br/>Fill my heart with desire<br/>For holy fire to burn within</lines>
+    </verse>
+  </lyrics>
+</song>

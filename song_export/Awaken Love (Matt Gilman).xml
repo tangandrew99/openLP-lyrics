@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-12-03T17:51:40">
+  <properties>
+    <titles>
+      <title>Awaken Love</title>
+    </titles>
+    <authors>
+      <author>Matt Gilman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From eternity, Lord You dreamed of me<br/>From eternity, You Loved me completely</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I want my heart to burn within me<br/>I want to love You like You loved me<br/>I want my heart to burn within me<br/>Awaken love<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Waters cannot quench love<br/>Floods cannot drown it<br/>Love is strong as death<br/>As jealous as the grave</lines>
+    </verse>
+    <verse name="b1">
+      <lines>This was the joy set before You<br/>That You would have my heart forever</lines>
+    </verse>
+    <verse name="o1">
+      <lines>The same love that You had for Your Son<br/>Burn it in my heart until we are one</lines>
+    </verse>
+    <verse name="e1">
+      <lines>It's the joy of being love sick <br/>The pleasures of loving You</lines>
+    </verse>
+  </lyrics>
+</song>

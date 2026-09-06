@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-05-19T16:44:17">
+  <properties>
+    <titles>
+      <title>For Your Glory / Send the Winds</title>
+    </titles>
+    <authors>
+      <author>Mia Booker</author>
+      <author>Jaye Thomas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, if I find favor in Your sight<br/>Lord, please hear my heart's cry</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I'm desperately waiting<br/>To be where You are<br/>I'll cross the hottest desert<br/>I'll travel near or far</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For Your glory<br/>I will do anything<br/>Just to see You<br/>To behold You as my King</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Send the winds of refreshing<br/>God, send Your Spirit<br/>Send the winds of refreshing<br/>God, send Your glory down</lines>
+    </verse>
+    <verse name="o1a">
+      <lines>I wanna be where You are<br/>I gotta be where You are<br/>I wanna be where You are<br/>I gotta be where You are</lines>
+    </verse>
+    <verse name="o1b">
+      <lines>For Your name, for Your holy name, O God<br/>Pour Your Spirit among us<br/>For Your name, for Your holy name, O God<br/>Prove Yourself holy among us</lines>
+    </verse>
+  </lyrics>
+</song>

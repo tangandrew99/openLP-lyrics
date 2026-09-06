@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:27">
+  <properties>
+    <titles>
+      <title>Rising Sun</title>
+    </titles>
+    <authors>
+      <author>Leslie Jordan</author>
+      <author>David Leonard</author>
+      <author>Kyle Lee</author>
+      <author>Paul Mabury</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise Him all you sinners<br/>Sing, oh sing you weary<br/>Oh praise Him all you children of God<br/><br/>We lift high His glory<br/>Shown throughout our stories<br/>We praise Him as the children of God</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Our great Redeemer, glorious Savior<br/>Your name is higher than the rising sun<br/>Light of the morning, You shine forever<br/>Your name is higher than the rising sun<br/>Your name is higher than the rising sun</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise His name forever<br/>Speak it loud and clear now<br/>Oh praise Him all you children of God</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Hallelujah, name above all<br/>Simply to speak Your name is praise<br/>Hallelujah, now and always<br/>Forever we lift Your name in praise<br/>Hallelujah, our God You reign<br/>Simply to speak Your name is praise</lines>
+    </verse>
+    <verse name="o1">
+      <lines>There's no other name<br/>Every other name bows<br/>To the name of Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

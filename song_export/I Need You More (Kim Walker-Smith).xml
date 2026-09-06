@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-10T18:47:27">
+  <properties>
+    <titles>
+      <title>I Need You More</title>
+    </titles>
+    <authors>
+      <author>Kim Walker-Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I need You more, more than yesterday<br/>I need You more, more than words can say<br/>I need You more than ever before<br/>I need You, Lord <br/>I need You, Lord</lines>
+    </verse>
+    <verse name="v1">
+      <lines>More than the air I breathe, more than the song I sing<br/>More than the next heartbeat, more than anything<br/>And Lord as time goes by, I'll be by Your side<br/>Cause I never want to go back <br/>To my old life</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Right here in Your presence Is where I belong<br/>This old broken heart Has finally found a home<br/>And I'll never be alone</lines>
+    </verse>
+    <verse name="e1">
+      <lines>More than the air I breathe<br/>More than the song I sing<br/>More than anything<br/>I need you more</lines>
+    </verse>
+  </lyrics>
+</song>

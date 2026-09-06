@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:28">
+  <properties>
+    <titles>
+      <title>Yearn</title>
+    </titles>
+    <authors>
+      <author>Shane Everett</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy design, this place in time<br/>That I might seek and find my God<br/>My God</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lord, I want to yearn for You<br/>I want to burn with passion over You <br/>And only You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your joy is mine<br/>Yet why am I fine<br/>With all my singing and bringing grain<br/>In light of Him</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Oh You give life and breath<br/>In You we live and move<br/>That’s why I sing</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Be near, oh God<br/>Be near, oh God of us<br/>Your nearness is to us our good</lines>
+    </verse>
+  </lyrics>
+</song>

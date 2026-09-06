@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:23">
+  <properties>
+    <titles>
+      <title>Beauty for Ashes</title>
+    </titles>
+    <authors>
+      <author>Shane Barnard</author>
+      <author>Kendall Combes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Beauty for ashes<br/>A garment of praise for my heaviness<br/>Beauty for ashes<br/>Take this heart of stone and make it Yours</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I delight myself in the richest of fare<br/>Trading all that I have for all that is better<br/>A garment of praise for my heaviness<br/>You are the greatest taste<br/>You're the richest of fare</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:28">
+  <properties>
+    <titles>
+      <title>Treasure</title>
+    </titles>
+    <authors>
+      <author>Jaye Thomas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are my treasure<br/>My greatest pleasure<br/>Is the knowledge of God<br/>Written on my heart</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>It's the glory of God to hide<br/>It's the glory of God to hide<br/>But it's my glory to search you out</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>You are the prize<br/>You are my exceeding great reward</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I will press toward the mark<br/>For the prize of the high calling in Christ<br/>You're my exceeding great reward</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:28">
+  <properties>
+    <titles>
+      <title>The More I Seek You</title>
+    </titles>
+    <authors>
+      <author>Zach Neese</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The more I seek You<br/>The more I find You<br/>The more I find You<br/>The more I love You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I want to sit at Your feet<br/>Drink from the cup in Your hands<br/>Lay back against You and breathe<br/>Feel Your heartbeat<br/><br/>This love is so deep<br/>It's more than I can stand<br/>I melt in Your peace<br/>It's overwhelming</lines>
+    </verse>
+  </lyrics>
+</song>

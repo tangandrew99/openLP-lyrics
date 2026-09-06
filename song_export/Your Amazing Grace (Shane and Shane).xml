@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-05-10T16:08:42">
+  <properties>
+    <titles>
+      <title>Your Amazing Grace</title>
+    </titles>
+    <authors>
+      <author>Shane and Shane</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Your goodness and love and your mercy<br/>Is always outrunning my sin<br/>And when I fall short of your glory<br/>Your kindness leads me to repent<br/>Again and again and again<br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Your amazing grace<br/>Is on display<br/>For all who would believe<br/>And the evidence<br/>Is found in this<br/>That you would die for me<br/></lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Your grace it flows down for the sinner<br/>I'm grateful cause that's who I am<br/>If you could save me from my failure<br/>I know you could save all of them<br/>Remind me again and again<br/></lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Amazing grace how sweet the sound<br/>That saved a wretch like me<br/>I once was lost but now I'm found<br/>Was blind but now I see</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-10-26T16:33:12">
+  <properties>
+    <titles>
+      <title>Only By the Blood</title>
+    </titles>
+    <verseOrder>v1 c1 v2</verseOrder>
+    <authors>
+      <author>Jeff Nelson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Only by the blood of the Lamb.<br/>Only by the blood of the Lamb.<br/>We've overcome,<br/>In His grace we now stand.<br/>Only by the blood of the Lamb</lines>
+    </verse>
+    <verse name="v1">
+      <lines>There was nothing we could do to make a way.<br/>We were dead till He gave us life.<br/>Now we're raised with Christ by His gift of grace.<br/>It was for love that He sacrificed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We were enslaved by the nature of sin.<br/>We were strangers to the household of faith.<br/>Now we're seated with Him in a heavenly place<br/>We're His Beloved, the heirs of His grace.</lines>
+    </verse>
+  </lyrics>
+</song>

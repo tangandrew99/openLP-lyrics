@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:25">
+  <properties>
+    <titles>
+      <title>I Need Thee Every Hour</title>
+    </titles>
+    <authors>
+      <author>Robert Lowry</author>
+      <author>Annie S. Hawkins</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I need Thee ev'ry hour,<br/>Most gracious Lord;<br/>No tender voice like Thine<br/>Can peace afford.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I need Thee, oh, I need Thee;<br/>Ev'ry hour I need Thee;<br/>Oh, bless me now, my Savior,<br/>I come to Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I need Thee ev'ry hour,<br/>Stay Thou nearby;<br/>Temptations lose their pow’r<br/>When Thou art nigh.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I need Thee ev'ry hour,<br/>In joy or pain;<br/>Come quickly and abide,<br/>Or life is vain.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I need Thee ev'ry hour,<br/>Teach me Thy will;<br/>And Thy rich promises<br/>In me fulfill.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-09-20T01:18:24">
+  <properties>
+    <titles>
+      <title>Have the Glory</title>
+    </titles>
+    <authors>
+      <author>Jon Thurlow</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I wanna be the good soil, <br/>That Your word falls into<br/>I wanna be the good soil, <br/>Bearing thirty, sixty, a hundred times more fruit</lines>
+    </verse>
+    <verse name="b1">
+      <lines>If I choose to die, and I'll find new life<br/>Cause I'm crucified with the living Christ</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Let my manner of living be a witness that You're alive</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>In my life would You have the glory</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>The only way I look like You in the living<br/>Is to choose the dying, I choose the dying</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>If the fruits gonna come from my life<br/>Then I know that it's gonna come when I die to myself, to myself</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Now I lay me down to sleep<br/>Now it's time to die to me</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>My mind was made to think about You<br/>My eyes were made to gaze upon You<br/>My heart was made to love and adore You<br/>My mouth was made to give You the Glory</lines>
+    </verse>
+  </lyrics>
+</song>

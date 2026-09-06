@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-10T16:25:00">
+  <properties>
+    <titles>
+      <title>The Wonderful Cross</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+      <author>Jesse Reeves</author>
+      <author>Isaac Watts</author>
+      <author>J.D. Walt</author>
+      <author>Lowell Mason</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I survey the wondrous cross<br/>On which the Prince of Glory died<br/>My richest gain I count but loss<br/>And pour contempt on all my pride</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Forbid it, Lord, that I should boast<br/>Save in the death of Christ my God<br/>All the vain things that charm me most<br/>I sacrifice them to His blood</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O the wonderful cross, O the wonderful cross<br/>Bids me come and die, to find that I may truly live<br/>O the wonderful cross, O the wonderful cross<br/>All who gather here by grace, draw near and bless Your name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>See from His head, His hands, His feet<br/>Sorrow and love flow mingled down<br/>Did e’er such love and sorrow meet<br/>Or thorns compose so rich a crown</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Were the whole realm of nature mine<br/>That were an offering far too small<br/>Love so amazing, so divine<br/>Demands my soul, my life, my all</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Thank You for the wounds in Your side<br/>You made a way for me<br/>You made a way for me</lines>
+    </verse>
+    <verse name="o2">
+      <lines>I have a High Priest who has passed through the heavens<br/>I have a High Priest who has made intercession<br/>I have a High Priest, through His body He made away</lines>
+    </verse>
+  </lyrics>
+</song>

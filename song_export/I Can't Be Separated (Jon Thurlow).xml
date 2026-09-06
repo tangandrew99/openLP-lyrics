@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-09-07T16:46:30">
+  <properties>
+    <titles>
+      <title>I Can't Be Separated</title>
+    </titles>
+    <authors>
+      <author type="words">Jon Thurlow</author>
+      <author type="music">Jon Thurlow</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I can't be separated from this love, the love of Jesus<br/>I can't be separated <br/>You love me so, so well</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Precious blood<br/>The blood of the Lamb<br/>Precious blood<br/>Poured out for us</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>All of my days Your mercies follow me follow me<br/>I'll never be the same cause the way You love on me, love on me<br/>All of my days Your mercies follow me, follow me<br/>You love me so, so well</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>You give me joy<br/>Down deep in my soul <br/>Down deep in my soul<br/>Down deep in my soul</lines>
+    </verse>
+  </lyrics>
+</song>

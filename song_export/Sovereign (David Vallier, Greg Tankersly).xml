@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:27">
+  <properties>
+    <titles>
+      <title>Sovereign</title>
+    </titles>
+    <authors>
+      <author>David Vallier</author>
+      <author>Greg Tankersly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Though I walk through the midst of my trouble<br/>You will fill Your purpose in me<br/>I lift my head from the dirt and see those eyes<br/>I feel a peace in the wind to my surprise</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are sovereign, Lord, and I bless You<br/>You are perfect in nature</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the valleys and the shadows<br/>You have set a table for me<br/>Though it’s hard to see I will follow<br/>I give it to You, I give it to You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You won’t let me go<br/>You won’t let me go</lines>
+    </verse>
+    <verse name="o1">
+      <lines>You declare the end from the beginning<br/>You alone are God</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-12-14T17:40:04">
+  <properties>
+    <titles>
+      <title>I Could Sing of Your Love Forever</title>
+    </titles>
+    <authors>
+      <author>Martin Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Over the mountains and the seas<br/>Your river runs with love for me<br/>And I will open up my heart and let the Healer set me free<br/><br/>I'm happy to be in the truth<br/>And I will daily lift my hands<br/>For I will always sing of when Your love came down</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I could sing of Your love forever<br/>I could sing of Your love forever</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Oh I feel like dancing<br/>It's foolishness, I know<br/>But when the world has seen the light<br/>They will dance with joy like we're dancing now</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>There's a banner over you<br/>There's a banner over me<br/>There's a banner over us<br/>It's love, love, love</lines>
+    </verse>
+  </lyrics>
+</song>

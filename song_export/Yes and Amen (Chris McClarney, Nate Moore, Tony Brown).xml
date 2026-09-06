@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-04-05T01:50:19">
+  <properties>
+    <titles>
+      <title>Yes and Amen</title>
+    </titles>
+    <authors>
+      <author>Nate Moore</author>
+      <author>Chris McClarney</author>
+      <author>Tony Brown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Father of kindness, You have poured out grace<br/>You brought me out of darkness<br/>You have filled me with peace<br/>Giver of mercy, You're my help in time of need<br/>Lord, I can't help but sing</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Faithful You are<br/>Faithful forever You will be<br/>Faithful You are<br/>All Your promises are yes and amen<br/>All Your promises are yes and amen</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beautiful Savior, You have brought me near<br/>You pulled me from the ashes<br/>You have broken every curse<br/>Blessed Redeemer, You have set this captive free<br/>Lord, I can't help but sing</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I will rest in Your promises<br/>My confidence is Your faithfulness</lines>
+    </verse>
+    <verse name="b2">
+      <lines>We say yes to Your promises<br/>Our confidence is Your faithfulness</lines>
+    </verse>
+    <verse name="b3">
+      <lines>I will rest in Your promises<br/>My confidence is what You said</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>All Your promises are yes and amen<br/>All Your promises are yes and amen</lines>
+    </verse>
+  </lyrics>
+</song>

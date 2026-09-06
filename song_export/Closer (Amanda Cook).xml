@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:23">
+  <properties>
+    <titles>
+      <title>Closer</title>
+    </titles>
+    <authors>
+      <author>Amanda Cook</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your love has ravished my heart<br/>And taken me over, taken me over<br/>And all I want is to be<br/>With You forever, with You forever</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pull me a little closer, take me a little deeper<br/>I want to know Your heart<br/>I want to know Your heart<br/><br/>Your love is so much sweeter than anything I’ve tasted<br/>I want to know Your heart<br/>I want to know Your heart</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Whoa, whoa<br/>How great Your love is for me<br/>Whoa, whoa<br/>How great is Your love</lines>
+    </verse>
+  </lyrics>
+</song>

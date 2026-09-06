@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-12-14T17:46:13">
+  <properties>
+    <titles>
+      <title>Spontaneous</title>
+    </titles>
+    <authors>
+      <author type="words">David Choi</author>
+      <author type="music">David Choi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You give joy unspeakable<br/>And life forevermore<br/>And love unsearchable<br/>And mercies unending</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your mercies unending<br/>New every morning</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You overwhelm my soul<br/>With lovingkindness</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>It's who You are<br/>It's what You love to do<br/>It's what You do, Lord<br/>I'm leaning to You</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>I was an orphan, You gave a family<br/>I was an enemy and You made Your friend<br/>Hallelujah!</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Your mercies unending<br/>Your mercies unending<br/>New every morning<br/>New every morning</lines>
+    </verse>
+  </lyrics>
+</song>

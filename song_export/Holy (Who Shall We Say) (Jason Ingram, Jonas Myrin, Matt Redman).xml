@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:24">
+  <properties>
+    <titles>
+      <title>Holy (Who Shall We Say)</title>
+    </titles>
+    <authors>
+      <author>Matt Redman</author>
+      <author>Jonas Myrin</author>
+      <author>Jason Ingram</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What heart could hold the weight of Your love<br/>And know the heights of Your great worth<br/>What eyes could look on Your glorious face<br/>Shining like the sun</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are holy, holy, holy<br/>God most high and God most worthy<br/>You are holy, holy, holy<br/>Jesus, You are<br/>Jesus, You are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your name alone has power to raise us<br/>Your light will shine when all else fades<br/>Our eyes will look on Your glorious face<br/>Shining like the sun<br/>Who is like You, God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And You will come again in glory<br/>To judge the living and the dead<br/>All eyes will look on Your glorious face<br/>Shining like the sun<br/>Who is like You, God</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Who shall we say You are<br/>You're the living God<br/>Who shall we say You are<br/>You're the Great I Am<br/>The highest name of all<br/>You're all You say You are</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Our God is an awesome God<br/>He reigns from heaven above<br/>With wisdom, power, and love<br/>Our God is an awesome God</lines>
+    </verse>
+  </lyrics>
+</song>

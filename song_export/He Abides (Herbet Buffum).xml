@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:24">
+  <properties>
+    <titles>
+      <title>He Abides</title>
+    </titles>
+    <authors>
+      <author>Herbet Buffum</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’m rejoicing night and day,<br/>As I walk the pilgrim way,<br/>For the hand of God in all my life I see,<br/>And the reason for my bliss,<br/>Yes, the secret all is this:<br/>That the Comforter abides with me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He abides, He abides,<br/>Hallelujah, He abides with me!<br/>I’m rejoicing night and day,<br/>As I walk the narrow way,<br/>For the Comforter abides with me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Once my heart was full of sin,<br/>Once I had no peace within,<br/>Till I heard how Jesus died upon the tree;<br/>Then I fell down at His feet,<br/>And there came a peace so sweet,<br/>Now the Comforter abides with me.</lines>
+    </verse>
+  </lyrics>
+</song>

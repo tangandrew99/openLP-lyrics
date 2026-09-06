@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:28">
+  <properties>
+    <titles>
+      <title>The Precious Blood</title>
+    </titles>
+    <authors>
+      <author type="words">Sovereign Grace Music</author>
+      <author type="music">Sovereign Grace Music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Before the cross I kneel and see<br/>The measure of my sin<br/>How You became a curse for me<br/>Though You were innocent<br/>The magnitude of Your great love<br/>Was shown in full degree<br/>When righteous blood, the crimson spill<br/>Rained down from Calvary</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh, the precious blood<br/>That flowed from Mercy’s side<br/>Washed away my sin<br/>When Christ my Savior died<br/>Oh, the precious blood<br/>Of Christ the crucified<br/>It speaks for me before Your throne<br/>Where I stand justified</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And who am I that I should know<br/>This treasure of such worth<br/>My Savior’s pure atoning blood<br/>Shed for the wrath I’d earned<br/>For sin has stained my every deed<br/>My every word and thought<br/>What wondrous love that makes me one<br/>Your priceless blood has bought</lines>
+    </verse>
+    <verse name="b1">
+      <lines>A crown of thorns, pierced hands and feet<br/>A body bruised, and Mercy’s plea</lines>
+    </verse>
+  </lyrics>
+</song>

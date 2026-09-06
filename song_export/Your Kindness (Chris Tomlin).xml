@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-08-02T01:29:15">
+  <properties>
+    <titles>
+      <title>Your Kindness</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Open up the skies of mercy<br/>And rain down the cleansing flood<br/>Healing waters rise around us<br/>Hear our cries, Lord, let 'em rise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's Your kindness, Lord<br/>That leads us to repentance<br/>Your favor, Lord, is our desire<br/>It's Your beauty, Lord<br/>That makes us stand in silence<br/>Your love, Your love<br/>Is better than life</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We can feel Your mercy falling<br/>You are turning our hearts back again<br/>Hear our praises rise to heaven<br/>Draw us near, Lord<br/>Meet us here</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I just want to praise You<br/>Lift my hands and say I love You<br/>You are everything to me<br/>And I exalt Your holy name on high<br/>And I exalt Your holy name<br/>I exalt Your holy name<br/>I exalt Your holy name on high<br/> <br/></lines>
+    </verse>
+  </lyrics>
+</song>

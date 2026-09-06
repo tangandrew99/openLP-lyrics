@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:23">
+  <properties>
+    <titles>
+      <title>Came to My Rescue</title>
+    </titles>
+    <authors>
+      <author>Marty Sampson</author>
+      <author>Dylan Thomas</author>
+      <author>Joel Davies</author>
+    </authors>
+    <themes>
+      <theme>Faith &amp; Trust</theme>
+      <theme>Devotion</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Falling on my knees in worship<br/>Giving all I am to seek Your face<br/>Lord, all I am is Yours</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My whole life I place in Your hands<br/>God of mercy, humbled I bow down<br/>In Your presence at Your throne</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I called, You answered<br/>And You came to my rescue<br/>And I want to be where You are</lines>
+    </verse>
+    <verse name="b1">
+      <lines>In my life be lifted high<br/>In our world be lifted high<br/>In our love be lifted high</lines>
+    </verse>
+  </lyrics>
+</song>

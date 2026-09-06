@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:28">
+  <properties>
+    <titles>
+      <title>We Want to See Jesus Lifted High</title>
+    </titles>
+    <authors>
+      <author type="words">Noel Richards</author>
+      <author type="music">Noel Richards</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>We want to see Jesus lifted high<br/>A banner that flies across this land<br/>That all men might see the truth and know<br/>That He is the way to heaven</lines>
+    </verse>
+    <verse name="v1">
+      <lines>We want to see, we want to see<br/>We want to see Jesus lifted high<br/>We want to see, we want to see<br/>We want to see Jesus lifted high</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Step by step we're moving forward<br/>Little by little taking ground<br/>Every prayer a powerful weapon<br/>Strongholds come tumbling down and down and down</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We're gonna see, we're gonna see<br/>We're gonna see Jesus lifted high<br/>We're gonna see, we're gonna see<br/>We're gonna see Jesus lifted high</lines>
+    </verse>
+  </lyrics>
+</song>

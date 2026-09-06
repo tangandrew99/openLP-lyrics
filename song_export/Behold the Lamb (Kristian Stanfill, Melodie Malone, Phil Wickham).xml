@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:23">
+  <properties>
+    <titles>
+      <title>Behold the Lamb</title>
+    </titles>
+    <authors>
+      <author>Phil Wickham</author>
+      <author>Kristian Stanfill</author>
+      <author>Melodie Malone</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>See Him there, the great I Am<br/>A crown of thorns upon His head<br/>The Father’s heart displayed for us<br/>O God, we thank You for the cross</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lifted up on Calvary’s hill<br/>We cursed Your name and even still<br/>You bore our shame and paid the cost<br/>O God, we thank You for the cross</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Behold the Lamb<br/>The story of redemption written on His hands<br/>Jesus, You will reign forevermore<br/>The victory is Yours<br/><br/>We sing Your praise<br/>Endless hallelujahs to Your holy name<br/>Jesus, You will reign forevermore<br/>The victory is Yours</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Offer up this sacrifice<br/>For every sin our Savior died<br/>The Lord of life can’t be contained<br/>Our God has risen from the grave</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When the age of death is done<br/>We’ll see Your face, bright as the sun<br/>We’ll bow before the King of kings<br/>O God, forever we will sing</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-06-05T01:10:25">
+  <properties>
+    <titles>
+      <title>This Is Who I Am</title>
+    </titles>
+    <authors>
+      <author>Bethany Barnard</author>
+      <author>Shane Barnard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am a new creation<br/>The old has passed away<br/>And I'm made new, I'm made new<br/>I have been adopted<br/>The door has opened up for me<br/>To know You, be like You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>This is who I am, I've been born again<br/>The cross is my defense, my hope secure<br/>Now my life is in Your hand<br/>On Your every word I stand<br/>Lord, I'm finding who I am<br/>In all You are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When my heart condemns me<br/>And tells me I am guilty<br/>You're greater, You're greater<br/>Jesus, You have searched me<br/>And even in Your finding<br/>You have loved me, You love me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>For He made Him who knew no sin to be sin<br/>On our behalf was crucified<br/>Oh that we could be the righteousness<br/>Of our Creator</lines>
+    </verse>
+    <verse name="e1">
+      <lines>I am a new creation<br/>The old has passed away<br/>And I'm made new, I'm made new</lines>
+    </verse>
+  </lyrics>
+</song>

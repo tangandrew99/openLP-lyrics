@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:24">
+  <properties>
+    <titles>
+      <title>He's Alive</title>
+    </titles>
+    <authors>
+      <author>Anna Asbury</author>
+      <author>Caleb Culver</author>
+      <author>Cory Asbury</author>
+      <author>Daniel Bashta</author>
+      <author>James David Whitworth</author>
+      <author>James Wells</author>
+      <author>Laura Hackett Park</author>
+      <author>Seth Yates</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is no power in heaven or hell<br/>That could keep me from the love<br/>Of the Father on His throne</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Chains of sin can't hold me down<br/>Even death itself can't keep me in the ground</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Death, where is your sting<br/>Grave, where is your victory<br/><br/>He's alive, He's alive<br/>He is risen</lines>
+    </verse>
+    <verse name="b1">
+      <lines>My God's not dead, He's surely alive<br/>He's living on the inside<br/>Roaring like a lion</lines>
+    </verse>
+    <verse name="b2">
+      <lines>He's alive, now I'm alive<br/>He's alive, now I'm alive<br/>He's alive, now I'm alive<br/>And I will never die</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:25">
+  <properties>
+    <titles>
+      <title>Just To Be Close To You</title>
+    </titles>
+    <authors>
+      <author>Fred Hammond</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Just to be close to you, just to be close to you<br/>Just to be close to you<br/>Is my desire</lines>
+    </verse>
+  </lyrics>
+</song>

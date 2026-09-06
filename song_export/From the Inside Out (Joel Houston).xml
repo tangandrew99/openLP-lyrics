@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:24">
+  <properties>
+    <titles>
+      <title>From the Inside Out</title>
+    </titles>
+    <authors>
+      <author>Joel Houston</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A thousand times I've failed, Your mercy remains<br/>And should I stumble again, I'm caught in Your grace<br/>Everlasting, Your light will shine when all else fades<br/>Never-ending, Your glory goes beyond all fame</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your will above all else, my purpose remains<br/>The art of losing myself in bringing You praise<br/>Everlasting, Your light will shine when all else fades<br/>Never-ending, Your glory goes beyond all fame</lines>
+    </verse>
+    <verse name="p1">
+      <lines>In my heart and my soul<br/>I give You control<br/>Consume me from the inside out, Lord<br/><br/>Let justice and praise<br/>Become my embrace<br/>To love You from the inside out</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Everlasting, Your light will shine when all else fades<br/>Never-ending, Your glory goes beyond all fame<br/>And the cry of my heart is to bring You praise<br/>From the inside out, Lord, my soul cries out</lines>
+    </verse>
+  </lyrics>
+</song>

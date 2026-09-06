@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:29">
+  <properties>
+    <titles>
+      <title>Your Faithfulness</title>
+    </titles>
+    <authors>
+      <author type="words">Jon Thurlow</author>
+      <author type="music">Jon Thurlow</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I remember Your faithfulness to Noah,<br/>I remember Your faithfulness to Moses,<br/>I remember Your faithfulness to David,<br/>I remember Your faithfulness to me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I remember that rainbow<br/>How Your presence when with him<br/>Your sure and steadfast mercies<br/>You have never left me, Lord</lines>
+    </verse>
+    <verse name="o1">
+      <lines>No one, No one, no one<br/>there is none like You, Jesus</lines>
+    </verse>
+    <verse name="o2">
+      <lines>I've got love, joy, peace,  and righteousness in the Holy Spirit</lines>
+    </verse>
+  </lyrics>
+</song>

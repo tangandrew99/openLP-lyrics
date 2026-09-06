@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-09-01T16:28:13">
+  <properties>
+    <titles>
+      <title>Infinite Love of Christ</title>
+    </titles>
+    <authors>
+      <author>Bryan Fowler</author>
+      <author>Shane Barnard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>However high the north is from the south<br/>The measure of the Savior's love for us<br/>However far the east is from the west<br/>The measure of my Redeemer's love</lines>
+    </verse>
+    <verse name="c1">
+      <lines>How deep, how wide, how vast, how high<br/>Is the infinite love of Christ<br/>How strong, how sure, sufficient, secure<br/>Is the infinite love of Christ<br/>And it's infinitely mine</lines>
+    </verse>
+    <verse name="v2">
+      <lines>However deep the ocean of my sin<br/>My Savior's love is so much deeper still<br/>However far the chasm I have made<br/>He closed the gap, rising from the grave</lines>
+    </verse>
+    <verse name="b1">
+      <lines>How marvelous, how wonderful<br/>And my song shall ever be<br/>How marvelous, how wonderful<br/>Is my Savior's love for me</lines>
+    </verse>
+  </lyrics>
+</song>

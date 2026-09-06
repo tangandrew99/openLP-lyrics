@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-09-10T16:31:28">
+  <properties>
+    <titles>
+      <title>Alpha and Omega</title>
+    </titles>
+    <authors>
+      <author type="words">Israel &amp; New Breed</author>
+      <author type="music">Israel &amp; New Breed</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>We give you all the glory<br/>We worship You our Lord<br/>You are worthy to be praised</lines>
+    </verse>
+    <verse name="v1">
+      <lines>You are Alpha and Omega, sing<br/>We worship You, our Lord<br/>You are worthy to be praised (Sing it again)<br/>You are Alpha and Omega<br/>We worship You, our Lord<br/>You are worthy to be praised (We give You all the glory)</lines>
+    </verse>
+  </lyrics>
+</song>

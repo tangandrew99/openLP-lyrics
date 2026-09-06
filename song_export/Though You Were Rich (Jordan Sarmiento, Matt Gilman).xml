@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-21T16:32:36">
+  <properties>
+    <titles>
+      <title>Though You Were Rich</title>
+    </titles>
+    <authors>
+      <author>Jordan Sarmiento</author>
+      <author>Matt Gilman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Born a babe, a virgin birth<br/>My God the high and lofty One, <br/>You came to earth<br/>To be a slave, servant of all<br/>You washed my feet, You took my fall</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Though You were rich, You became poor<br/>That You would die, that I might live<br/>You poured out Your soul even to death<br/>Taking my sins just to forgive me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Then they led You down the road<br/>To a hill called Calvary<br/>You took the nails in Your hands and feet<br/>You drank the cup of wrath that was reserved for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Laid in the ground in a stone cold tomb<br/>The wrath of God resting on You<br/>You knew no sin, yet sin became<br/>From the foundation <br/>You are the Lamb who was slain</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Up from the grave You rose again<br/>You hold the keys of death and hell, <br/>You've conquered sin<br/>You paid my debt, a costly price<br/>I know that I will be with You in paradise</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Rightly do we love You<br/>Son of God, Son of Man<br/>Rightly do we love You, Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

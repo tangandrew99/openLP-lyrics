@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-02-05T02:38:50">
+  <properties>
+    <titles>
+      <title>We Fall Down</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>We fall down, we lay our crowns<br/>At the feet of Jesus<br/>The greatness of His mercy and love<br/>At the feet of Jesus</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We cry holy, holy, holy<br/>We cry holy, holy, holy<br/>We cry holy, holy, holy<br/>Is the Lamb</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>We cry worthy, worthy, worthy<br/>We cry worthy, worthy, worthy<br/>We cry worthy, worthy, worthy<br/>Is the Lamb</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>You are worthy, worthy, worthy<br/>You are worthy, worthy, worthy<br/>You are worthy, worthy, worthy<br/>Is the Lamb</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>You shall be holy as I am holy<br/>You shall be holy as I am holy<br/>You shall be holy as I am holy<br/>You shall be holy holy holy</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Who may ascend the hill of the Lord<br/>The one who has clean hands and a pure heart</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>I hear songs they're going forth<br/>I hear holy is the Lord</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>Is not My word like a refiner's fire</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>Holy</lines>
+    </verse>
+    <verse name="v1i">
+      <lines>You shall be holy as I am holy<br/>You shall be holy as I am holy, holy, holy</lines>
+    </verse>
+  </lyrics>
+</song>

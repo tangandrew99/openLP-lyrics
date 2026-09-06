@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:25">
+  <properties>
+    <titles>
+      <title>Holy Spirit</title>
+    </titles>
+    <authors>
+      <author type="words">Francesca Battistelli</author>
+      <author type="music">Francesca Battistelli</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="b1">
+      <lines>Let us become more aware of Your presence<br/>Let us experience the glory of Your goodness</lines>
+    </verse>
+    <verse name="v1">
+      <lines>There's nothing worth more<br/>That could ever come close<br/>No thing can compare<br/>You're our living hope<br/>Your presence, Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've tasted and seen<br/>Of the sweetest of loves<br/>Where my heart becomes free<br/>And my shame is undone<br/>Your presence, Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Holy Spirit, You are welcome here<br/>Come flood this place and fill the atmosphere<br/>Your glory, God, is what our hearts long for<br/>To be overcome by Your presence, Lord<br/>Your presence, Lord</lines>
+    </verse>
+  </lyrics>
+</song>

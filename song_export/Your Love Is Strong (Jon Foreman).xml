@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:29">
+  <properties>
+    <titles>
+      <title>Your Love Is Strong</title>
+    </titles>
+    <authors>
+      <author>Jon Foreman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Your love is, Your love is<br/>Your love is strong<br/>Your love is, Your love is<br/>Your love is strong</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Our Father in Heaven<br/>Hallowed be Thy name<br/>Above all names<br/>Thy kingdom come<br/>Thy will be done<br/><br/>Give us today our daily bread<br/>Forgive us weary sinners<br/>Keep us far from our vices<br/>And deliver us from these prisons</lines>
+    </verse>
+  </lyrics>
+</song>

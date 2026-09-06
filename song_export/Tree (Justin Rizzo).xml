@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:28">
+  <properties>
+    <titles>
+      <title>Tree</title>
+    </titles>
+    <authors>
+      <author>Justin Rizzo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Unmovable, unshakable<br/>Let my roots go down deep<br/>Unmovable, unshakable<br/>In You</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I want to be like a tree<br/>Planted by the streams<br/>Of living water</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>This will be my song God<br/>This will be my prayer<br/>Until the end, until the end</lines>
+    </verse>
+  </lyrics>
+</song>

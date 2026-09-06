@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-10-11T01:30:41">
+  <properties>
+    <titles>
+      <title>Worthy of Affection</title>
+    </titles>
+    <verseOrder>v1 c1 v2 b1 b2 e1</verseOrder>
+    <authors>
+      <author>Shane Barnard</author>
+      <author>Shane Everett</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Deliverer, You brought us out of the miry clay<br/>Set our feet upon the rock and You made us say<br/>Holy is the Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are worthy of affection<br/>You’re the radiance of all of His glory<br/>Let adoration fill this place<br/>You hold everything together<br/>By the word of Your immovable power<br/>We sing a song of praise</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>We are the broken down and we are the beaten up<br/>But what can stop us from a song of unending love<br/>Holy is the Lord<br/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>Worthy are You, Lord<br/>Worthy are You, Lord<br/>Worthy are You, Lord<br/>Of all praise</lines>
+    </verse>
+    <verse name="b2">
+      <lines>All glory to You, Lord<br/>All glory to You, Lord<br/>All glory to You, Lord<br/>Forevermore</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Holy are You, Lord<br/>Holy are You, Lord<br/>Holy are You, Lord</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>We would declare Your thoughts about us one by one<br/>They’d be too many to count, so we simply come<br/>And sing of Your great love<br/><br/>So we sing, we lift our hands and sing</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>You are the treasure, the hope, the bright and morning star<br/>You are the lover of our soul and You’ve won our hearts<br/>We sing of Your great love<br/><br/>So we sing, we lift our hands and sing</lines>
+    </verse>
+  </lyrics>
+</song>

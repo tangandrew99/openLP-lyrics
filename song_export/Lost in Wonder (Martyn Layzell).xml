@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-07-19T01:48:55">
+  <properties>
+    <titles>
+      <title>Lost in Wonder</title>
+    </titles>
+    <verseOrder>v1 b1 c1 v2 b2 c2</verseOrder>
+    <authors>
+      <author>Martyn Layzell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You chose the cross with ev’ry breath;<br/>The perfect life, the perfect death.<br/>You chose the cross.<br/><br/>A crown of thorns You wore for us,<br/>And crowned us with eternal life;<br/>You chose the cross.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I’m lost in wonder, I’m lost in love,<br/>I’m lost in praise forevermore.<br/>Because of Jesus’ unfailing love,<br/>I am forgiven, I am restored</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You loosed the cords of sinfulness,<br/>And broke the chains of my disgrace;<br/>You chose the cross.<br/><br/>Up from the grave victorious,<br/>You rose again so glorious;<br/>You chose the cross.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And though Your soul was overwhelmed with pain,<br/>Obedient to death, You overcame.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>The sorrow that surrounded You was mine.<br/>Yet, “Not My will, but Yours be done,” You cried.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I’m lost in wonder, I’m lost in love,<br/>I’m lost in praise forevermore.<br/>Because of Jesus, His precious blood<br/>I am forgiven, I am restored</lines>
+    </verse>
+  </lyrics>
+</song>

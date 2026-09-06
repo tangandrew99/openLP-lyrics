@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:25">
+  <properties>
+    <titles>
+      <title>Joyful, Joyful</title>
+    </titles>
+    <authors>
+      <author>Laura Hackett Park</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Joyful, Joyful, we adore Thee<br/>God of glory, Lord of love<br/>Hearts unfold like flow'rs before Thee<br/>Opening to the sun above</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Melt the clouds of sin and sadness<br/>Drive the dark of doubt away<br/>Giver of immortal gladness<br/>Fill us with the light of day!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>All Thy works with joy surround Thee<br/>Earth and heaven reflect Thy rays<br/>Stars and angels sing around Thee <br/>Center of unbroken praise</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Field and forest, vale and mountain<br/>Flowery meadow, flashing sea<br/>Singing birds and flowing fountains<br/>Call us to rejoice in Thee</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Mortals join this happy chorus<br/>Which the morning stars began <br/>Father love is reigning over us<br/>Brother love binds man to man</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ever singing march we onward<br/>Victors in the midst of strife<br/>Joyful music leads us sunward<br/>In the triumph song of life</lines>
+    </verse>
+    <verse name="o1">
+      <lines>I've got the joy, I've got the joy<br/>I've got the joy</lines>
+    </verse>
+    <verse name="o2">
+      <lines>In Your presence, O God<br/>There is fullness of joy <br/>At Your right hand, O God<br/>There are pleasures evermore</lines>
+    </verse>
+  </lyrics>
+</song>

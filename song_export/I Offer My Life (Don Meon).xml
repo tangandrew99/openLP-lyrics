@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-01-31T02:37:56">
+  <properties>
+    <titles>
+      <title>I Offer My Life</title>
+    </titles>
+    <authors>
+      <author>Don Meon</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, I offer my life to You<br/>Everything I've been through<br/>Use it for Your glory<br/>Lord I offer my days to You<br/>Lifting my praise to You<br/>As a pleasing sacrifice<br/>Lord, I offer You my life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Things in the past, things yet unseen<br/>Wishes and dreams that are yet to come true<br/>All of my hopes and all of my plans<br/>My heart and my hands are lifted to You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All that I am, all that I have<br/>I lay them down before You, O Lord<br/>All my regrets, all my acclaim<br/>The joy and the pain I'm making them Yours</lines>
+    </verse>
+  </lyrics>
+</song>

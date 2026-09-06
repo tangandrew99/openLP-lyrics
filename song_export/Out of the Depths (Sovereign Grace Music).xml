@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:27">
+  <properties>
+    <titles>
+      <title>Out of the Depths</title>
+    </titles>
+    <authors>
+      <author>Sovereign Grace Music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>So more than watchmen for the morning<br/>I will wait for You, my God<br/>When my fears come with no warning<br/>In Your Word I’ll put my trust<br/>When the harvest time is over and I still see no fruit<br/>I will wait, I will wait for You</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Out of the depths, O Lord, I cry to You<br/>When I am tempted to despair<br/>Though I might fail to trust Your promises<br/>You never fail to hear my prayer<br/>And if You judged my sin<br/>I’d never stand again<br/>But I see mercy in Your hands</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The secret mysteries belong to You<br/>We only know what You reveal<br/>And all my questions that are unresolved<br/>Don’t change the wisdom of Your will<br/>In every trial and loss<br/>My hope is in the cross<br/>Where Your compassions never fail</lines>
+    </verse>
+  </lyrics>
+</song>

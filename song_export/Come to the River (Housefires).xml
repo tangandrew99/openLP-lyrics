@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-03-29T18:20:46">
+  <properties>
+    <titles>
+      <title>Come to the River</title>
+    </titles>
+    <authors>
+      <author>Housefires</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="e1">
+      <lines>Oh, Oh my soul<br/>Thirst for You<br/>And You alone</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Come to the river<br/>Come to the river<br/>Taste and see</lines>
+    </verse>
+  </lyrics>
+</song>

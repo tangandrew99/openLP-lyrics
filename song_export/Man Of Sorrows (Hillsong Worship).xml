@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:26">
+  <properties>
+    <titles>
+      <title>Man Of Sorrows</title>
+    </titles>
+    <authors>
+      <author>Hillsong Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Man of sorrows, Lamb of God<br/>By His own betrayed<br/>The sin of man and wrath of God<br/>Has been on Jesus laid</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Silent as He stood accused<br/>Beaten, mocked, and scorned<br/>Bowing to the Father's will<br/>He took a crown of thorns</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Oh, that rugged cross, my salvation<br/>Where Your love poured out over me<br/>Now my soul cries out, "Hallelujah"<br/>"Praise and honour unto Thee"</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Sent of heaven God's own Son<br/>To purchase and redeem<br/>And reconcile the very ones<br/>Who nailed Him to that tree</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Now my debt is paid<br/>It is paid in full<br/>By the precious blood<br/>That my Jesus spilled<br/>Now the curse of sin<br/>Has no hold on me<br/>Whom the Son sets free<br/>Oh, is free indeed</lines>
+    </verse>
+  </lyrics>
+</song>

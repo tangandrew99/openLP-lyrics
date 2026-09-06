@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:24">
+  <properties>
+    <titles>
+      <title>Great Are You, Lord</title>
+    </titles>
+    <authors>
+      <author>David Leonard</author>
+      <author>Jason Ingram</author>
+      <author>Leslie Jordan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You give life, You are love<br/>You bring light to the darkness<br/>You give hope, You restore<br/>Every heart that is broken<br/><br/>Great are You, Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>It's Your breath in our lungs<br/>So we pour out our praise<br/>We pour out our praise<br/><br/>It's Your breath in our lungs<br/>So we pour out our praise<br/>To You only</lines>
+    </verse>
+    <verse name="b1">
+      <lines>All the earth will shout Your praise<br/>Our hearts will cry, these bones will sing<br/>Great are You, Lord</lines>
+    </verse>
+    <verse name="o1">
+      <lines>I won't let the rocks cry out<br/>I won't let the rocks cry out<br/>I'll pour out my praise, pour out my praise</lines>
+    </verse>
+  </lyrics>
+</song>

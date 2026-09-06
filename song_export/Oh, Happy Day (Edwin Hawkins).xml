@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-04-05T16:18:53">
+  <properties>
+    <titles>
+      <title>Oh, Happy Day</title>
+    </titles>
+    <authors>
+      <author>Edwin Hawkins</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Oh happy day<br/>Happy day<br/>You wash my sins away<br/><br/>Oh happy day<br/>Happy day<br/>I'll never be the same</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Forever I am changed</lines>
+    </verse>
+  </lyrics>
+</song>

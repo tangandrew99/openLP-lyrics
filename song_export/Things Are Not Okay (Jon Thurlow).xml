@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:28">
+  <properties>
+    <titles>
+      <title>Things Are Not Okay</title>
+    </titles>
+    <authors>
+      <author>Jon Thurlow</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is coming a day<br/>When the Bridegroom is taken away<br/>And in that day they will mourn<br/>In that day they will fast</lines>
+    </verse>
+    <verse name="v2">
+      <lines>They will say<br/>Things as they are are not okay<br/>When someone is missing<br/>Someone is absent</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Things are not okay right now<br/>Things are not okay right now<br/>Things are not okay right now<br/>Things are not okay</lines>
+    </verse>
+    <verse name="c1">
+      <lines>They won't be 'til You come back<br/>They won't be 'til You come back</lines>
+    </verse>
+    <verse name="o1">
+      <lines>I will embrace the ache of a lovesick heart<br/>I will embrace the ache of a lovesick heart</lines>
+    </verse>
+    <verse name="o2">
+      <lines>I'll stay here and fast for you<br/>I'll stay here and mourn for you<br/>I'll stay here and wait for you<br/>I'll stay here and watch for you</lines>
+    </verse>
+  </lyrics>
+</song>

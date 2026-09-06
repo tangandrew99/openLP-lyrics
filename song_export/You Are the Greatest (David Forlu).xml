@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:29">
+  <properties>
+    <titles>
+      <title>You Are the Greatest</title>
+    </titles>
+    <authors>
+      <author>David Forlu</author>
+    </authors>
+    <themes>
+      <theme>Praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lord, our Lord<br/>Your name is majesty<br/>Your glory is above the heavens<br/><br/>Your splendor is revealed<br/>Through the heavens and the earth<br/>We stand amazed at the gaze of this beauty</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He is the greatest<br/>He is the greatest<br/>Jesus is the greatest of all</lines>
+    </verse>
+    <verse name="b1">
+      <lines>No one can measure the greatness of our God<br/>No one can measure the greatness of our God<br/>No one can measure the greatness of our God<br/>No one can measure Your greatness</lines>
+    </verse>
+    <verse name="c2">
+      <lines>You are the greatest<br/>You are the greatest<br/>Jesus, You're the greatest of all</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:27">
+  <properties>
+    <titles>
+      <title>Set a Fire</title>
+    </titles>
+    <authors>
+      <author>Will Reagan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>No place I’d rather be<br/>No place I’d rather be<br/>No place I’d rather be<br/>Than here in Your love, here in Your love</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Set a fire down in my soul<br/>That I can’t contain, that I can’t control<br/>I want more of You, God<br/>I want more of You, God</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I want more, I want more<br/>I want more, I want more<br/>I want more, I want more<br/>Won’t You pour it out</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>No place I would rather be<br/>No place I would rather be<br/>No place I would rather be<br/>Than here in Your love, here in Your love</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Give us more of You, God<br/>Give us more of You, God</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>We want more of You, God<br/>We want more of You, God</lines>
+    </verse>
+  </lyrics>
+</song>

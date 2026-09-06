@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-02-25T05:54:46">
+  <properties>
+    <titles>
+      <title>Since Your Love</title>
+    </titles>
+    <authors>
+      <author>Andrea Marie Reagan</author>
+      <author>Brandon Hampton</author>
+      <author>Brock Human</author>
+      <author>Michael Ketterer</author>
+      <author>Will Reagan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are the light, song of my life<br/>You always lead me, You are the voice inside<br/>You are my love, no one before You<br/>All that I am points to You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I was made by You<br/>I was made for You<br/>I am unfulfilled<br/>Without full communion</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Since Your love got a hold of me<br/>Since Your love got a hold of me<br/>I’m a new creation<br/>I’m forever changed</lines>
+    </verse>
+    <verse name="b2">
+      <lines>In You is all I need<br/>You’re my breath, You’re my life<br/>You’re my everything</lines>
+    </verse>
+    <verse name="o1">
+      <lines>In You I have my being<br/>In You I have my being</lines>
+    </verse>
+    <verse name="o2">
+      <lines>No one else can love You like I love You, Lord<br/>For I was made unique in Your heart<br/>I was made to bring You joy</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Now I have a purpose<br/>Now I have a destiny<br/>You made me for Your glory<br/>You made me for Your glory</lines>
+    </verse>
+  </lyrics>
+</song>

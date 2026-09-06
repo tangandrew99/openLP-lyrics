@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:27">
+  <properties>
+    <titles>
+      <title>Psalm 61</title>
+    </titles>
+    <authors>
+      <author>Jon Thurlow</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Lead me to the rock that is higher than I<br/>For You have been my refuge for all of my life<br/><br/>So let me dwell in your house forever<br/>And I'll find my refuge in the shelter of Your wings</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Hear my cry, O Lord, and listen to my prayer<br/>You have been my strength against my enemies<br/><br/>For You have heard my vows<br/>And given me a portion with the ones who fear Your name</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>My soul waits<br/>For You alone<br/><br/>In You is <br/>My salvation</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>And from the ends of the earth I call out to You <br/>And when my heart is failing I'll call out to You</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-09-24T16:32:08">
+  <properties>
+    <titles>
+      <title>Strong Love</title>
+    </titles>
+    <authors>
+      <author type="words">Jon Thurlow</author>
+      <author type="music">Jon Thurlow</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Death nor life nor angels nor powers<br/>Present things nor things in the future<br/>Height nor depth nor any created thing<br/>Could separate me from Your love</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Your love is written on my heart<br/>There is not a flood that could quench this love<br/>Your love is stronger than the grave<br/>Death could never take me from this love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know the end of the story<br/>I'll come up from the wilderness<br/>Leaning on my Beloved</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your love is so high<br/>Your love is so wide<br/>Your love is so deep<br/>Your love is so long</lines>
+    </verse>
+  </lyrics>
+</song>

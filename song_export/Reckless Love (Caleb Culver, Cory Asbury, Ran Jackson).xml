@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:27">
+  <properties>
+    <titles>
+      <title>Reckless Love</title>
+    </titles>
+    <authors>
+      <author>Caleb Culver</author>
+      <author>Cory Asbury</author>
+      <author>Ran Jackson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Before I spoke a word, You were singing over me<br/>You have been so, so good to me<br/>Before I took a breath, You breathed Your life in me<br/>You have been so, so kind to me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh the overwhelming, never-ending, selfless love of God<br/>Oh it chases me down, fights ’til I’m found, leaves the ninety-nine<br/>I couldn’t earn it, I don’t deserve it, still You give Yourself away<br/>Oh the overwhelming, never-ending, selfess love of God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I was Your foe, still Your love fought for me<br/>You have been so, so good to me<br/>When I felt no worth, You paid it all for me<br/>You have been so, so kind to me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>There’s no shadow You won’t light up<br/>Mountain You won’t climb up<br/>Coming after me<br/>There’s no wall You won’t kick down<br/>Lie You won’t tear down<br/>Coming after me</lines>
+    </verse>
+  </lyrics>
+</song>

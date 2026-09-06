@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-01-19T02:42:29">
+  <properties>
+    <titles>
+      <title>New Jerusalem</title>
+    </titles>
+    <authors>
+      <author>Alexia Gilman</author>
+      <author>Matt Gilman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’m looking for a city<br/>Not made by human hands<br/>I’m longing for the garden<br/>Where God once walked with man<br/><br/>For eternity is written on my heart<br/>I’m longing for the day<br/>When we will never be apart</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Every tear will be wiped away<br/>There’ll be no sorrow, hurt, or pain<br/>There’ll be no more night<br/><br/>All things will be made new<br/>It will be a brand new day<br/>And in righteousness He’ll reign<br/>And the Lamb will be the light</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Behold, the tabernacle of God will be with man<br/>And He will be our God, and we will be His people<br/>And the bride, she will marry the Lamb<br/>But until that day, I’m longing for the New Jerusalem</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I looked and saw a city<br/>Descending down from heaven<br/>Prepared just like a bride for the Son of Man<br/><br/>There’s a day of gladness written on His heart<br/>He is longing for the day when we will never be apart</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I love the day of Your appearing<br/>I want to hasten Your return<br/>The Spirit and the bride say<br/>Come for Your beloved ones</lines>
+    </verse>
+  </lyrics>
+</song>

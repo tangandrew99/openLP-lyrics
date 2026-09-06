@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-31T17:06:00">
+  <properties>
+    <titles>
+      <title>It's time to do the things I used to do</title>
+    </titles>
+    <authors>
+      <author>Jon Thurlow</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>It’s time to do the things that I used to do<br/>Until my stagnant spirit begins to move<br/>No one can do it for me I have to choose<br/>So I’m asking help me God</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>There's only one thing really worth living for<br/>This is the one thing David did that’s for sure<br/>It’s all about beholding Your beauty Lord<br/>So I’m asking help me God</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I return with all of my heart<br/>I return to my first love</lines>
+    </verse>
+    <verse name="c2">
+      <lines>You say "return with all of your heart"<br/>You say "return to your first love"</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Help return to our first love</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-09-07T16:31:49">
+  <properties>
+    <titles>
+      <title>Bless the Lord</title>
+    </titles>
+    <authors>
+      <author>Will Reagan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Have Your way, have Your way, have Your way<br/>Have Your way, have Your way, have Your way</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bless the Lord, oh, my soul<br/>And let all that's within me shout out, shout out</lines>
+    </verse>
+    <verse name="e1">
+      <lines>We have come to give You glory<br/>We have come to give You praise<br/>You're welcome here, God</lines>
+    </verse>
+  </lyrics>
+</song>

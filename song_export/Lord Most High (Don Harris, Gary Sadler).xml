@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:26">
+  <properties>
+    <titles>
+      <title>Lord Most High</title>
+    </titles>
+    <ccliNo>2037688</ccliNo>
+    <authors>
+      <author>Don Harris</author>
+      <author>Gary Sadler</author>
+    </authors>
+    <themes>
+      <theme>Praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From the ends of the earth<br/>From the depths of the sea<br/>From the heights of the heavens<br/>Your name be praised</lines>
+    </verse>
+    <verse name="v2">
+      <lines>From the hearts of the weak<br/>From the shouts of the strong<br/>From the lips of all people<br/>This song we raise, Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Throughout the endless ages<br/>You will be crowned with praises<br/>Lord Most High<br/><br/>Exalted in every nation<br/>Sovereign of all creation<br/>Lord Most High<br/><br/>Be magnified</lines>
+    </verse>
+  </lyrics>
+</song>

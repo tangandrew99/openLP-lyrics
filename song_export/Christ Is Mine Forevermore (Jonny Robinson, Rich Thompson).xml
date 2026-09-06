@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-04-12T01:08:40">
+  <properties>
+    <titles>
+      <title>Christ Is Mine Forevermore</title>
+    </titles>
+    <authors>
+      <author>Jonny Robinson</author>
+      <author>Rich Thompson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Mine are days that God has numbered<br/>I was made to walk with Him<br/>Yet I look for worldly treasure<br/>And forsake the King of kings</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>But mine is hope in my Redeemer<br/>Though I fall, His love is sure<br/>For Christ has paid for every failing<br/>I am His forevermore</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Mine are tears in times of sorrow<br/>Darkness not yet understood<br/>Through the valley I must travel<br/>Where I see no earthly good</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>But mine is peace that flows from heaven<br/>And the strength in times of need<br/>I know my pain will not be wasted<br/>Christ completes His work in me</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Mine are days here as a stranger<br/>Pilgrim on a narrow way<br/>One with Christ, I will encounter<br/>Harm and hatred for His name</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>But mine is armor for this battle<br/>Strong enough to last the war<br/>And He has said He will deliver<br/>Safely to the golden shore</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>And mine are keys to Zion city<br/>Where beside the King I walk<br/>For there my heart has found its treasure<br/>Christ is mine forevermore</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Come rejoice now, oh my soul<br/>For His love is my reward<br/>Fear is gone and hope is sure<br/>Christ is mine forevermore</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-11-10T02:28:17">
+  <properties>
+    <titles>
+      <title>Only You</title>
+    </titles>
+    <authors>
+      <author>For All Seasons</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I just want you Jesus, only you<br/>Only you can satisfy my heart's desire</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Only You can satisfy my heart's desire, Jesus</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Everything I ever wanted I found in You</lines>
+    </verse>
+  </lyrics>
+</song>

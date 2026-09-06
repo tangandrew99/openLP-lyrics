@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:24">
+  <properties>
+    <titles>
+      <title>Even So, Come / Love Makes Us Strong</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+      <author>Jess Cates</author>
+      <author>Jason Ingram</author>
+      <author>Laura Hackett Park</author>
+    </authors>
+    <themes>
+      <theme>Devotion</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All of creation, all of the earth<br/>Make straight a highway, a path for the Lord<br/>Jesus is coming soon<br/><br/>Call back the sinner, wake up the saint<br/>Let every nation shout of Your fame<br/>Jesus is coming soon</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Like a bride waiting for her groom<br/>We’ll be a church ready for You<br/>Every heart longing for our King, we sing<br/><br/>Even so, come, Lord Jesus, come</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There will be justice, all will be new<br/>Your name forever, faithful and true<br/>Jesus is coming soon</lines>
+    </verse>
+    <verse name="b1">
+      <lines>So we wait, we wait for You<br/>God, we wait, You’re coming soon</lines>
+    </verse>
+    <verse name="o1">
+      <lines>We will watch, we will pray<br/>We will wait for that day<br/>Lamps are lit, oil is stored<br/>Hearts are burning, bridegroom Lord</lines>
+    </verse>
+    <verse name="o2">
+      <lines>We are the church, we are the bride<br/>Love makes us strong to lay down our lives</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Come bind us together in love while we wait<br/>Bind us together in love</lines>
+    </verse>
+    <verse name="o4">
+      <lines>Give me oil in my lamp<br/>Keep me burning, Lord, I pray<br/>Let me be ready for You<br/>Keep me burning 'til that day</lines>
+    </verse>
+  </lyrics>
+</song>

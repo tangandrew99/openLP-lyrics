@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-05-25T16:39:22">
+  <properties>
+    <titles>
+      <title>Where I Belong</title>
+    </titles>
+    <authors>
+      <author>Cory Asbury</author>
+      <author>Anna Asbury</author>
+      <author>Seth Yates</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your presence is all I am longing for<br/>Here in the secret place<br/>Your nearness is all I am waiting for<br/>Here in the quiet place<br/>Here in the secret place</lines>
+    </verse>
+    <verse name="p1">
+      <lines>My soul waits for You alone<br/>Like the watchmen wait for dawn<br/>Here I’ve finally found the place<br/>Where we’ll meet, Lord, face to face</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I’ve finally found where I belong<br/>I’ve finally found where I belong, in Your presence<br/>I’ve finally found where I belong<br/>It's to be with You, to be with You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I am my Beloved’s and He is mine<br/>So come into Your garden<br/>And take delight in me, take delight in me</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Delight in me<br/>Delight in me<br/>Delight in me<br/>Delight</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Here in Your presence, God<br/>I find my rest<br/>Here in Your presence, God</lines>
+    </verse>
+    <verse name="o1">
+      <lines>You're all I want<br/>You're all I've ever needed<br/>You're all I want<br/>Help me know You are near</lines>
+    </verse>
+  </lyrics>
+</song>

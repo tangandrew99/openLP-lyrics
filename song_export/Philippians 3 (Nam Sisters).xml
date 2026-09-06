@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-08-11T05:03:41">
+  <properties>
+    <titles>
+      <title>Philippians 3</title>
+    </titles>
+    <authors>
+      <author type="words">Nam Sisters</author>
+      <author type="music">Nam Sisters</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’ll forget what lies behind<br/>Reaching for what lies ahead<br/>I’m pressing on<br/>For the greatest prize<br/><br/>Everything I thought was gain<br/>Now I count it all as loss<br/>I’ll trade it all<br/>For the sake of knowing Christ</lines>
+    </verse>
+  </lyrics>
+</song>

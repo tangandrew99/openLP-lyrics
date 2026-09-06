@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-07-03T01:24:54">
+  <properties>
+    <titles>
+      <title>All I Have Is Christ</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3</verseOrder>
+    <authors>
+      <author>Jordan Kauflin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I once was lost in darkest night<br/>Yet thought I knew the way<br/>The sin that promised joy and life<br/>Had led me to the grave</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I had no hope that You would own<br/>A rebel to Your will<br/>And if You had not loved me first<br/>I would refuse You still</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hallelujah! All I have is Christ<br/>Hallelujah! Jesus is my life</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>As I ran my hell-bound race<br/>Indifferent to the cost<br/>You looked upon my helpless state<br/>And led me to the cross</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And I beheld God's love displayed<br/>You suffered in my place<br/>You bore the wrath reserved for me<br/>Now all I know is grace</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Now, Lord, would I be Yours alone<br/>And live so all might see<br/>The strength to follow Your commands<br/>Could never come from me</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Oh Father, use my ransomed life<br/>In any way You choose<br/>And let my song forever be<br/>My only boast is you</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Hallelujah, hallelujah<br/>Praise the One, risen Son of God</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Hallelujah! All I need is Christ<br/>Hallelujah! Jesus is my life</lines>
+    </verse>
+  </lyrics>
+</song>

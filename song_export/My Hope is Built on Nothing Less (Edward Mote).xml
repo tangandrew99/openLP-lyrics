@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-12-01T17:13:09">
+  <properties>
+    <titles>
+      <title>My Hope is Built on Nothing Less</title>
+    </titles>
+    <authors>
+      <author>Edward Mote</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>On Christ the solid rock I stand<br/>All other ground is sinking sand<br/>All other ground is sinking sand</lines>
+    </verse>
+    <verse name="v1">
+      <lines>My hope is built on nothing less<br/>Than Jesus' blood and righteousness<br/>I dare not trust the sweetest frame<br/>But wholly lean on Jesus' name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When darkness veils His lovely face<br/>I'll rest on His unchanging grace<br/>In every high and stormy day<br/>My anchor holds within the veil</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His oath, His covenant, His blood<br/>Supports me in the whelming flood<br/>When all around my soul gives way<br/>He then is all my hope and stay</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When He shall come with trumpet sound<br/>Oh, may I then in Him be found<br/>Dressed in His righteousness alone<br/>Faultless to stand before the throne</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-01-29T02:40:00">
+  <properties>
+    <titles>
+      <title>Inexpressible</title>
+    </titles>
+    <authors>
+      <author>Jon Thurlow</author>
+      <author type="words">Jon Thurlow</author>
+      <author type="music">Jon Thurlow</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have various trials,<br/>Still I rejoice cause it's proving my faith<br/>And it's a faith more precious than gold<br/>Tested by fire that results in praise when He returns</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And though I haven't seen You, I love You<br/>And though I do not see You now, I believe<br/>And I greatly rejoice with a joy inexpressible<br/>It's inexpressible</lines>
+    </verse>
+  </lyrics>
+</song>

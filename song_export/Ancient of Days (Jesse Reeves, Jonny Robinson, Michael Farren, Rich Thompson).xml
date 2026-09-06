@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:22">
+  <properties>
+    <titles>
+      <title>Ancient of Days</title>
+    </titles>
+    <authors>
+      <author>Jesse Reeves</author>
+      <author>Michael Farren</author>
+      <author>Jonny Robinson</author>
+      <author>Rich Thompson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Though the nations rage, kingdoms rise and fall<br/>There is still one King reigning over all<br/>So I will not fear, for this truth remains<br/>That my God is the Ancient of Days</lines>
+    </verse>
+    <verse name="c1">
+      <lines>None above Him, none before Him<br/>All of time in His hands<br/>For His throne it shall remain and ever stand<br/><br/>All the power, all the glory<br/>I will trust in His name<br/>For my God is the Ancient of Days</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though the dread of night overwhelms my soul<br/>He is here with me, I am not alone<br/>Oh His love is sure and He knows my name<br/>For my God is the Ancient of Days</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though I may not see what the future brings<br/>I will watch and wait for the Savior King<br/>Then my joy complete, standing face to face<br/>In the presence of the Ancient of Days</lines>
+    </verse>
+  </lyrics>
+</song>

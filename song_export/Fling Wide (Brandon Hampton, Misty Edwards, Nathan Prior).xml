@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:24">
+  <properties>
+    <titles>
+      <title>Fling Wide</title>
+    </titles>
+    <authors>
+      <author>Misty Edwards</author>
+      <author>Brandon Hampton</author>
+      <author>Nathan Prior</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Awake, awake, oh north wind<br/>Awake, awake, oh south wind<br/>Blow over me<br/><br/>Come, oh winds of testing<br/>Come, winds of refreshing<br/>Blow over me</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Let the winds blow, let the winds blow<br/>Let the winds blow, let the winds blow</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Fling wide the door to my soul<br/>Open up the door to my heart<br/>Have Your way, have Your way<br/>Have Your way</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I won't be afraid<br/>I will face the wind<br/>I won't be afraid<br/>I'll embrace the flame</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Take me through the fire, take me through the rain<br/>Take me through the testing, I'll do anything<br/>Test me, try me, prove me, refine me<br/>Like the gold, like the gold</lines>
+    </verse>
+  </lyrics>
+</song>

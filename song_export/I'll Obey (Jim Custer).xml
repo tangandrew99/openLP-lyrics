@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-09-28T18:30:22">
+  <properties>
+    <titles>
+      <title>I'll Obey</title>
+    </titles>
+    <authors>
+      <author>Jim Custer</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I'll obey and serve You<br/>I'll obey because I love You<br/>I'll obey,  My life is in Your hands<br/>For it's the way to prove my love<br/>When its done joyfully<br/>If it costs me everything...  I'll obey</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Please let me serve You<br/>I don't care how much You ask of me<br/>I owe it to You anyway<br/>I need to be serving You<br/>So Your will may be done</lines>
+    </verse>
+  </lyrics>
+</song>

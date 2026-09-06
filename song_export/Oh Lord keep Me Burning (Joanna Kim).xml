@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-05-25T16:39:22">
+  <properties>
+    <titles>
+      <title>Oh Lord keep Me Burning</title>
+    </titles>
+    <authors>
+      <author>Joanna Kim</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As the days go by, don't let my fire die<br/>As the days grow old, don't let my love grow cold</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh Lord keep me burning<br/>Oh Lord keep me burning<br/>Oh Lord keep me burning</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Give me oil for my lamp keep me burning<br/>Give me oil for my lamp I pray<br/>Give me oil for my lamp keep me burning burning burning<br/>Keep me burning till I see Your face</lines>
+    </verse>
+  </lyrics>
+</song>

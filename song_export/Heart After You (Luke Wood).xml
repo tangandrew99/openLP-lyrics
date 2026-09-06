@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-10T18:59:46">
+  <properties>
+    <titles>
+      <title>Heart After You</title>
+    </titles>
+    <authors>
+      <author>Luke Wood</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I want to stand in Your counsel<br/>Sit at Your table<br/>And speak to You face to face as a friend<br/><br/>I want to stand in Your fire<br/>Wherever Your eyes fall<br/>May You find me faithful to Your heart</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let me be found with a heart after You<br/>May Your eyes find this heart loyal to You<br/>(Faithful and true)</lines>
+    </verse>
+    <verse name="b1">
+      <lines>May You be all that's on my mind<br/>All of the time<br/>Let my heart be torn in two<br/>Until Your will is mine</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Dearly Beloved of my soul, of my soul<br/>Dearly Beloved of my soul, of my soul</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>May Your eyes find this heart longing for You<br/>(Longing for You)</lines>
+    </verse>
+  </lyrics>
+</song>

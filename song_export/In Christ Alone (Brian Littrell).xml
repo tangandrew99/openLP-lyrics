@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:25">
+  <properties>
+    <titles>
+      <title>In Christ Alone</title>
+    </titles>
+    <authors>
+      <author>Brian Littrell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>In Christ alone I place my trust<br/>And find my glory in the power of the cross<br/>In every victory let it be said of me<br/>My source of strength, My source of hope<br/>Is Christ alone</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>In Christ alone will I glory<br/>Though I could pride myself in battles won<br/>For Ive been blessed beyond measure<br/>And by His strength alone Ill overcome<br/>Oh, I could stop and count successes like diamonds in my hands<br/>But those trophies could not equal to the grace by which I stand</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>In Christ alone do I glory<br/>For only by His grace I am redeemed<br/>For only His tender mercy<br/>Could reach beyond my weakness to my need<br/>And now I seek no greater honor in just to know Him more<br/>And to count my gains but losses to the glory of my Lord</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:24">
+  <properties>
+    <titles>
+      <title>Faithful to the End</title>
+    </titles>
+    <authors>
+      <author>Cory Asbury</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The promise of Your coming light<br/>It burs so brightly in my mind<br/>And all creation longs and waits<br/>For the dawning of that day</lines>
+    </verse>
+    <verse name="p1">
+      <lines>And He will come, riding on the clouds<br/>With justice in His heart<br/>And a sword upon His side<br/><br/>And all will see the glory of this Man<br/>With fire in His eyes<br/>He's jealous for His bride</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>He's faithful to the end<br/>He's faithful to my heart<br/>He's faithful to the end<br/>He will come and marry me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Glory to the righteous One<br/>Glory to the righteous One</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>You're faithful to the end<br/>You're faithful to my heart<br/>You're faithful to the end<br/>You will come and marry me</lines>
+    </verse>
+  </lyrics>
+</song>

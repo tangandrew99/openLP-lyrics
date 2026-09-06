@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:27">
+  <properties>
+    <titles>
+      <title>Seek Ye First</title>
+    </titles>
+    <authors>
+      <author>Karen Lafferty</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Seek ye first the kingdom of God<br/>And His righteousness;<br/>And all these things shall be added unto you.<br/>Hallelu, Hallelujah!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ask, and it shall be given unto you;<br/>Seek, and you shall find.<br/>Knock, and it shall be opened unto you.<br/>Hallelu, Hallelujah!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Man shall not live by bread alone,<br/>But by every word<br/>That proceeds out from the mouth of God.<br/>Hallelu, Hallelujah!</lines>
+    </verse>
+  </lyrics>
+</song>

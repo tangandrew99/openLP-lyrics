@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-03-03T16:54:06">
+  <properties>
+    <titles>
+      <title>I Will Wait for You (Psalm 130)</title>
+    </titles>
+    <authors>
+      <author>Stuart Townend</author>
+      <author>Keith Getty</author>
+      <author>Jordan Kauflin</author>
+      <author>Matthew Merker</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Out of the depths I cry to You<br/>In darkest places I will call<br/>Incline Your ear to me anew<br/>And hear my cry for mercy, Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Were You to count my sinful ways<br/>How could I come before Your throne<br/>Yet full forgiveness meets my gaze<br/>I stand redeemed by grace alone</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I will wait for You, I will wait for You<br/>On Your word I will rely<br/>I will wait for You, surely wait for You<br/>'Til my soul is satisfied</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So put your hope in God alone<br/>Take courage in His power to save<br/>Completely and forever won<br/>By Christ emerging from the grave</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now He has come to make a way<br/>And God Himself has paid the price<br/>That all who trust in Him today<br/>Find healing in His sacrifice</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I will wait for You, I will wait for You<br/>Through the storm and through the night<br/>I will wait for You, surely wait for You<br/>For Your love is my delight</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Above all else I adore Your name<br/>Above all else tune my heart<br/>To sing Your praise</lines>
+    </verse>
+  </lyrics>
+</song>

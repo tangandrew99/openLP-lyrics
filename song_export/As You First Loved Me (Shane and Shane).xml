@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-10T16:41:16">
+  <properties>
+    <titles>
+      <title>As You First Loved Me</title>
+    </titles>
+    <authors>
+      <author>Shane and Shane</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Man of sorrows<br/>Cast down with grief<br/>Despised afflicted<br/>For all to see<br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>The lamb of God was slain<br/>Now I am free<br/>I give my life to love<br/>As You loved me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>How deep the Father's love for us<br/>How vast that crimson sea<br/>I give my life, Lord Jesus<br/>To love as You first loved me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm forgiven I am redeemed<br/>From death's dominion<br/>You've rescued me<br/><br/>The love of God is a flood it covers me<br/>I give my life to love<br/>As You loved me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Oh love of God<br/>How rich, how pure<br/>How measureless and strong<br/>It shall forevermore endure<br/>The saints and angels song</lines>
+    </verse>
+  </lyrics>
+</song>

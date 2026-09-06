@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:25">
+  <properties>
+    <titles>
+      <title>I Will Worship</title>
+    </titles>
+    <authors>
+      <author>David Ruis</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I will worship (I will worship)<br/>With all of my heart (with all of my heart)<br/>I will praise You (I will praise You)<br/>With all of my strength (with all of my strength)<br/><br/>I will seek You (I will seek You)<br/>All of my days (all of my days)<br/>I will follow (I will follow)<br/>All of Your ways (all Your ways)</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I will bow down (I will bow down)<br/>And hail You as King (hail You as King)<br/>I will serve You (I will serve You)<br/>I'll give You everything (give You everything)<br/><br/>I will lift up (I will lift up)<br/>My eyes to Your throne (my eyes to Your throne)<br/>I will trust You (I will trust You)<br/>I'll trust You alone (trust in You alone)</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Give Him praise<br/>Give Him praise<br/>Give Him praise<br/>Give Him praise,  I will bow</lines>
+    </verse>
+  </lyrics>
+</song>

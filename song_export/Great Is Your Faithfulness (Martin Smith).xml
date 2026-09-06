@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:24">
+  <properties>
+    <titles>
+      <title>Great Is Your Faithfulness</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Smith</author>
+      <author type="music">Martin Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Great Your faithfulness<br/>O God my Father<br/>O God my friend<br/>Your love it never fades<br/>And so I’ll love You until the end</lines>
+    </verse>
+    <verse name="p1">
+      <lines>When shadows fall<br/>You never change<br/>From age to age<br/>You never change</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Great is Your faithfulness, Your faithfulness<br/>Through the years You’ve always been there<br/>Great is Your love for us, Your love for us<br/>Through the years You’ll always be there</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Great Your kindness God<br/>You are our shelter our dwelling place<br/>Your presence like a fire <br/>Hope for tomorrow strength for today</lines>
+    </verse>
+    <verse name="b1">
+      <lines>We will stand, we will stand upon Your promises<br/>We are strong, we are strong<br/>Because our hope is in You<br/>We will run, we will run, we will run<br/>We belong, we belong, we belong to You, to You</lines>
+    </verse>
+  </lyrics>
+</song>

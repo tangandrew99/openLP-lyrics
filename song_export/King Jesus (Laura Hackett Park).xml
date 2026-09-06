@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-12-18T02:53:51">
+  <properties>
+    <titles>
+      <title>King Jesus</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 e1 e2</verseOrder>
+    <authors>
+      <author>Laura Hackett Park</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="e1">
+      <lines>How will the nations learn Your righteousness<br/>Unless you bring Your judgements to the earth</lines>
+    </verse>
+    <verse name="i1">
+      <lines>I believe there's a Man who's seated on a throne<br/>And He's coming back to bring forth justice<br/>I believe there's a Man who's seated on a throne<br/>And He's coming back to bring forth justice</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Truth is cast down, justice is perishing<br/>The widow is abused and the orphaned is abandoned<br/>Do you think that God won't see<br/>When the needy are exploited<br/>And no one cries for the voiceless?<br/>The world's leaders have turned to corruption<br/>Each one ensnared by consumption<br/>Of another man's labor</lines>
+    </verse>
+    <verse name="c1">
+      <lines>King Jesus, set the captives free<br/>King Jesus, set the captives free<br/>King Jesus, set the captives free<br/>King Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He's stirring up His church<br/>And working through His saints<br/>But this is not the end, there will be a day<br/>Burning like a fire in His heart<br/>Our God shall come and not be silent<br/>The Lord has seen; He will repay<br/>He will arise on a set day<br/>And all who call upon His name and turn He will save</lines>
+    </verse>
+    <verse name="e2">
+      <lines>Fear the Lord and glorify His name<br/>For this the hour of His fearful judgment <br/><br/>Turn from your sins and walk in repentance<br/>Forsake all pride and arrogance and seek Him on your face</lines>
+    </verse>
+  </lyrics>
+</song>

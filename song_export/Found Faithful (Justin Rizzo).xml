@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-11T17:33:06">
+  <properties>
+    <titles>
+      <title>Found Faithful</title>
+    </titles>
+    <authors>
+      <author type="words">Justin Rizzo</author>
+      <author type="music">Justin Rizzo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I wanna be found faithful<br/>I wanna be found steady<br/>I wanna be found faithful<br/>Until the end</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I wanna live before Your eyes<br/>I wanna stay before Your gaze<br/>Just keep me steady<br/>For all my days<br/></lines>
+    </verse>
+    <verse name="v1a">
+      <lines>I wanna run the race<br/>I wanna keep the faith<br/>Help me win the prize<br/>Of the knowledge of You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Don't wanna be ashamed<br/>The day I see Your face<br/>Keep my footsteps firm<br/>Hold me in Your grace</lines>
+    </verse>
+    <verse name="o1">
+      <lines>When I stand before Your face, Lord I want to hear You say,<br/>Well done, my good and faithful servant</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Revive me,  Revive me<br/>Not for me but for Your name<br/>In Your mercy,  deliver me<br/>From my enemies</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>When the nations crumble (The word of the Lord will stay)<br/>Kings may rise and fall (His love will endure)<br/>Though the strong may stumble<br/>The joy of the Lord is strength<br/>To my soul<br/></lines>
+    </verse>
+    <verse name="v1c">
+      <lines>I will declare my joys to the nation<br/>Hey I will shout for joy to the congregation<br/>I will worship God, worship God<br/>All my days<br/>Those who love the Lord are satisfied<br/>Those who trust in him are justified<br/>I will serve my God, serve my God<br/>All my days</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>I will not be shaken<br/>I will not be moved<br/>I will not be shaken</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:27">
+  <properties>
+    <titles>
+      <title>Power of Your Love</title>
+    </titles>
+    <authors>
+      <author>Geoff Bullock</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Lord, I come to You<br/>Let my heart be changed, renewed<br/>Flowing from the grace<br/>That I’ve found in You</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Lord, I’ve come to know<br/>The weaknesses I see in me<br/>Will be stripped away<br/>By the power of Your love</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hold me close, let Your love surround me<br/>Bring me near, draw me to Your side<br/>And as I wait, I’ll rise up like the eagle<br/>And I will soar with You, Your Spirit leads me on<br/>In the power of Your love</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Lord, unveil my eyes<br/>Let me see You face to face<br/>The knowledge of Your love<br/>As You live in me</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Lord, renew my mind<br/>As Your will unfolds in my life<br/>We’re living every day<br/>By the power of Your love</lines>
+    </verse>
+  </lyrics>
+</song>

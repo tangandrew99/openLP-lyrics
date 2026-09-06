@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:23">
+  <properties>
+    <titles>
+      <title>Cornerstone</title>
+    </titles>
+    <authors>
+      <author>Edward Mote</author>
+      <author>Eric Liljero</author>
+      <author>Jonas Myrin</author>
+      <author>Reuben Morgan</author>
+      <author>William Bradbury</author>
+    </authors>
+    <themes>
+      <theme>Hymn</theme>
+      <theme>Faith &amp; Trust</theme>
+      <theme>Gospel</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My hope is built on nothing less<br/>Than Jesus’ blood and righteousness<br/>I dare not trust the sweetest frame<br/>But wholly trust in Jesus’ name</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Christ alone, cornerstone<br/>Weak made strong in the Savior’s love<br/>Through the storm He is Lord, Lord of all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When darkness seems to hide His face<br/>I rest on His unchanging grace<br/>In every high and stormy gale<br/>My anchor holds within the veil</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When He shall come with trumpet sound<br/>O may I then in Him be found<br/>Dressed in His righteousness alone<br/>Faultless, stand before the throne</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Because He lives, I can face tomorrow<br/>Because He lives, all fear is gone<br/>Because I know He holds the future<br/>My life is worth the living just because He lives</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:25">
+  <properties>
+    <titles>
+      <title>Jesus Lord of Heaven</title>
+    </titles>
+    <authors>
+      <author>Phil Wickham</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus Lord of heaven, I do not deserve<br/>The grace that You have given<br/>And the promise of Your word<br/><br/>Lord, I stand in wonder at the sacrifice You made<br/>With mercy beyond measure<br/>My debt You freely paid</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Your love is deeper than any ocean<br/>Higher than the heavens<br/>Reaches beyond the stars in the sky<br/><br/>Jesus, Your love has no bounds</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Your love is deep, Your love is wide<br/>Your love is great, Your love is high<br/>Your love is all we ever need<br/>Your love is all we ever need</lines>
+    </verse>
+  </lyrics>
+</song>

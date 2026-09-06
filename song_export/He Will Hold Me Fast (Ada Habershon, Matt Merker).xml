@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:24">
+  <properties>
+    <titles>
+      <title>He Will Hold Me Fast</title>
+    </titles>
+    <authors>
+      <author>Ada Habershon</author>
+      <author>Matt Merker</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>When I fear my faith will fail<br/>Christ will hold me fast<br/>When the tempter would prevail<br/>He will hold me fast</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I could never keep my hold<br/>Through life's fearful path<br/>For my love is often cold<br/>He must hold me fast</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He will hold me fast<br/>He will hold me fast<br/>For my Savior loves me so<br/>He will hold me fast</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Those He saves are His delight<br/>Christ will hold me fast<br/>Precious in His holy sight<br/>He will hold me fast</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>He'll not let my soul be lost<br/>His promises shall last<br/>Bought by Him at such a cost<br/>He will hold me fast</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>For my life He bled and died<br/>Christ will hold me fast<br/>Justice has been satisfied<br/>He will hold me fast</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Raised with Him to endless life<br/>He will hold me fast<br/>Till our faith is turned to sight<br/>When He comes at last</lines>
+    </verse>
+  </lyrics>
+</song>

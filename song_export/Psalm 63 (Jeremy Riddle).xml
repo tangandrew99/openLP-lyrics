@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-31T19:01:15">
+  <properties>
+    <titles>
+      <title>Psalm 63</title>
+    </titles>
+    <authors>
+      <author>Jeremy Riddle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>God, You're my God<br/>And earnestly I seek You<br/>My heart and my flesh<br/>They hunger and thirst for You</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>In You, oh Lord<br/>Will I always rejoice<br/>You are the One who upholds me<br/>In You I will place my trust</lines>
+    </verse>
+    <verse name="p1">
+      <lines>In this dry and weary land<br/>I've come to worship<br/>I've come to lift up my hands</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For I have seen You<br/>I've beheld Your glory<br/>And I am ruined<br/>For there is none to compare<br/>And I long to know You<br/>And the depths of Your love<br/>That always leave me<br/>Time and time again, undone</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Bring me low<br/>Bring me low<br/></lines>
+    </verse>
+    <verse name="v1d">
+      <lines>You have wounded me with Your love<br/>And I'll never be the same again</lines>
+    </verse>
+  </lyrics>
+</song>

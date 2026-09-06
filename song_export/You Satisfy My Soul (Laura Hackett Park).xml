@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:29">
+  <properties>
+    <titles>
+      <title>You Satisfy My Soul</title>
+    </titles>
+    <authors>
+      <author>Laura Hackett Park</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You satisfy my soul<br/>You satisfy my soul<br/>You satisfy my soul with Your love</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You make my heart sing<br/>You lift me on eagle’s wings<br/>Just when I thought that my heart it would faint<br/><br/>You take the darkest night<br/>And turn it to shining light<br/>Just when I thought that the night had won</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Hallelujah, You make all things beautiful<br/>Hallelujah, trials and testing prove there’s gold<br/>Hallelujah, You turn mourning into joy</lines>
+    </verse>
+    <verse name="b2">
+      <lines>So end the darkest night with the dawning of Your light<br/>Bright and morning star<br/>Oh to be with You where You are</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Sometimes you gotta sing your way into the truth<br/>You gotta sing your way into the truth<br/>You gotta sing your way into the truth</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You satisfy</lines>
+    </verse>
+  </lyrics>
+</song>

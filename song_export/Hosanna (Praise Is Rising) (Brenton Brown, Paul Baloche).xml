@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:25">
+  <properties>
+    <titles>
+      <title>Hosanna (Praise Is Rising)</title>
+    </titles>
+    <authors>
+      <author>Brenton Brown</author>
+      <author>Paul Baloche</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise is rising, eyes are turning to You<br/>We turn to You<br/>Hope is stirring, hearts are yearning for You<br/>We long for You</lines>
+    </verse>
+    <verse name="p1">
+      <lines>'Cause when we see You<br/>We find strength to face the day<br/>In Your presence<br/>All our fears are washed away<br/>Washed away</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hosanna, hosanna<br/>You are the God who saves us<br/>Worthy of all our praises<br/><br/>Hosanna, hosanna<br/>Come have Your way among us<br/>We welcome You here, Lord Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hear the sound of hearts returning to You<br/>We turn to You<br/>In Your kingdom broken lives are made new<br/>You make us new</lines>
+    </verse>
+  </lyrics>
+</song>

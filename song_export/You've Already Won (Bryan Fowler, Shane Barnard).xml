@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-04-05T01:10:58">
+  <properties>
+    <titles>
+      <title>You've Already Won</title>
+    </titles>
+    <authors>
+      <author>Bryan Fowler</author>
+      <author>Shane Barnard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's peace that outlasts darkness<br/>Hope that's in the blood<br/>There's future grace that's mine today<br/>That Jesus Christ has won<br/><br/>So I can face tomorrow<br/>For tomorrow's in Your hands<br/>All I need You will provide<br/>Just like You always have</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm fighting a battle You've already won<br/>No matter what comes my way<br/>I will overcome<br/>Don't know what You're doing<br/>But I know what You've done<br/>I'm fighting a battle You've already won</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's mercy in the waiting<br/>Manna for today<br/>And when it's gone, I know You're not<br/>You are my hope and stay<br/><br/>When the sea is raging<br/>Your Spirit is my help<br/>He'll fix my eyes on Jesus Christ<br/>I'll say that it is well</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I know how the story ends<br/>We will be with You again<br/>You're my Savior, my defense<br/>No more fear in life or death</lines>
+    </verse>
+  </lyrics>
+</song>

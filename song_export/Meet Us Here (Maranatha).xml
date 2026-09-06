@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-12-18T02:19:22">
+  <properties>
+    <titles>
+      <title>Meet Us Here</title>
+    </titles>
+    <verseOrder>v1 p1 c1</verseOrder>
+    <authors>
+      <author>Maranatha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, we have come to this house<br/>Where we love to sing Your praises<br/>We lift our hearts and our hands to the King of all the ages</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Hear us, Lord, we pray<br/>Come, Jesus come<br/>Come fill this place</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Meet us here (meet us here)<br/>Meet us here, Lord (meet us here, Lord)<br/>We are few, but we are strong when You surround us<br/><br/>Meet us here (meet us here)<br/>Meet us here, Lord (meet us here, Lord)<br/>As we gather in Your name, meet us here</lines>
+    </verse>
+  </lyrics>
+</song>

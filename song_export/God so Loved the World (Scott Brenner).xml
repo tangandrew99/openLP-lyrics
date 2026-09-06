@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-18T18:02:02">
+  <properties>
+    <titles>
+      <title>God so Loved the World</title>
+    </titles>
+    <authors>
+      <author>Scott Brenner</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>As high as the heavens are above the earth<br/>As far as the waters cover all the seas<br/>So high so great<br/>Is the love You have for me<br/><br/>As far as the east is from the west<br/>You've taken away my worthlessness<br/>You've turned my shame into joyful praise</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Forever I will thank You for <br/>The grace You've given me<br/>I once was lost but now I'm found<br/>You're everything I need<br/><br/>I worship You I live for You<br/>You're all that I desire<br/>And forever I will live to<br/>Tell of Your unfailing love</lines>
+    </verse>
+    <verse name="b1">
+      <lines>God so loved the world<br/>That He gave His only Son<br/>That whoever believes in Him<br/>Shall never die, but have eternal life</lines>
+    </verse>
+    <verse name="e1">
+      <lines>I believe<br/>I believe<br/>I believe<br/>In the risen Son of God</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>We are unworthy slaves<br/>We are saved by Your grace<br/>We come and bow our knees<br/>To the King of all kings </lines>
+    </verse>
+    <verse name="v1c">
+      <lines>We are laid down lovers<br/>We are laid down lovers<br/>We are laid down lovers<br/>All for Your name, Your glory and honor</lines>
+    </verse>
+  </lyrics>
+</song>

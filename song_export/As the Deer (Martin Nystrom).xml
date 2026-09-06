@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-07-06T16:54:05">
+  <properties>
+    <titles>
+      <title>As the Deer</title>
+    </titles>
+    <authors>
+      <author>Martin Nystrom</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As the deer panteth for the water<br/>So my soul longeth after Thee<br/>You alone are my heart's desire<br/>And I long to worship Thee</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You alone are my strength, my shield<br/>To You alone may my spirit yield<br/>You alone are my heart's desire<br/>And I long to worship Thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're my friend and You are my brother<br/>Even though You are a King<br/>I love You more than any other<br/>So much more than anything</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I want You more than gold or silver<br/>Only You can satisfy<br/>You alone are the real joy giver<br/>And the apple of my eye</lines>
+    </verse>
+    <verse name="o1">
+      <lines>My heart, my flesh may fail<br/>But You are my portion<br/>You are my portion</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:28">
+  <properties>
+    <titles>
+      <title>We Love Your Name</title>
+    </titles>
+    <authors>
+      <author>Jaye Thomas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No other god can be called a Father<br/>No other god can be called a Friend<br/>No other god can be called Redeemer<br/>No other god’s coming back again</lines>
+    </verse>
+    <verse name="c1">
+      <lines>How we love Your name, Jesus<br/>You’re the Beautiful One<br/>We love Your name</lines>
+    </verse>
+    <verse name="b1">
+      <lines>How we love You, King of kings<br/>How we love You, Lord of lords</lines>
+    </verse>
+    <verse name="b2">
+      <lines>We love the fragrance of Your holy name<br/>You came and brought us into the reign of grace</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Glory to the Righteous One<br/>Glory to the Righteous One</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Worthy is the Lamb<br/>That was slain</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Worthy of glory<br/>Worthy of honor<br/>Worthy of power<br/>Worthy of praise</lines>
+    </verse>
+  </lyrics>
+</song>

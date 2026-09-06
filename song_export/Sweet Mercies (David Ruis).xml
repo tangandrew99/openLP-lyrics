@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-12-07T17:32:44">
+  <properties>
+    <titles>
+      <title>Sweet Mercies</title>
+    </titles>
+    <authors>
+      <author>David Ruis</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's our confession, Lord that we are weak<br/>So very weak, but You are strong<br/>And though we've nothing, Lord<br/>To lay at Your feet<br/>We come to Your feet<br/>And say, Help us along</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let your mercies fall from heaven<br/>Sweet mercies fall from heaven<br/>New mercies for today<br/>Shower them down Lord, as we pray</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A broken heart and a contrite spirit<br/>You have yet to deny<br/>Your heart of mercy<br/>Beats with love's strong current<br/>Let the river flow, God<br/>By Your Spirit now, Lord we cry</lines>
+    </verse>
+    <verse name="e1">
+      <lines>All my good deeds are filthy rags <br/>Compared to the glory <br/>Of the great I Am </lines>
+    </verse>
+  </lyrics>
+</song>

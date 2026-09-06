@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-02-23T02:15:25">
+  <properties>
+    <titles>
+      <title>You Say,  "I'm Rich"</title>
+    </titles>
+    <authors>
+      <author>Shane Barnard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You say, "I'm rich and I'm well off"<br/>You say, "I'm wealthy and I'm doing okay"<br/>But don't you realize that you are wretched<br/>You are blind, you are poor, and you are naked<br/><br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>He who hears, let him be found<br/>With his face into the ground<br/>Where repentance is found<br/>Where Jesus is found</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I stand and knock, do you hear My voice?<br/>Come buy gold from Me refined by the fire<br/>I'll come in and we will dine<br/>And you'll be rich, you'll be full, you'll be Mine</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I have white garments to clothe your shame<br/>Clothe your shame</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-28T02:23:49">
+  <properties>
+    <titles>
+      <title>Come Thou Fount of Every Blessing</title>
+    </titles>
+    <authors>
+      <author>Robert Robinson</author>
+      <author>John Wyeth</author>
+    </authors>
+    <themes>
+      <theme>Hymn</theme>
+      <theme>Devotion</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Come, Thou fount of every blessing<br/>Tune my heart to sing Thy grace<br/>Streams of mercy, never ceasing<br/>Call for songs of loudest praise</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Teach me some melodious sonnet<br/>Sung by flaming tongues above<br/>Praise the mount, I'm fixed upon it<br/>Mount of Thy unchanging love</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Here I raise my Ebenezer<br/>Hither by Thy help I've come<br/>And I hope by Thy good pleasure<br/>Safely to arrive at home</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Jesus sought me when a stranger<br/>Wandering from the fold of God<br/>He to rescue me from danger<br/>Interposed His precious blood</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Oh to grace how great a debtor<br/>Daily I'm constrained to be<br/>Let that grace now, like a fetter<br/>Bind my wandering heart to Thee</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Prone to wander, Lord, I feel it<br/>Prone to leave the God I love<br/>Here's my heart, Lord, take and seal it<br/>Seal it for Thy courts above</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Above all else I adore Your name<br/>Above all else<br/>Tune my heart to sing Your praise</lines>
+    </verse>
+    <verse name="o1">
+      <lines>O God be my everything<br/>Be my delight<br/>Be Jesus my glory<br/>My soul satisfied</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-04-19T16:20:12">
+  <properties>
+    <titles>
+      <title>Eyes of Mercy</title>
+    </titles>
+    <authors>
+      <author>Jon Thurlow</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>When I am weak, that's when You are strong<br/>When I let go, I fall into Your arms</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I take up Your yoke<br/>I know that it's so easy<br/>I take up Your burden that's light</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>I look into Your eyes of mercy<br/>I look into Your eyes of love<br/>I remember that Your heart, it's for me</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I'm holding on to Your divine love<br/>I'm holding on and I'm not letting go<br/>It's not my zeal, it's that Your love is strong<br/>It's not my strength, it's that You're faithful</lines>
+    </verse>
+    <verse name="o1a">
+      <lines>I'm holding on to the love<br/>That has laid hold of me</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Where could I run from You<br/>Where could I hide<br/>Your love has made<br/>An everlasting mark on my heart</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Even when I cannot see You<br/>Even when I cannot feel You<br/>Even when I feel alone<br/>I'll keep loving You God</lines>
+    </verse>
+    <verse name="o4">
+      <lines>Even in the midst of danger<br/>Even in the midst of trials<br/>Even in the face of death<br/>I'll keep loving You God</lines>
+    </verse>
+    <verse name="o5">
+      <lines>How great is the love<br/>The Father has lavished on us<br/>How great is the love<br/>We will remember, we will remember</lines>
+    </verse>
+    <verse name="o1b">
+      <lines>I'll keep trusting You God<br/>I'll keep trusting You God</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>How great is the love the Father has lavished on us<br/>You gave Your Son<br/>Help us will remember, help us remember</lines>
+    </verse>
+  </lyrics>
+</song>

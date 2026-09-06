@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-26T01:30:49">
+  <properties>
+    <titles>
+      <title>When I Think About the Lord</title>
+    </titles>
+    <authors>
+      <author>James Huey</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>When I think about the Lord<br/>How He saved me, how He raised me<br/>How He filled me with the Holy Ghost<br/>Healed me to the uttermost</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>When I think about the Lord<br/>How He picked me up and turned me around<br/>How He set my feet on solid ground</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And it makes me want to shout<br/>Hallelujah, thank You, Jesus<br/>Lord, You’re worthy of all the glory<br/>And all the honor and all the praise</lines>
+    </verse>
+    <verse name="o1">
+      <lines>God so loved the world<br/>That He gave His only Son<br/>That whoever believes in Him<br/>Should never die, But have eternal life</lines>
+    </verse>
+  </lyrics>
+</song>

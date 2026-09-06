@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:23">
+  <properties>
+    <titles>
+      <title>Defender</title>
+    </titles>
+    <authors>
+      <author>Rita Springer</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You go before I know<br/>That You've gone to win my war<br/>You come back with the head of my enemy<br/>You come back and You call it my victory</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You go before I know<br/>That You've gone to win my war<br/>Your love beomes my greatest defense<br/>It leads me from the dry wilderness</lines>
+    </verse>
+    <verse name="p1">
+      <lines>All I did was praise<br/>All I did was worship<br/>All I did was bow down<br/>All I did was stay still</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hallelujah, You have saved me<br/>So much better Your way<br/>Hallelujah, great Defender<br/>So much better Your way</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You know before I do<br/>Where my heart can seek to find Your truth<br/>Your mercy is the shade I'm living in<br/>You restore my faith and hope again</lines>
+    </verse>
+    <verse name="b1">
+      <lines>When I thought I lost me<br/>You knew where I left me<br/>You reintroduced me to Your love<br/><br/>You picked up all my pieces<br/>Put me back together<br/>You are the defender of my heart</lines>
+    </verse>
+    <verse name="e1">
+      <lines>All I did was praise<br/>All I need to do is worship<br/>Lord, I will just bow down<br/>I'm just gonna stay still</lines>
+    </verse>
+  </lyrics>
+</song>

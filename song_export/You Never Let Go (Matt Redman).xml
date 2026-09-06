@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:29">
+  <properties>
+    <titles>
+      <title>You Never Let Go</title>
+    </titles>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Oh no, You never let go<br/>Through the calm and through the storm<br/>Oh no, You never let go<br/>In every high and every low<br/>Oh no, You never let go<br/>Lord, You never let go of me</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And I will fear no evil<br/>For my God is with me<br/>And if my God is with me<br/>Whom then shall I fear?<br/>Whom then shall I fear?</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Even though I walk through the valley of the shadow of death<br/>Your perfect love is casting out fear<br/>And even when I'm caught in the middle of the storms of this life<br/>I won't turn back<br/>I know You are near</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>I can see a light that is coming for the heart that holds on<br/>And there will be an end to these troubles<br/>But until that day comes<br/>Still I will praise You, still I will praise You</lines>
+    </verse>
+  </lyrics>
+</song>

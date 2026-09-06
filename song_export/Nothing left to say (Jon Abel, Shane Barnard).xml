@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-10-18T01:16:09">
+  <properties>
+    <titles>
+      <title>Nothing left to say</title>
+    </titles>
+    <authors>
+      <author>Jon Abel</author>
+      <author>Shane Barnard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The firstborn over all creation<br/>Far beyond imagination<br/>All visible and invisible things<br/>Bow before Christ our King</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Holy,  all God's children singing<br/>Holy,  there's nothing left to say but<br/>Holy,  oh Lord almighty</lines>
+    </verse>
+  </lyrics>
+</song>

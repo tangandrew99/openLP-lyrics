@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:29">
+  <properties>
+    <titles>
+      <title>You Won't Relent</title>
+    </titles>
+    <authors>
+      <author>Cassandra Campbell</author>
+      <author>David Brymer</author>
+      <author>Misty Edwards</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You won’t relent until You have it all<br/>My heart is Yours</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’ll set You as a seal upon my heart<br/>As a seal upon my arm<br/>For there is love that is as strong as death<br/>Jealousy demanding as the grave<br/>And many waters cannot quench this love</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Come be the fire inside of me<br/>Come be the flame upon my heart<br/>Come be the fire inside of me<br/>Until You and I are one</lines>
+    </verse>
+  </lyrics>
+</song>

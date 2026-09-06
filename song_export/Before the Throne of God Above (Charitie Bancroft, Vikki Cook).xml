@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-11-02T17:41:39">
+  <properties>
+    <titles>
+      <title>Before the Throne of God Above</title>
+    </titles>
+    <authors>
+      <author>Charitie Bancroft</author>
+      <author>Vikki Cook</author>
+    </authors>
+    <themes>
+      <theme>Hymn</theme>
+      <theme>Adoration</theme>
+      <theme>Gospel</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Before the throne of God above<br/>I have a strong, and perfect plea<br/>A great High Priest whose name is Love<br/>Who ever lives and pleads for me</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>My name is graven on His hands<br/>My name is written on His heart<br/>I know that while in heaven He stands<br/>No tongue can bid me thence depart<br/>No tongue can bid me thence depart</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>When Satan tempts me to despair<br/>And tells me of the guilt within<br/>Upward I look and see Him there<br/>Who made an end to all my sin</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Because the sinless Savior died<br/>My sinful soul is counted free<br/>For God the just is satisfied<br/>To look on Him and pardon me<br/>To look on Him and pardon me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hallelujah<br/>Hallelujah<br/>Praise the One, risen Son of God</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Behold Him there, the risen Lamb<br/>My perfect, spotless righteousness<br/>The great unchangeable I Am<br/>The King of glory and of grace</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>One with Himself I cannot die<br/>My soul is purchased by His blood<br/>My life is hid with Christ on high<br/>With Christ my Savior and my God<br/>With Christ my Savior and my God</lines>
+    </verse>
+  </lyrics>
+</song>

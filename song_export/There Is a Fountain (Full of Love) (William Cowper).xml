@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-02-09T17:49:37">
+  <properties>
+    <titles>
+      <title>There Is a Fountain (Full of Love)</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 v4 o1 o2</verseOrder>
+    <authors>
+      <author>William Cowper</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>There is a fountain filled with blood<br/>Drawn from Immanuel’s veins<br/>And sinners plunged beneath that flood<br/>Lose all their guilty stains</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Lose all their guilty stains<br/>Lose all their guilty stains<br/>And sinners plunged beneath that flood<br/>Lose all their guilty stains</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>The dying thief rejoiced to see<br/>That fountain in His day<br/>And there may I, though vile as he<br/>Wash all my sins away</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Wash all my sins away<br/>Wash all my sins away<br/>And there may I, though vile as he<br/>Wash all my sins away</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hallelujah<br/>Fountain full of love for us<br/>Poured out on us</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>E’er since by faith I saw that stream<br/>Thy flowing wounds supply<br/>Redeeming love has been my theme<br/>And shall be till I die</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>And shall be till I die<br/>And shall be till I die<br/>Redeeming love has been my theme<br/>And shall be till I die</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>When this poor lisping, stammering tongue<br/>Lies silent in the grave<br/>Then in a nobler, sweeter song<br/>I’ll sing Thy power to save</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>I’ll sing Thy power to save<br/>I’ll sing Thy power to save<br/>Then in a nobler, sweeter song<br/>I’ll sing Thy power to save</lines>
+    </verse>
+    <verse name="o1">
+      <lines>My sins are washed<br/>Though they were scarlet<br/>Now white as snow</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Thank You for the wound in Your side<br/>You made a way for me<br/>You made a way for me</lines>
+    </verse>
+    <verse name="v4c">
+      <lines>It is Thy power to save<br/>It is Thy power to save<br/>Then in a nobler, sweeter song<br/>I’ll sing Thy power to save</lines>
+    </verse>
+  </lyrics>
+</song>

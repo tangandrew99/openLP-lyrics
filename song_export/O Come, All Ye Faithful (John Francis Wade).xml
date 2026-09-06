@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-12-13T02:47:49">
+  <properties>
+    <titles>
+      <title>O Come, All Ye Faithful</title>
+    </titles>
+    <authors>
+      <author>John Francis Wade</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>O come, all ye faithful, joyful and triumphant<br/>O come ye, O come ye to Bethlehem<br/>Come and behold Him born the King of angels</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O come let us adore Him, O come let us adore Him<br/>O come let us adore Him, Christ the Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yea, Lord, we greet Thee, born this happy morning<br/>Jesus, to Thee be all glory giv’n<br/>Word of the Father, now in flesh appearing</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Sing, choirs of angels, sing in exultation<br/>Sing, all ye citizens of heav’n above<br/>Glory to God, glory in the highest</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>True God of true God light from light eternal<br/>Lo' He shuns not the virgin's womb<br/>Son of the Father Begotten not created<br/></lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Child for us sinners poor and in a manger<br/>He would embrace Thee with love and awe<br/>Who would not love Thee loving us so dearly</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>We give You all the glory<br/>We give You all the glory<br/>We give You all the glory<br/>Christ the Lord</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>For You alone are worthy<br/>For You alone are worthy<br/>For You alone are worthy<br/>Christ the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

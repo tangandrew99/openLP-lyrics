@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-10-12T16:53:34">
+  <properties>
+    <titles>
+      <title>Undivided Heart</title>
+    </titles>
+    <verseOrder>v1 b1 c1 o1</verseOrder>
+    <authors>
+      <author>Brian Doerksen</author>
+      <author>Cindy Rethmeier</author>
+      <author>Daphne Rademaker</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teach me Your ways, O Lord<br/>And I will walk in Your truth<br/>Show me Your paths, O Lord<br/>For I am devoted to You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Give me an undivided heart<br/>That I may fear Your name<br/>Give me an undivided heart<br/>No other gods, no other loves<br/>No other gods before You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Purify my heart's desire<br/>I long to be Your servant</lines>
+    </verse>
+    <verse name="o1a">
+      <lines>You want all of our hearts<br/>Not just one part<br/><br/>You want all of our hearts<br/>Given over to You</lines>
+    </verse>
+    <verse name="o1b">
+      <lines>We give all of our hearts<br/>Not just one part<br/>We give all of our hearts<br/></lines>
+    </verse>
+  </lyrics>
+</song>

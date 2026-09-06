@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-02-19T02:35:47">
+  <properties>
+    <titles>
+      <title>You Know Better Than I</title>
+    </titles>
+    <authors>
+      <author>David Campbell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I thought I did what's right<br/>I thought I had the answers<br/>I thought I chose the surest road<br/>But that road brought me here<br/><br/>So I put up a fight<br/>And told you how to help me<br/>Now just when I have given up<br/>The truth is coming clear</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>You know better than I<br/>You know the way<br/>I've let go the need to know why<br/>For You know better than I</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If this has been a test<br/>I cannot see the reason<br/>But maybe knowing I don't know<br/>Is part of getting through<br/><br/>I try to do what's best<br/>And faith has made it easy<br/>To see the best thing I can do<br/>Is put my trust in you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I saw one cloud and thought it was a sky<br/>I saw a bird and thought that I could follow<br/><br/>But it was you who taught that bird to fly<br/>If I let you reach me will you teach me</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>You know better than I<br/>You know the way<br/>Help me go the need to know why<br/>For You know better than I</lines>
+    </verse>
+  </lyrics>
+</song>

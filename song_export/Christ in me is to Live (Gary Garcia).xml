@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:23">
+  <properties>
+    <titles>
+      <title>Christ in me is to Live</title>
+    </titles>
+    <authors>
+      <author>Gary Garcia</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christ in me is to live,<br/>To die is to gain,<br/>Christ in me is to live,<br/>To die is to gain.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He’s my King, He’s my song,<br/>He’s my life, He’s my joy,<br/>He’s my strength, He’s my sword,<br/>He’s my peace, He’s my Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

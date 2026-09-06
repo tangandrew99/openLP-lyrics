@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:23">
+  <properties>
+    <titles>
+      <title>Dependent On You</title>
+    </titles>
+    <authors>
+      <author>Jon Thurlow</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Surely I've calmed and quieted my soul<br/>like a child rests against his mother<br/>Surely I've calmed and quieted my soul</lines>
+    </verse>
+    <verse name="c1">
+      <lines>There's not a care in the world<br/>When I am trusting You completely<br/>Help me to trust You, help my unbelief<br/>I want to be dependent<br/>I want to be dependent on You</lines>
+    </verse>
+  </lyrics>
+</song>

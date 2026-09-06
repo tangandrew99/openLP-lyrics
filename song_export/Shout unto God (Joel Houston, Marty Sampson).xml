@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:27">
+  <properties>
+    <titles>
+      <title>Shout unto God</title>
+    </titles>
+    <authors>
+      <author>Joel Houston</author>
+      <author>Marty Sampson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The enemy has been defeated<br/>And death couldn't hold You down<br/>We're gonna lift our voice in victory<br/>We're gonna make Your praises loud</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Shout unto God with a voice of triumph<br/>Shout unto God with a voice of praise<br/>Shout unto God with a voice of triumph<br/>We lift Your name up, we lift Your name up</lines>
+    </verse>
+  </lyrics>
+</song>

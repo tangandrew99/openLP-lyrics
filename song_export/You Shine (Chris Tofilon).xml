@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:29">
+  <properties>
+    <titles>
+      <title>You Shine</title>
+    </titles>
+    <authors>
+      <author>Chris Tofilon</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You clothe Yourself in light<br/>A garment like the sun<br/>Arrayed in holiness<br/>The everlasting one</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>All other gods can’t see<br/>They have ears but cannot hear<br/>But You have made all things<br/>You alone are to be feared</lines>
+    </verse>
+    <verse name="p1">
+      <lines>So we draw near in holy fear<br/>O Lord, we sing as we gaze upon You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You shine brighter than the sun<br/>In the heavens or on the earth<br/>There is no, not one like You, Lord</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Holy Father<br/>Holy Son<br/>Holy Spirit</lines>
+    </verse>
+    <verse name="b2">
+      <lines>You shine<br/>You shine</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-05-10T01:31:41">
+  <properties>
+    <titles>
+      <title>Sovereign over Us</title>
+    </titles>
+    <authors>
+      <author>Aaron Keyes</author>
+      <author>Bryan Brown</author>
+      <author>Jack Mooring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>There is strength within the sorrow<br/>There is beauty in our tears<br/>And You meet us in our mourning<br/>With a love that casts out fear</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You are working in our waiting<br/>Sanctifying us<br/>When beyond our understanding<br/>You’re teaching us to trust</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Your plans are still to prosper<br/>You have not forgotten us<br/>You’re with us in the fire and the flood<br/><br/>You’re faithful forever<br/>Perfect in love<br/>You are sovereign over us</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>You are wisdom unimagined<br/>Who could understand Your ways<br/>Reigning high above the heavens<br/>Reaching down in endless grace</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>You’re the lifter of the lowly<br/>Compassionate and kind<br/>You surround and You uphold me<br/>Your promises are my delight</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Even what the enemy means for evil<br/>You turn it for our good<br/>You turn it for our good and for Your glory<br/><br/>Even in the valley You are faithful<br/>You’re working for our good<br/>You’re working for our good and for Your glory</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>You are sovereign <br/>You are in control<br/>You are sovereign, God</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:27">
+  <properties>
+    <titles>
+      <title>Simple Song</title>
+    </titles>
+    <authors>
+      <author>Jaye Thomas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>This is a simple song of love<br/>Simple song of love<br/>This is a simple song of love<br/>From my heart to Yours</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I came here today<br/>Simply to say how much I love You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I will not give myself to any other<br/>Come and take the place of every other lover<br/>All I want is You</lines>
+    </verse>
+    <verse name="b2">
+      <lines>I will not give myself to any other<br/>Come and take the place of every other lover</lines>
+    </verse>
+    <verse name="o1">
+      <lines>I came here today<br/>Simply to say how much I need You</lines>
+    </verse>
+  </lyrics>
+</song>

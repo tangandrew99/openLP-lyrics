@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-03-16T18:27:59">
+  <properties>
+    <titles>
+      <title>I Have a Reason to Sing</title>
+    </titles>
+    <authors>
+      <author>Brooke Ligertwood</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="e1">
+      <lines>All of my life, in every season<br/>You are still God<br/>I have a reason to sing<br/>I have a reason to worship</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I will bring praise, I will bring praise<br/>No weapon formed against me shall remain<br/>I will rejoice, I will declare<br/>God is my victory and he is here<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>This is my prayer in the desert<br/>When all that's within me feels dry<br/>This is my prayer in my hunger and need<br/>My God is the God who provides</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And this is my prayer in the fire<br/>In weakness or trial or pain<br/>There is a faith proved of more worth than gold<br/>So refine me, Lord, through the flame</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This is my prayer in the battle<br/>When triumph is still on its way<br/>I am a conqueror and coheir with Christ<br/>So firm on his promise, I'll stand</lines>
+    </verse>
+  </lyrics>
+</song>

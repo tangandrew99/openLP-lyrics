@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:25">
+  <properties>
+    <titles>
+      <title>I Am Who You Say I Am</title>
+    </titles>
+    <authors>
+      <author>Ben Fielding</author>
+      <author>Reuben Morgan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who am I that the highest King<br/>Would welcome me<br/>I was lost but He brought me in<br/>Oh His love for me<br/>Oh His love for me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Who the Son sets free, oh, is free indeed<br/>I’m a child of God, yes, I am<br/>In my Father’s house there’s a place for me<br/>I’m a child of God, yes, I am</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Free at last, He has ransomed me<br/>His grace runs deep<br/>While I was a slave to sin<br/>Jesus died for me<br/>Yes, He died for me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I am chosen, not forsaken<br/>I am who You say I am<br/>You are for me, not against me<br/>I am who You say I am</lines>
+    </verse>
+  </lyrics>
+</song>

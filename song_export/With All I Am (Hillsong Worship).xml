@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-17T16:24:45">
+  <properties>
+    <titles>
+      <title>With All I Am</title>
+    </titles>
+    <authors>
+      <author>Hillsong Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Into Your hands, I commit again<br/>With all I am, for You, Lord<br/>You hold my world in the palm of Your hand<br/>And I am Yours forever</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus, I believe in You<br/>Jesus, I belong to You<br/>You're the reason that I live<br/>You'r the reason that I sing<br/>With all I am</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I want to walk with You wherever You go<br/>Through tears and joy,  to trust in You<br/>And I will live in all of Your ways<br/>Your promises forever</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I will worship, I will worship You<br/>I will worship, I will worship You</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>We worship You, We worship You<br/>We worship You, We worship You</lines>
+    </verse>
+  </lyrics>
+</song>

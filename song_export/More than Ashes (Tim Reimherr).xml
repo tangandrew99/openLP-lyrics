@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-02-23T16:00:57">
+  <properties>
+    <titles>
+      <title>More than Ashes</title>
+    </titles>
+    <authors>
+      <author>Tim Reimherr</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm more than what these ashes say<br/>They will fade away when He comes for me<br/>By grace, through faith in Christ I'm saved<br/>I am not the same when He looks at me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I am the rose, the joy for which You died<br/>And this I know, I move You with delight<br/>And when my heart condemns on every side</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My life is more than meets the eye<br/>I’m hidden now in Christ and I’m one with Him<br/>My love is real before His eyes<br/>He’s ravished by the sight of one glance from me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I am the rose, I am the lily<br/>I am Yours, I’m Your beauty</lines>
+    </verse>
+    <verse name="o1">
+      <lines>There’s gonna be a wedding,<br/>It’s the reason that I’m living, to marry the Lamb</lines>
+    </verse>
+    <verse name="o2">
+      <lines>I’m more than what these ashes say<br/>‘Cause they will fade away when He comes for me<br/>My love is real before His eyes<br/>He’s ravished by the sight of one glance from me</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:27">
+  <properties>
+    <titles>
+      <title>Pursuit of You</title>
+    </titles>
+    <authors>
+      <author>Jaye Thomas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You're chasing me, I'm chasing You<br/>I'm being pursued<br/>By the very love that I pursue</lines>
+    </verse>
+    <verse name="c1">
+      <lines>In pursuit of You<br/>Nothing else matters, nothing will do<br/>And I have nothing worth clinging to<br/>I'll be Your bride, come and be my Groom</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I'll keep on running, chasing after You<br/>It's my glory, You are worth the pursuit<br/>I will run after You</lines>
+    </verse>
+  </lyrics>
+</song>

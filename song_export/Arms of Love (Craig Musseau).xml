@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-03-22T16:47:32">
+  <properties>
+    <titles>
+      <title>Arms of Love</title>
+    </titles>
+    <authors>
+      <author>Craig Musseau</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I sing a simple song of love<br/>To my Savior, to my Jesus<br/>I'm grateful for the things You've done<br/>My loving Savior, O precious Jesus</lines>
+    </verse>
+    <verse name="p1">
+      <lines>My heart is glad that You've called me Your own<br/>There's no place I'd rather be</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Than in Your arms of love<br/>In Your arms of love<br/>Holding me still, holding me near<br/>In Your arms of love</lines>
+    </verse>
+  </lyrics>
+</song>

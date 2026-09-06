@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-16T16:41:31">
+  <properties>
+    <titles>
+      <title>Garments</title>
+    </titles>
+    <authors>
+      <author type="words">Housefires</author>
+      <author type="music">Housefires</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Garments of praise<br/>Fullness of joy<br/>Unending mercy<br/>New every morning</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Then I saw my ashes, but You saw Your dream<br/>And I saw an orphan, You were my family<br/>And I saw my frailty, but You saw Your might<br/>And I saw my blindness, but You were the light</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Well I saw the water, but You saw the wine<br/>I saw dead branches, but You were the vine<br/>And I saw my weakness, but You saw Your blood<br/>I saw my failure, but You were enough</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I was lost, 'til You called me out by Name<br/>And I was down, 'til You picked me up again<br/>I was wrong, 'til Your love it made me right<br/>I was dead, 'til You sang me back to life</lines>
+    </verse>
+    <verse name="o1">
+      <lines>You satisfy my soul</lines>
+    </verse>
+  </lyrics>
+</song>

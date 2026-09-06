@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-02-28T02:06:16">
+  <properties>
+    <titles>
+      <title>Psalm 84 (I'm Home)</title>
+    </titles>
+    <authors>
+      <author>Bryan Fowler</author>
+      <author>Jimmy Needham</author>
+      <author>Shane Barnard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How lovely are Your dwelling places<br/>Your Holy Spirit here with us<br/>Oh how I love to sing Your praises<br/>One day with You would be enough</lines>
+    </verse>
+    <verse name="c1">
+      <lines>When I bow down before You <br/>I am richer than all kings<br/>When I stand in Your presence I am free<br/>When I sit at Your table<br/>I am right where I belong<br/>In the doorway of my Father's house<br/>I'm home</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If all this world was for the taking<br/>And every treasure known was mine<br/>Not one of them would ever sway me<br/>I'd choose my Savior every time</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Wherever I go, I'm home<br/>'Cause You're here in my soul<br/>You're an oasis in the desert<br/>Living water overflow</lines>
+    </verse>
+  </lyrics>
+</song>

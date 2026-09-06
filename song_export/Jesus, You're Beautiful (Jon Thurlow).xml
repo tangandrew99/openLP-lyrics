@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-11-09T17:29:13">
+  <properties>
+    <titles>
+      <title>Jesus, You're Beautiful</title>
+    </titles>
+    <authors>
+      <author>Jon Thurlow</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Spirit of wisdom, open my eyes again<br/>Spirit of revelation, open my heart again<br/><br/>'Cause I want to see You<br/>Lord, I want to see<br/>See You rightly, Jesus</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I know that Your eyes are like flames of fire<br/>I know that Your head is white as wool<br/>I know that Your voice it sounds like waters<br/>Jesus, You're beautiful</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Jesus, You're beautiful<br/>Jesus, You're beautiful</lines>
+    </verse>
+    <verse name="c3">
+      <lines>There is none like You, Lord<br/>Jesus, You're beautiful</lines>
+    </verse>
+    <verse name="b1">
+      <lines>There is no one like You<br/>In the heavens or on the earth</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Spirit of wisdom, open our eyes again<br/>Spirit of revelation, open our hearts again</lines>
+    </verse>
+  </lyrics>
+</song>

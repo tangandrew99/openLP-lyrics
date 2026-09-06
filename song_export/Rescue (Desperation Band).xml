@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-07-27T16:45:29">
+  <properties>
+    <titles>
+      <title>Rescue</title>
+    </titles>
+    <authors>
+      <author>Desperation Band</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You are the source of the life<br/>I can't be left behind<br/>No one else will do<br/>I will take hold of you</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I need You Jesus<br/>To come to my rescue<br/>Where else can I go<br/>There's no other name by<br/>Which I am saved<br/>Capture me with grace</lines>
+    </verse>
+    <verse name="e1">
+      <lines>This world has nothing to offer<br/>I will follow You<br/>This world has nothing to offer<br/>I will follow You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I will follow You</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Your love makes it worth it<br/>Your love makes it worth it<br/>Your love makes it worth it all</lines>
+    </verse>
+  </lyrics>
+</song>

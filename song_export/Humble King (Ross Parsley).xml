@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-05-10T16:39:19">
+  <properties>
+    <titles>
+      <title>Humble King</title>
+    </titles>
+    <authors>
+      <author>Ross Parsley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>You are the God of the broken<br/>The friend of the weak<br/>You wash the feet of the weary<br/>Embrace the ones in need<br/>I want to be like You, Jesus<br/>To have this heart in me<br/>You are the God of the humble<br/>You are the humble King</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Oh kneel me down again,<br/>here at Your feet<br/>Show me how much You love humility<br/>Oh Spirit be the star that leads me to<br/>The humble heart of love I see in You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I want to be like You, Jesus<br/>To walk in humility</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You were oppressed and afflicted<br/>You bore the sins of many<br/>Though I like sheep have gone astray<br/>You laid down Your life for me<br/>You were pierced for my transgressions <br/>And crushed for my iniquites<br/>You bore my griefs and carried my sorrows<br/>You are the humble King</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You were oppressed and afflicted<br/>You bore the sins of many<br/>Though I like sheep have gone astray<br/>You laid down Your life for me<br/>You were pierced for my transgressions <br/>And crushed for my iniquites<br/>You are the God of the humble<br/>You are the humble King</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-03-02T03:44:15">
+  <properties>
+    <titles>
+      <title>What Can I Bring</title>
+    </titles>
+    <authors>
+      <author>Vineyard Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What can I bring to You<br/>Simply a song of love and boundless gratitude<br/>My whole life for You<br/><br/>You've rescued me from death<br/>Given me Your kingdom and blessed me with Your love<br/>Countless mercies from above</lines>
+    </verse>
+    <verse name="c1">
+      <lines>This is my song to You<br/>A melody of thanks for You<br/>An expression of wonder<br/>At Your glory and Your splendor<br/><br/>No other cry have I<br/>Than to know You and lift You high<br/>God of infinite glory<br/>Above all You are worthy</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Had I riches, I would bring them<br/>Had I kingdoms, I would lose them<br/>Had I the world, too small a gift<br/>Would it be for You</lines>
+    </verse>
+  </lyrics>
+</song>

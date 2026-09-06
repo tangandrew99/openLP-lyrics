@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:23">
+  <properties>
+    <titles>
+      <title>Because of Who You Are</title>
+    </titles>
+    <authors>
+      <author>Vicki Yohe</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Because of who you are, I give you glory<br/>Because of who you are, I give you praise<br/>Because of who you are, I will lift my voice and say<br/>Lord, I worship you because of who you are</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jehovah Jireh, my provider<br/>Jehovah Nissi, Lord, you reign in victory<br/>Jehovah Shalom, my Prince of Peace<br/>And I worship you because of who you are</lines>
+    </verse>
+  </lyrics>
+</song>

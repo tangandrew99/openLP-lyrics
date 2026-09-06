@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-05-16T01:44:46">
+  <properties>
+    <titles>
+      <title>Holy (Lord God Almighty)</title>
+    </titles>
+    <authors>
+      <author>Matt Gilman</author>
+      <author>Mindy Hurdelbrink</author>
+      <author>Seth Yates</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I can see the lightning<br/>I can feel the thunder<br/>I can hear the voices<br/>Proceeding from Your throne</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Only one word comes to mind<br/>There's only one word to describe</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Holy, holy<br/>Lord God Almighty<br/>Holy, holy<br/>Lord God Almighty</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Twenty-four elders bowing low<br/>Casting down their crowns of gold<br/>Four living creatures crying out<br/>Day and night, night and day</lines>
+    </verse>
+    <verse name="b1">
+      <lines>There is no one like You<br/>You are holy, holy<br/>There is no one like You<br/>You are holy, holy</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>There is no one like You <br/>You are worthy, worthy</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Holy, holy<br/>Is the Lord God Almighty<br/>Holy, holy<br/>Is the Lord God Almighty</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-05-03T01:03:22">
+  <properties>
+    <titles>
+      <title>To Worship You I Live</title>
+    </titles>
+    <authors>
+      <author>Israel Houghton</author>
+      <author>Matt Gilman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I just want to bless Your name<br/>I just want to make You glad<br/>I just want to move Your heart, God<br/>To give You all I am</lines>
+    </verse>
+    <verse name="c1">
+      <lines>By Your will<br/>For Your pleasure I exist<br/>You are worthy<br/>You are worthy, Lord</lines>
+    </verse>
+    <verse name="b1">
+      <lines>To worship You I live<br/>To worship You I live<br/>I live to worship You</lines>
+    </verse>
+    <verse name="o1">
+      <lines>You are worthy, Lord</lines>
+    </verse>
+    <verse name="o2">
+      <lines>This is why I was made<br/>This is why I exist<br/>This is why I was saved<br/>To worship You, to worship You</lines>
+    </verse>
+    <verse name="o3">
+      <lines>I have been chosen<br/>A royal priesthood<br/>To offer up a sacrifice<br/>Of praise of Your glorious grace</lines>
+    </verse>
+  </lyrics>
+</song>

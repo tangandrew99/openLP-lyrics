@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:28">
+  <properties>
+    <titles>
+      <title>The Wick</title>
+    </titles>
+    <authors>
+      <author>Housefires</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My heart is the wick<br/>Your love is the flame<br/>And I wanna burn for your name</lines>
+    </verse>
+  </lyrics>
+</song>

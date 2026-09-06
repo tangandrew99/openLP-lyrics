@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-02-25T05:34:26">
+  <properties>
+    <titles>
+      <title>Psalm 90 (Satisfy Us with Your Love)</title>
+    </titles>
+    <authors>
+      <author>Shane Barnard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>When the sun comes up, satisfy us<br/>Before the day has passed us by<br/>Before our hearts forget all Your goodness<br/>Satisfy us with Your love</lines>
+    </verse>
+    <verse name="v1">
+      <lines>You have been our dwelling place<br/>O Everlasting God<br/>Before You formed the mountaintops<br/>You were before it all<br/>And soon our lives turn back to dust</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The wrath of God poured out for sin<br/>On Jesus crucified<br/>Consider Him our hiding place<br/>Our shelter is alive<br/>Because He lived and died for us</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Teach us, Lord, to number our days on earth<br/>Give us more wisdom in the secret heart<br/>As You display amazing grace<br/>Through Jesus Christ for us</lines>
+    </verse>
+    <verse name="c2">
+      <lines>When the sun comes up, satisfy us<br/>Before the day has passed us by<br/>Before our hearts give up, Spirit fill us<br/>Satisfy us with Your love</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-10-26T18:11:51">
+  <properties>
+    <titles>
+      <title>Send Revival, Start With Me</title>
+    </titles>
+    <authors>
+      <author>Petra</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>We're looking to the promise of old<br/>That if we turn and humble ourselves<br/>You will come and heal our land<br/>You will come, You will come</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>We're looking to the promise You made<br/>That if we turn and look to Your face<br/>You will come and heal our land<br/>You will come, You will come<br/>To us</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Lord, send revival, start with me<br/>For I am one of unclean lips<br/><br/>And my eyes have seen the King<br/>Your glory I have glimpsed<br/>Send revival, start with me</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>We're looking to the promise of old<br/>That if we pray and humble ourselves<br/><br/>We're looking to the promise You made<br/>That if we turn and seek to Your face</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>God, would You come and heal our hearts<br/></lines>
+    </verse>
+    <verse name="v1f">
+      <lines>You will come and heal our land<br/>You will come and heal our land</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>You will come and heal Your church<br/>You will come and heal Your church</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>We're looking to the promise of old<br/>That if we turn and humble ourselves<br/>We're looking to the promise You made<br/>That if we pray and look to Your face</lines>
+    </verse>
+    <verse name="v1i">
+      <lines>You will come and hear our cries<br/>You will come and hear our cries</lines>
+    </verse>
+  </lyrics>
+</song>

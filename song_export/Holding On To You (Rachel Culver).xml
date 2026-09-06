@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-10-27T01:37:52">
+  <properties>
+    <titles>
+      <title>Holding On To You</title>
+    </titles>
+    <authors>
+      <author type="words">Rachel Culver</author>
+      <author type="music">Rachel Culver</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>So for now, I'll keep trusting, I'll keep holding on to You<br/>So for now, I'll believe the way You're leading me is good</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You're so faithful<br/>You're so kind</lines>
+    </verse>
+    <verse name="e1">
+      <lines>My times are in Your hands<br/>My times are in Your hands<br/>My times are in Your hands<br/>I trust You,  I trust You</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Even though I can't see clearly and what I see I see so dimly<br/>I'll take a step and I'll let You lead me,  God<br/>Even when tears have been my food and <br/>Accusation says, "Where are You?"<br/>I'll trsut in You, You'll never leave me alone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Shepherd of my heart, You're filling me with peace<br/>With your love and mercy You have crowned me<br/>You never turn away, You never look away</lines>
+    </verse>
+  </lyrics>
+</song>

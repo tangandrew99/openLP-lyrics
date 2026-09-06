@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:25">
+  <properties>
+    <titles>
+      <title>Leaning On the Everlasting Arms</title>
+    </titles>
+    <authors>
+      <author>E. A. Hoffman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What a fellowship, what a joy divine,<br/>Leaning on the everlasting arms;<br/>What a blessedness, what a peace is mine,<br/>Leaning on the everlasting arms.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Leaning, leaning,<br/>Safe and secure from all alarms;<br/>Leaning, leaning,<br/>Leaning on the everlasting arms.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O how sweet to walk in this pilgrim way,<br/>Leaning on the everlasting arms;<br/>O how bright the path grows from day to day,<br/>Leaning on the everlasting arms.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What have I to dread, what have I to fear,<br/>Leaning on the everlasting arms?<br/>I have blessed peace with my Lord so near,<br/>Leaning on the everlasting arms.</lines>
+    </verse>
+  </lyrics>
+</song>

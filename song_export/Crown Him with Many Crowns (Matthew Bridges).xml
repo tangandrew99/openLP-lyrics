@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:23">
+  <properties>
+    <titles>
+      <title>Crown Him with Many Crowns</title>
+    </titles>
+    <authors>
+      <author>Matthew Bridges</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Crown him with many crowns<br/>The Lamb upon His throne<br/>Hark, how the heavenly anthem drowns<br/>All music but its own</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Awake, my soul, and sing<br/>Of Him who died for thee<br/>And hail Him as thy matchless King<br/>Through all eternity</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Crown Him the Lord of life<br/>Who triumphed o'er the grave<br/>And rose victorious in the strife<br/>For those he came to save</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>His glories now we sing<br/>Who died and rose on high<br/>Who died eternal life to bring<br/>And lives that death may die</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Crown Him the Lord of love<br/>Behold His hands and side<br/>Rich wounds, yet visible above<br/>In beauty glorified</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>No angels in the sky<br/>Can fully bear that sight<br/>But downward bends their burning eye<br/>At mysteries so bright</lines>
+    </verse>
+  </lyrics>
+</song>

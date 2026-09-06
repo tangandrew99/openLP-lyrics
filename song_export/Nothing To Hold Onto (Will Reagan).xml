@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:26">
+  <properties>
+    <titles>
+      <title>Nothing To Hold Onto</title>
+    </titles>
+    <authors>
+      <author>Will Reagan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I lean not on my own understanding<br/>My life is in the hands of The Maker of heaven</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I give it all to You, God<br/>Trusting that You'll make something beautiful out of me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will climb this mountain<br/>With my hands wide open</lines>
+    </verse>
+    <verse name="c1">
+      <lines>There's nothing I hold on to<br/>There's nothing I hold on to</lines>
+    </verse>
+  </lyrics>
+</song>

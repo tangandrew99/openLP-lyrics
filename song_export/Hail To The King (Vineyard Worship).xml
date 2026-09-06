@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:24">
+  <properties>
+    <titles>
+      <title>Hail To The King</title>
+    </titles>
+    <authors>
+      <author>Vineyard Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You came to us a man<br/>In very nature God<br/>Pierced for our iniquities<br/>As You hung upon the cross<br/><br/>But God exalted You<br/>To the highest place<br/>And gave to You the right to bear<br/>The name above all names</lines>
+    </verse>
+    <verse name="p1">
+      <lines>At the name of Jesus, we should bow<br/>Ev'ry tongue confess that You are Lord<br/>And when You come in glory for the world to see<br/>We will sing</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hail to the King<br/>In all His splendor and majesty<br/>Hail to the King of kings<br/>Lord Jesus our God<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>We eagerly await<br/>The coming of the day<br/>The glory of the risen King<br/>Will shine upon the earth<br/><br/>Then rival thrones will fall<br/>Before the Lord of all<br/>And hail supreme authority<br/>In the true and living God</lines>
+    </verse>
+  </lyrics>
+</song>

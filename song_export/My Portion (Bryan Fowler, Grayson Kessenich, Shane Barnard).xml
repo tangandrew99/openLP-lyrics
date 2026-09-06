@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-03-10T16:56:47">
+  <properties>
+    <titles>
+      <title>My Portion</title>
+    </titles>
+    <authors>
+      <author>Bryan Fowler</author>
+      <author>Grayson Kessenich</author>
+      <author>Shane Barnard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I see Thy hand, my Savior<br/>It guides me day by day<br/>I know that Thou art with me<br/>Through all my pilgrim days<br/><br/>Yet no thought so precious<br/>So full of joy to me<br/>Is this, Thou art my portion<br/>And shalt forever be</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hallelujah, what a Savior<br/>My Redeemer, my reward<br/>Hallelujah, endless treasure<br/>My delight forevermore</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For past and present blessings<br/>I thank Thee, gracious Lord<br/>I reverence every precept<br/>And promise in Thy word<br/><br/>But oh this sweet assurance<br/>Is more than all to me<br/>Thou, Savior, art my portion<br/>And shalt forever be</lines>
+    </verse>
+    <verse name="b1">
+      <lines>My heart, my flesh may fail<br/>But You are my portion<br/>Yes, You are my portion</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou, Savior, art my portion<br/>What wealth untold is mine<br/>What pure and priceless treasure<br/>Not earthly but divine<br/><br/>My soul is in Thy keeping<br/>My life is hid with Thee<br/>Thou, Savior, art my portion<br/>And shalt forever be</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Whom have I in heaven but You<br/>Nothing on earth I want besides You<br/>Though my heart and my flesh may fail<br/>Oh You are my rock, You are my portion</lines>
+    </verse>
+  </lyrics>
+</song>

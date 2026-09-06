@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:27">
+  <properties>
+    <titles>
+      <title>Show Me Your Glory</title>
+    </titles>
+    <authors>
+      <author>Kathy Frizzell</author>
+      <author>Kim Walker-Smith</author>
+      <author>Nate Ward</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I see the cloud, I step in<br/>I want to see Your glory as Moses did<br/>Flashes of light, rolls of thunder<br/>But I’m not afraid, I’m not afraid</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Show me Your glory<br/>Show me Your glory</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’m awed by Your beauty, lost in Your eyes<br/>I want to walk in Your presence like Jesus did<br/>Your glory surrounds me and I’m overwhelmed<br/>I’m not afraid, I’m not afraid</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I long to look on the face of the One that I love<br/>Long to stay in Your presence<br/>It’s where I belong</lines>
+    </verse>
+  </lyrics>
+</song>

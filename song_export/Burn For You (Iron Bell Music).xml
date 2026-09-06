@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-08-10T17:21:15">
+  <properties>
+    <titles>
+      <title>Burn For You</title>
+    </titles>
+    <authors>
+      <author>Iron Bell Music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I wanna burn for You<br/>'Cause I wanna burn for You<br/>Light me on fire<br/>'Cause I wanna burn<br/>'Cause I wanna burn for You<br/>I wanna burn for You<br/>Light me on fire<br/>'Cause I wanna burn for You</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I just wanna burn for You<br/>I just wanna burn for You<br/>I just wanna burn for You<br/>So set me on fire</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Fill me with the fire <br/>Your eyes cause my heart to burn</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>I just wanna long for You<br/>I just wanna long for You<br/>I just wanna long for You<br/>So set me on fire</lines>
+    </verse>
+  </lyrics>
+</song>

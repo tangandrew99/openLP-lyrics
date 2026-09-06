@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:28">
+  <properties>
+    <titles>
+      <title>This Is My Beloved</title>
+    </titles>
+    <authors>
+      <author>Matt Gilman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Beautiful and glorious<br/>Your greatness is unsearchable<br/>You’re the bright and morning star<br/>Jesus, You outshine the brightest sun</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>King of kings and Lord of lords<br/>You will reign forever<br/>You’re the slain and risen Lamb<br/>I will sing a new song</lines>
+    </verse>
+    <verse name="c1">
+      <lines>This is my beloved, this is my Friend<br/>I’m going to love Him till the end of time<br/>I’m going to see Him face to face, oh joy divine<br/>This is my beloved</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You are glorious in holiness<br/>Jesus, King of righteousness<br/>Chief among ten thousand<br/>Fairer than the sons of men</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:26">
+  <properties>
+    <titles>
+      <title>Lord Let Your Glory Fall</title>
+    </titles>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You are good, You are good, and Your love endures.<br/>You are good, You are good, and Your love endures.<br/>You are good, You are good, and Your love endures today.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Lord, let Your glory fall, <br/>As on an ancient day.<br/>Songs of enduring love,<br/>And then Your glory came.<br/><br/>And as a sign to You,<br/>That we will love the same,<br/>Our hearts will sing that song,<br/>God, let Your glory come!</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Voices in unison,<br/>Giving You thanks and praise,<br/>Joined by the instruments,<br/>And then Your glory came.<br/><br/>Your presence like a cloud,<br/>Upon that ancient day,<br/>The priests were overwhelmed,<br/>Because Your glory came!</lines>
+    </verse>
+  </lyrics>
+</song>

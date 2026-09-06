@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:27">
+  <properties>
+    <titles>
+      <title>Psalm 23 (Surely Goodness, Surely Mercy)</title>
+    </titles>
+    <authors>
+      <author>Shane Barnard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord is my shepherd, I shall not want<br/>In green pastures He makes me lie down<br/>He restores my soul and leads me on<br/>For His name, for His great name</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Surely goodness, surely mercy<br/>Right beside me all my days<br/>And I will dwell in Your house forever<br/>And bless Your holy name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You prepare a table right before me<br/>In the presence of my enemies<br/>Though the arrow flies<br/>And the terror of night is at my door<br/>I’ll trust You, Lord</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Even though I walk<br/>Through the valley of the shadow of death<br/>I will fear no evil<br/>Even though I walk<br/>Through the valley of the shadow of death<br/>You are on my side</lines>
+    </verse>
+    <verse name="o1">
+      <lines>In Your presence<br/>There is fullness of joy, joy<br/>At Your right hand<br/>There are pleasures forevermore, forevermore</lines>
+    </verse>
+  </lyrics>
+</song>

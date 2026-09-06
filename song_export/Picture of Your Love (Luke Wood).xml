@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-01-01T02:43:16">
+  <properties>
+    <titles>
+      <title>Picture of Your Love</title>
+    </titles>
+    <authors>
+      <author>Luke Wood</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your love is the rock that I cling to<br/>Your name is the tower that I run into<br/>Your strength is what lifts my head <br/>when it’s bowed low<br/>Your song is the light that shines through my window</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>And like the sun after all of the rain’s gone<br/>The morning without any cloud comes<br/>With a picture of Your love<br/><br/>And when I think of the stars so high over me<br/>The moon in the darkness lets everyone see<br/>A picture of Your love</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And after the rain has fallen<br/>And after the clouds all roll away<br/>The sweetest name remains on my soul</lines>
+    </verse>
+    <verse name="b2">
+      <lines>You’re faithful (You’re always the same)<br/>You’re faithful (God, You never change)<br/>You’re faithful<br/>You’re always good, You’re always good</lines>
+    </verse>
+    <verse name="b3a">
+      <lines>Though I walk through the valley of the shadow of death<br/>I have no doubt, You’ve already gone ahead<br/>My fire by night, my cloud by day</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Faithful, You're always faithful<br/>True, You're always true<br/>You'll never leave me<br/>You're always with me<br/>You're good, You're good</lines>
+    </verse>
+    <verse name="b3b">
+      <lines>Though ten thousand may fall to my right and my left<br/>Under the shadow of the Most High I find rest<br/>My fire by night, my cloud by day</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Though weeping may last for a night<br/>Your joy comes in the morning<br/>Though sorrow may last for a time<br/>Your joy comes in the morning</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I sought the Lord and He heard me<br/>I sought the Lord and He heard my cry</lines>
+    </verse>
+  </lyrics>
+</song>

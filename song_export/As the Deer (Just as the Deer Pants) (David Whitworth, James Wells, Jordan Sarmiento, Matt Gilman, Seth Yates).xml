@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:22">
+  <properties>
+    <titles>
+      <title>As the Deer (Just as the Deer Pants)</title>
+    </titles>
+    <authors>
+      <author>Matt Gilman</author>
+      <author>Jordan Sarmiento</author>
+      <author>Seth Yates</author>
+      <author>James Wells</author>
+      <author>David Whitworth</author>
+    </authors>
+    <themes>
+      <theme>Devotion</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>My soul longs and even faints<br/>For the courts of the Lord<br/>Lord, my heart and my flesh cry out<br/>For You, O God</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You're my sun and my shield<br/>You give grace and glory<br/>No good thing will You withhold<br/>From those who seek Your face</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Just as the deer pants for the water brook<br/>So pants my soul for You, O God</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I set my heart on a pilgrimage<br/>Through the valley of weeping I will go<br/>I set my heart on a pilgrimage<br/>Until I appear before God in Zion</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Be near, O God<br/>Be near, O God of us<br/>Your nearness is to us our good</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-04-17T01:25:47">
+  <properties>
+    <titles>
+      <title>Psalm 8 (How Majestic Is Your Name)</title>
+    </titles>
+    <authors>
+      <author type="words">Shane and Shane</author>
+      <author type="music">Shane and Shane</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Oh Lord,  our Lord,<br/>Oh how awesome are Your ways<br/>How majestic is Your name in all the earth<br/>Oh Lord our Lord,<br/>May we see Your kingdom come<br/>Father, may Your will be done in all the earth</lines>
+    </verse>
+    <verse name="v1">
+      <lines>When I look at your heavens<br/>The moon and stars you set in motion, oh God<br/>I sing all glory and honor<br/>What is man that you are mindful?<br/>The son of man that you would care for him?<br/>We sing all glory and honor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In all the earth<br/>You gave dominion to your children<br/>And You crowned them, oh God<br/>With glory and honor<br/>So we'll sing of Your name<br/>Live our lives for Your greatness, oh God<br/>And Your glory and honor</lines>
+    </verse>
+    <verse name="b1">
+      <lines>The earth is full of the glory of God<br/>Come make much of the name above all names<br/>Creation cries out and every knee bows<br/>Jesus, we crown You, oh Lord, our Lord<br/>The earth is full of the glory of God<br/>Come make much of the name above all names<br/>Creation cries out and every knee bows<br/>Jesus, we crown You, oh Lord, our Lord</lines>
+    </verse>
+  </lyrics>
+</song>

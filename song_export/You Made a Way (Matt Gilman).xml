@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-03-01T17:28:33">
+  <properties>
+    <titles>
+      <title>You Made a Way</title>
+    </titles>
+    <verseOrder>v1 v2 c1 b1 o1 o2 o3 o4 o5</verseOrder>
+    <authors>
+      <author>Matt Gilman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>You made a way for me<br/>To enter the holy place</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>I am Yours, You are mine<br/>And we’ll be together forever</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Out of every tribe and every tongue<br/>And every people and nation<br/>We’ve been redeemed, we’ve been redeemed<br/>By the blood of the Lamb</lines>
+    </verse>
+    <verse name="o2a">
+      <lines>Worthy is the Lamb<br/>Worthy is the Lamb</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You say, "Father I desire that they would be<br/>That they would be with Me to see My glory"<br/>You took all my shame and my iniquity<br/>For the sake of freedom, You set me free</lines>
+    </verse>
+    <verse name="v1">
+      <lines>By the crimson stain upon Your robe<br/>With every nail with every pounding blow<br/>By every stripe and every bruise upon Your back<br/>I can hear You crying out</lines>
+    </verse>
+    <verse name="o5">
+      <lines>I am washed by the blood of the Lamb<br/>I am washed by the blood of the Lamb<br/>By your scars,<br/>My sins erased<br/>I am innocent</lines>
+    </verse>
+    <verse name="o3">
+      <lines>This was the joy set before You<br/>That You would have our hearts forever</lines>
+    </verse>
+    <verse name="o4">
+      <lines>All the other things I count as nothing<br/>In the light of knowing you</lines>
+    </verse>
+    <verse name="o2b">
+      <lines>Garments of praise<br/>Fullness of joy<br/>Unending mercy<br/>New every morning</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>You should have all our hearts<br/>We're the ones You've redeemed<br/>You should have all our love<br/>We're the ones You've made clean</lines>
+    </verse>
+    <verse name="b1c">
+      <lines>I am Yours, You are mine<br/>And Your blood it covers me</lines>
+    </verse>
+    <verse name="b1d">
+      <lines>I am Yours, You are mine<br/>And You've purchased me<br/>I am Yours, You are mine<br/>Your righteousness is mine</lines>
+    </verse>
+  </lyrics>
+</song>

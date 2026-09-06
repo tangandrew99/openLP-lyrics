@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-10-06T16:02:41">
+  <properties>
+    <titles>
+      <title>Come and See (Psalm 66)</title>
+    </titles>
+    <authors>
+      <author>Ross Fishburn</author>
+      <author>Shane Barnard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sun and moon and stars<br/>All declaring who You are<br/>Bowing to His majesty<br/>The One who cares for me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Come and see what God has done<br/>His awesome deeds toward all He loves<br/>Let the sound of praise be heard<br/>Shout for joy to God, all the earth</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All creation sings Your praise<br/>Every creature bow to say<br/>To the One who reigns on high<br/>All glory, power, and might</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Every mountain sing high<br/>Every valley sing low<br/>Everything in between<br/>Sing the harmony</lines>
+    </verse>
+  </lyrics>
+</song>

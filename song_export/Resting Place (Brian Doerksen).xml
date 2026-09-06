@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-02-25T05:53:17">
+  <properties>
+    <titles>
+      <title>Resting Place</title>
+    </titles>
+    <authors>
+      <author>Brian Doerksen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heaven is My throne<br/>And earth is My footstool<br/>Where is the house you will build for Me<br/>Whom of you will hear the cry of My heart<br/>Where will My resting place be</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Here, O Lord, have I prepared for You a home<br/>Long have I desired for You to dwell<br/>Here, O Lord, have I prepared a resting place<br/>Here, O Lord, I wait for You alone</lines>
+    </verse>
+  </lyrics>
+</song>

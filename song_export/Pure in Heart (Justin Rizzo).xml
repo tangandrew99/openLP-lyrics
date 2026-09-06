@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-05-02T01:36:01">
+  <properties>
+    <titles>
+      <title>Pure in Heart</title>
+    </titles>
+    <authors>
+      <author>Justin Rizzo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The pure in heart see Your face<br/>All I want is to be with You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let my heart be like Eden inside<br/>Set apart as a pure and spotless bride<br/>Let my heart be like Eden inside<br/>A place where You can dwell in me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Search me, God, and know my heart<br/>Lead me in the way everlasting</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I’m a garden enclosed<br/>I’m set apart for You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Search me, God, and know my heart<br/>All I want is to be with You</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Make me a garden enclosed<br/>Set apart for You</lines>
+    </verse>
+  </lyrics>
+</song>

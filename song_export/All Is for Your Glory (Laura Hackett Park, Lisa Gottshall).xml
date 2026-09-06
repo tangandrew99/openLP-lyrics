@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-03-15T16:43:12">
+  <properties>
+    <titles>
+      <title>All Is for Your Glory</title>
+    </titles>
+    <authors>
+      <author>Lisa Gottshall</author>
+      <author>Laura Hackett Park</author>
+    </authors>
+    <themes>
+      <theme>Devotion</theme>
+      <theme>Praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>There's just one chief end to man's purpose<br/>One main reason for existence<br/>All man's vain and high ambitions<br/>Will one day be brought low<br/>Will one day be brought low</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To treasure You above all others<br/>To love You like we love no other<br/>Your greatness soon will be uncovered<br/>And all the earth will then know<br/>And all the earth will then know</lines>
+    </verse>
+    <verse name="p1">
+      <lines>For You alone will be exalted in that day<br/>Worthless goals will be exposed<br/>As idols that we've made<br/><br/>For You alone will be exalted in that day<br/>You'll be seen as rightful King<br/>And from our hearts we'll sing</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All is for Your glory<br/>All is for Your name<br/>All is for Your glory<br/>That in all things You would have the first place<br/>That in all things You would have preeminence</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Put me anywhere<br/>Just put Your glory in me<br/>I'll serve anywhere<br/>Just let me see Your beauty</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Catch me up in Your story<br/>All my life for Your glory<br/>Catch me up in Your story<br/>All my life for Your glory</lines>
+    </verse>
+    <verse name="o3">
+      <lines>My God, my joy<br/>My delight<br/>My God, my joy<br/>My delight</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Come be my joy<br/>My delight<br/>Come be my joy<br/>My delight</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Come be my joy<br/>My delight<br/>Come be my joy<br/>My delight</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Lord make me worthy of Your glory</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>That in all my life You would have the first place<br/>That in all my life You would have preeminence</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Purify our hearts<br/>Purify our hearts<br/>We want to see You</lines>
+    </verse>
+  </lyrics>
+</song>

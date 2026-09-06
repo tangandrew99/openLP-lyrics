@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-03-10T16:42:37">
+  <properties>
+    <titles>
+      <title>Psalm 34 (Taste and See)</title>
+    </titles>
+    <authors>
+      <author>Shane Barnard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I sought the Lord and He answered me<br/>And delivered me from every fear<br/>Those who look on Him are radiant<br/>They’ll never be ashamed<br/>They’ll never be ashamed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This poor man cried and the Lord heard me<br/>And saved me from my enemies<br/>The Son of God surrounds His saints<br/>He will deliver them<br/>He will deliver them</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Magnify the Lord with me<br/>Come exalt His name together<br/>Glorify the Lord with me<br/>Come exalt His name forever</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Taste and see that the Lord is good<br/>O blessed is he who hides in Him<br/>O fear the Lord, O all you saints<br/>He’ll give you everything<br/>He’ll give you everything</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Let us bless the Lord every day and night<br/>Never-ending praise, may our incense rise</lines>
+    </verse>
+    <verse name="o1a">
+      <lines>I sought the Lord and He answered<br/>I sought the Lord and He answered<br/>I sought the Lord and He answered me</lines>
+    </verse>
+    <verse name="o1b">
+      <lines>I've tasted and I've seen<br/>The kindness of the Lord<br/>Lord, I want more of Your Spirit</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-05-10T17:01:37">
+  <properties>
+    <titles>
+      <title>Grace Flows Down</title>
+    </titles>
+    <authors>
+      <author>Passion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>It covers me<br/>It covers me<br/>It covers me<br/>It covers me</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Amazing grace, how sweet the sound<br/>Amazing love, now flowing down<br/>From Your hands and feet<br/>That were nailed to the tree<br/>As grace flows down and covers me</lines>
+    </verse>
+  </lyrics>
+</song>

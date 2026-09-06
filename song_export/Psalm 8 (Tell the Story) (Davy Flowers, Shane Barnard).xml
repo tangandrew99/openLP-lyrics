@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-04-17T01:26:28">
+  <properties>
+    <titles>
+      <title>Psalm 8 (Tell the Story)</title>
+    </titles>
+    <authors>
+      <author>Davy Flowers</author>
+      <author>Shane Barnard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh Lord our Lord, how wonderful Your name<br/>In all the earth Your glory on display<br/>The works of Your hands show us who You are<br/>Oh all around a vision of Your love<br/>A vision of Your love</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lift up Your voice and sing His praises<br/>With all creation tell the story of the One<br/>Who made it all, You made it all<br/>With every breath we shout Your praises<br/>With all creation tell the story of the One<br/>Who loves us, You love us, You love us</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh Lord our Lord, You light up our world<br/>The sun, moon, and stars declare who You are<br/>Declare who You are</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Who am I, unworthy one<br/>That You would give Your only Son<br/>Who are You to care for me<br/>Amazing love, how can it be</lines>
+    </verse>
+  </lyrics>
+</song>

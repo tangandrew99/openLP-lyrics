@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:28">
+  <properties>
+    <titles>
+      <title>You Alone Can Rescue</title>
+    </titles>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You alone can rescue, You alone can save<br/>You alone can lift us from the grave<br/>You came down to find us, led us out of death<br/>To You alone belongs the highest praise</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You, oh Lord, have made a way<br/>The great divide You heal<br/>For when our hearts were far away<br/>Your love went further still</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Who, oh Lord, could save themselves<br/>Their own soul could heal?<br/>Our shame was deeper than the sea<br/>Your grace is deeper still</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>We lift up our eyes, lift up our eyes<br/>To the Giver of Life</lines>
+    </verse>
+  </lyrics>
+</song>

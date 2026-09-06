@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:23">
+  <properties>
+    <titles>
+      <title>Beautiful Mystery</title>
+    </titles>
+    <authors>
+      <author>Jaye Thomas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No other foundation can be laid<br/>No other name by which I am saved<br/>(Jesus of Nazareth)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Great is the mystery<br/>The fullness of deity<br/>Dwelling in Your body</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I have seen the consummation of all perfection<br/>And it’s You, it’s You, Jesus</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Jesus, You are beautiful<br/>Wonderful, beautiful</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Through You all things were made<br/>You hold all things together<br/>(Beautiful mystery<br/>You wrapped Yourself in a garment of flesh for me)</lines>
+    </verse>
+  </lyrics>
+</song>

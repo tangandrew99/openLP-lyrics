@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-11-19T17:47:36">
+  <properties>
+    <titles>
+      <title>Draw Me Close</title>
+    </titles>
+    <authors>
+      <author>Michael W. Smith</author>
+    </authors>
+    <themes>
+      <theme>Devotion</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Draw me close to You<br/>Never let me go<br/>I’d lay it all down again<br/>To hear You say that I’m Your friend</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You are my desire<br/>No one else will do<br/>‘Cause nothing else can take Your place<br/>To feel the warmth of Your embrace<br/>Help me find the way, bring me back to You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You’re all I want<br/>You’re all I’ve ever needed<br/>You’re all I want<br/>Help me know You are near</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Be my one desire<br/>No one else will do<br/>‘Cause nothing else can take Your place<br/>To feel the warmth of Your embrace<br/>Help me find the way, bring me back to You</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Be all I want<br/>You're all I’ve ever needed<br/>Be all I want<br/>Help me know You are near</lines>
+    </verse>
+  </lyrics>
+</song>

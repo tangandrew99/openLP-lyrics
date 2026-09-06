@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:27">
+  <properties>
+    <titles>
+      <title>Praise to the Lord (Joyful, Joyful)</title>
+    </titles>
+    <authors>
+      <author>Joachim Neander</author>
+      <author>Henry van Dyke</author>
+      <author>Shane Barnard</author>
+      <author>Shane Everett</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise to the Lord, the Almighty, the King of creation<br/>O my soul, praise Him, for He is your health and salvation<br/>Come, all who hear, now to His temple draw near<br/>Join me in glad adoration</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise to the Lord, above all things so wondrously reigning<br/>Sheltering you under His wings and so gently sustaining<br/>Have you not seen all that is needful has been<br/>Sent by His gracious ordaining</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise to the Lord, who will prosper your work and defend you<br/>Surely His goodness and mercy shall daily attend you<br/>Ponder anew what the Almighty can do<br/>If with His love He befriends you</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Joyful, joyful, we adore Thee<br/>God of glory, Lord of love<br/>Hearts unfold like flow’rs before Thee<br/>Op’ning to the sun above</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Praise to the Lord, O let all that is in me adore Him<br/>All that has life and breath, come now with praises before Him<br/>Let the amen sound from His people again<br/>Gladly forever adore Him</lines>
+    </verse>
+  </lyrics>
+</song>

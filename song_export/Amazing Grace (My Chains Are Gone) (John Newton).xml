@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-05-10T16:56:28">
+  <properties>
+    <titles>
+      <title>Amazing Grace (My Chains Are Gone)</title>
+    </titles>
+    <authors>
+      <author>John Newton</author>
+    </authors>
+    <themes>
+      <theme>Hymn</theme>
+      <theme>Adoration</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amazing grace, how sweet the sound<br/>That saved a wretch like me<br/>I once was lost but now I'm found<br/>Was blind but now I see</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Twas grace that taught my heart to fear<br/>And grace my fears relieved<br/>How precious did that grace appear<br/>The hour I first believed</lines>
+    </verse>
+    <verse name="c1">
+      <lines>My chains are gone, I've been set free<br/>My God, my Savior has ransomed me<br/>And like a flood His mercy reigns<br/>Unending love, amazing grace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Through many dangers, toils and snares<br/>I have already come<br/>'Tis grace hath brought me safe thus far<br/>And grace will lead me home</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The Lord has promised good to me<br/>His Word my hope secures<br/>He will my shield and portion be<br/>As long as life endures</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The earth shall soon dissolve like snow<br/>The sun forbear to shine<br/>But God who called me here below<br/>Shall be forever mine</lines>
+    </verse>
+    <verse name="v6">
+      <lines>When we've been there ten thousand years<br/>Bright shining as the sun<br/>We've no less days to sing God's grace<br/>Than when we'd first begun</lines>
+    </verse>
+  </lyrics>
+</song>

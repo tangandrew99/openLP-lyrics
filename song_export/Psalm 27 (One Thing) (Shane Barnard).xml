@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-10-12T16:33:09">
+  <properties>
+    <titles>
+      <title>Psalm 27 (One Thing)</title>
+    </titles>
+    <authors>
+      <author>Shane Barnard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>The Lord is my light and my salvation<br/>In whom shall I fear? Whom shall I fear?<br/>The Lord is my strength, the stronghold of my life<br/>In whom shall I fear? Whom shall I fear?</lines>
+    </verse>
+    <verse name="p1">
+      <lines>You said, “Seek My face”<br/>Your face, O God, I seek</lines>
+    </verse>
+    <verse name="c1">
+      <lines>One thing I ask and I will seek<br/>To dwell in the house of the Lord all my days<br/>To gaze upon Your beauty, worship at Your feet<br/>Oh, one thing I seek</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Holy fire, Abba Father<br/>My Redeemer, my delight<br/><br/>Holy, holy, God Almighty<br/>You’re the one thing that I desire</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Holy fire, Abba Father<br/>My Redeemer, my delight<br/><br/>Holy, holy, God Almighty<br/>Be the one thing that I desire</lines>
+    </verse>
+  </lyrics>
+</song>

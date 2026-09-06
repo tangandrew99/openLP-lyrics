@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:28">
+  <properties>
+    <titles>
+      <title>We Are Hungry</title>
+    </titles>
+    <authors>
+      <author>Jesus Culture</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="b1a">
+      <lines>We lift our holy hands up<br/>We want to touch You<br/>We lift our voices higher<br/>Higher, higher to You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We are hungry, we are hungry<br/>We are hungry for more of You<br/>We are thirsty, oh Jesus<br/>We are thirsty for more of You</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>We lift You high, we lift You high<br/>Be glorified, we lift You high<br/>Oh, we lift You high</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Lord I want more of You<br/>Living water rain down on me<br/>Lord I need more of You<br/>Living breath of life come fill me</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Lord I want more of You <br/>Holy Spirit rain down on me<br/>Lord I need more of You<br/>Living breath of life come fill me up</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>We lift You high, we lift You high<br/>We lift You high, higher<br/>We lift You high, we lift You high<br/>Be glorified, be glorified<br/>We lift You high, we lift You high<br/>We lift You high, we lift You high<br/>We lift You high, we lift You high<br/>We lift You high, be glorified</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>I will raise my voice<br/>I will raise my voice, I will raise my voice<br/>To You, to You<br/>I will lift my hands<br/>I will lift my life<br/>To give You glory</lines>
+    </verse>
+  </lyrics>
+</song>

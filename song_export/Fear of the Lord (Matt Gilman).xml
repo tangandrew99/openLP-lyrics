@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-03-15T16:48:29">
+  <properties>
+    <titles>
+      <title>Fear of the Lord</title>
+    </titles>
+    <authors>
+      <author>Matt Gilman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Take me and break me<br/>Mold me and make me<br/>For you are the potter and I am the clay<br/><br/>The contrite You won't deny<br/>You’re near to the broken<br/>Your gentleness has made me great</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I want my life to be<br/>A pleasing sacrifice in Your eyes<br/>Give me the fear of the Lord<br/><br/>Search me and know me, God<br/>See if there be any wicked way in me<br/>Give me the fear of the Lord</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I want to be all that You dream<br/>I want to be well-pleasing to You<br/></lines>
+    </verse>
+    <verse name="o2">
+      <lines>Establish Your word to me<br/>Let it produce the reverence of You<br/>Give me the fear of the Lord</lines>
+    </verse>
+    <verse name="o1">
+      <lines>The fear of God it is clean<br/>It's the begining of wisdom <br/>And where knowledge is found<br/><br/>So I will seek You as silver<br/>Search for You as for gold<br/>And treasure You in my heart</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:26">
+  <properties>
+    <titles>
+      <title>Open the Eyes of My Heart</title>
+    </titles>
+    <authors>
+      <author>Paul Baloche</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Open the eyes of my heart, Lord<br/>Open the eyes of my heart<br/>I want to see You<br/>I want to see You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>To see You high and lifted up<br/>Shining in the light of Your glory<br/>Pour out Your power and love<br/>As we sing, holy, holy, holy</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Holy, holy, holy<br/>Holy, holy, holy<br/>Holy, holy, holy<br/>I want to see You</lines>
+    </verse>
+  </lyrics>
+</song>

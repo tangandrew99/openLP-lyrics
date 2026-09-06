@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:23">
+  <properties>
+    <titles>
+      <title>Come and Let Your Presence</title>
+    </titles>
+    <authors>
+      <author>Tim Reimherr</author>
+    </authors>
+    <themes>
+      <theme>Adoration</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come and let Your presence<br/>Fill our praise, fill our praise<br/>Come and let Your presence fill this place</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For You are the one we want to meet<br/>Jesus, shine through all the praises that we sing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We have come to give You<br/>Highest praise, highest praise<br/>We have come to love You in this place</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>It's all for You<br/>Here we are, here we are</lines>
+    </verse>
+    <verse name="b2">
+      <lines>We love You, we love You, Lord<br/>You're the one we came here for<br/>We love You, we love You, Lord<br/>You're the one our hearts adore</lines>
+    </verse>
+    <verse name="o1">
+      <lines>This is what we came here for<br/>This is what You made us for<br/>To see Your face<br/>To see Your face</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Be the one our hearts adore</lines>
+    </verse>
+  </lyrics>
+</song>

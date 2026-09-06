@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:28">
+  <properties>
+    <titles>
+      <title>You Are Great</title>
+    </titles>
+    <authors>
+      <author>Juanita Bynum</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You deserve the glory and the honor<br/>I lift my hands in worship<br/>And I bless Your holy name</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are great, You do miracles so great<br/>There is no one else like You<br/>There is no one else like You</lines>
+    </verse>
+  </lyrics>
+</song>

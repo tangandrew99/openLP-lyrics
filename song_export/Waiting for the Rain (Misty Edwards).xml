@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:28">
+  <properties>
+    <titles>
+      <title>Waiting for the Rain</title>
+    </titles>
+    <authors>
+      <author>Misty Edwards</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh I'm waiting in this desert<br/>Just waiting for the rain<br/>Oh but I won't leave this desert<br/>Until I see the rain</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I'm waiting in the wilderness<br/>Of promises yet fulfilled<br/>Oh but I won't leave this wilderness<br/>Until I see the rain</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm waiting for the rain<br/>Oh I'm waiting for the rain<br/>I'm just waiting for the rain<br/>Oh I'm waiting for the rain</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For I have heard the story told<br/>Of a prophet who prophesied<br/>Of the rain that would come in the middle of a drought<br/>As a sign of the rain to come</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And though years have come and years have gone<br/>We're still waiting for the rain<br/>Oh but I can see the clouds gathering now<br/>Are you ready, are you ready for the rain?</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Open up the heavens<br/>And let it rain, let it rain, let it rain<br/>Open up the heavens<br/>And let it rain, let it rain, let it rain</lines>
+    </verse>
+  </lyrics>
+</song>

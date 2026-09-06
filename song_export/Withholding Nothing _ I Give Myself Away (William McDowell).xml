@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:28">
+  <properties>
+    <titles>
+      <title>Withholding Nothing / I Give Myself Away</title>
+    </titles>
+    <authors>
+      <author>William McDowell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>I surrender all to You<br/>Everything I give to You</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Withholding nothing<br/>Withholding nothing</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>I give myself away<br/>I give myself away<br/>So You can use me</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>My life is not my own<br/>To You I belong<br/>I give myself, I give myself away</lines>
+    </verse>
+  </lyrics>
+</song>

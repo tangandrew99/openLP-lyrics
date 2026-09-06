@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:23">
+  <properties>
+    <titles>
+      <title>Come As Close As You Want</title>
+    </titles>
+    <authors>
+      <author>Misty Edwards</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come as close as You want<br/>Consume this heart that longs to burn<br/>I know Your fire can hurt<br/>But I would be worse here without You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>For I was made to dwell with You<br/>And how I ache until I do</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Holy God, Take my heart<br/>Purge with flame and truth<br/>A holy heart is all I want<br/>That I may live with You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come and take all these chains<br/>That get in the way of what You want<br/>And as I stand in the flame<br/>Still I will say, "I trust You God"</lines>
+    </verse>
+  </lyrics>
+</song>

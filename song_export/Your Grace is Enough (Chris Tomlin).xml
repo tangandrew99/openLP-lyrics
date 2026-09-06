@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:29">
+  <properties>
+    <titles>
+      <title>Your Grace is Enough</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Great is Your faithfulness, oh God<br/>You wrestle with the sinner's heart<br/>You lead us by still waters and to mercy<br/>And nothing can keep us apart</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>So remember Your people<br/>Remember Your children<br/>Remember Your promise, oh God</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Your grace is enough<br/>Your grace is enough<br/>Your grace is enough for me</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Great is Your love and justice, God<br/>You use the weak to lead the strong<br/>You lead us in the song of Your salvation<br/>And all Your people sing along</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Your grace is enough<br/>I'm covered by Your love<br/>Your grace is enough for me</lines>
+    </verse>
+  </lyrics>
+</song>

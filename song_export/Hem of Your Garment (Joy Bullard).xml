@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:24">
+  <properties>
+    <titles>
+      <title>Hem of Your Garment</title>
+    </titles>
+    <authors>
+      <author type="words">Joy Bullard</author>
+      <author type="music">Joy Bullard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Lord, we're reaching for the hem of Your garment<br/>Oh Jesus, we lift our eyes to You<br/>Son of David, do not pass us by<br/>We long for Your return, we long for You<br/>We long for Your return, we long for You</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Lord, we need You<br/>Send the winds of refreshing, winds of refreshing<br/>Lord, we need You here</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Lord, we know You are healer<br/>Lord, we know You are deliverer<br/>Lord, we know You are savior<br/>So come and heal, deliver, and save</lines>
+    </verse>
+  </lyrics>
+</song>

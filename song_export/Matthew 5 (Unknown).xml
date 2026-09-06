@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-03-22T16:19:00">
+  <properties>
+    <titles>
+      <title>Matthew 5</title>
+    </titles>
+    <authors>
+      <author type="words">Unknown</author>
+      <author type="music">Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Lord, we are<br/>Poor in spirit <br/>Oh, Lord lead us to mourn<br/>Our iniquities</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, we are <br/>Lowly in heart<br/>Oh Lord, teach us to hunger<br/>For righteousness</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Blessed are the poor in spirit<br/>Blessed are those who mourn<br/>Blessed are the lowly in heart<br/>Blessed are those who hunger</lines>
+    </verse>
+    <verse name="c2">
+      <lines>For theirs is the kingdom of heaven<br/>For they shall be comforted in Him<br/>For they shall inherit the earth<br/>For they shall be satisfied in You</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Lord, we believe <br/>That we will be satisfied in You</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Lord, we are poor in spirit <br/>Oh, Lord lead us to mourn our iniquities<br/>Lord, we are lowly in heart<br/>Oh Lord, teach us to hunger for righteousness</lines>
+    </verse>
+  </lyrics>
+</song>

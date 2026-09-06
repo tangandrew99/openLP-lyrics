@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:23">
+  <properties>
+    <titles>
+      <title>Cannons</title>
+    </titles>
+    <authors>
+      <author>Phil Wickham</author>
+    </authors>
+    <themes>
+      <theme>Praise</theme>
+      <theme>Adoration</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's falling from the clouds<br/>A strange and lovely sound<br/>I hear it in the thunder and rain<br/><br/>It's ringing in the skies<br/>Like cannons in the night<br/>The music of the universe plays</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are holy, great and mighty<br/>The moon and the stars declare who You are<br/>I'm so unworthy but still You love me<br/>Forever my heart will sing of how great You are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beautiful and free<br/>The song of galaxies<br/>Reaching far beyond the Milky Way<br/><br/>Let's join in with the sound<br/>Come on, let's sing it out<br/>As the music of the universe plays</lines>
+    </verse>
+    <verse name="b1">
+      <lines>All glory, honor, power is Yours, amen<br/>All glory, honor, power is Yours, amen<br/>All glory, honor, power is Yours<br/>Forever amen</lines>
+    </verse>
+  </lyrics>
+</song>

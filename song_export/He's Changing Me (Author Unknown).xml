@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-02-25T06:02:40">
+  <properties>
+    <titles>
+      <title>He's Changing Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's changing me, my precious Jesus<br/>I'm not the same person that I used to be.<br/>Sometimes it's slow going,<br/>But there's a knowing,<br/>That someday, perfect I will be</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Little by little bit everyday,<br/>Little by little bit every way,<br/>My Jesus is changing me.<br/>Since I made that turnabout face,<br/>I've been walking in His grace,<br/>My Jesus is changing me.</lines>
+    </verse>
+  </lyrics>
+</song>

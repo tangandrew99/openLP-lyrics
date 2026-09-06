@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:28">
+  <properties>
+    <titles>
+      <title>This We Know</title>
+    </titles>
+    <authors>
+      <author>Jason Ingram</author>
+      <author>Kristian Stanfill</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are who You say You are<br/>You’ll do what You say You’ll do<br/>You’ll be who You’ve always been to us<br/>Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Our hope is in You alone<br/>Our strength in Your mighty name<br/>And our peace in the darkest day remains<br/>Jesus</lines>
+    </verse>
+    <verse name="c1">
+      <lines>This we know, we will see the enemy run <br/>This we know, we will see the victory come <br/>We hold on to every promise You ever made <br/>Jesus, You are unfailing</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Our guide through the wilderness<br/>Our joy in the heaviness<br/>Our way when it seems there is no way<br/>Jesus</lines>
+    </verse>
+    <verse name="b1">
+      <lines>We trust You<br/>We trust You<br/>Your ways are higher than our own</lines>
+    </verse>
+  </lyrics>
+</song>

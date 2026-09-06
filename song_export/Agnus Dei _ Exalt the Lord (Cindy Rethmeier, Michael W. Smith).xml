@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:22">
+  <properties>
+    <titles>
+      <title>Agnus Dei / Exalt the Lord</title>
+    </titles>
+    <authors>
+      <author>Michael W. Smith</author>
+      <author>Cindy Rethmeier</author>
+    </authors>
+    <themes>
+      <theme>Praise</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alleluia, alleluia<br/>For the Lord God Almighty reigns<br/>Alleluia, alleluia<br/>For the Lord God Almighty reigns<br/><br/>Alleluia</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Holy, holy are You Lord God Almighty<br/>Worthy is the Lamb, worthy is the Lamb<br/>You are holy, holy are You Lord God Almighty<br/>Worthy is the Lamb, worthy is the Lamb<br/><br/>Amen</lines>
+    </verse>
+    <verse name="o1">
+      <lines>For the Lord our God<br/>He is holy<br/>For the Lord our God<br/>He is holy</lines>
+    </verse>
+    <verse name="o2">
+      <lines>He is holy, He is holy, He is holy<br/>He is holy, He is holy, He is holy</lines>
+    </verse>
+    <verse name="o3">
+      <lines>All the angels cry holy<br/>All the people cry holy<br/>We join heaven in singing<br/>Glory to the Righteous One!</lines>
+    </verse>
+  </lyrics>
+</song>

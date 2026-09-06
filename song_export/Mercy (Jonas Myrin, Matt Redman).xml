@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-11-07T02:35:57">
+  <properties>
+    <titles>
+      <title>Mercy</title>
+    </titles>
+    <authors>
+      <author>Jonas Myrin</author>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will kneel in the dust at the foot of the cross<br/>Where mercy paid for me<br/>Where the wrath I deserve, it is gone, it has passed<br/>Your blood has hidden me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mercy, mercy as endless as the sea<br/>I'll sing Your hallelujah for all eternity</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We will lift up the cup and the bread we will break<br/>Remembering Your love<br/>We were fallen from grace, but You took all our shame<br/>And nailed it to a cross</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>May I never lose the wonder<br/>Oh the wonder of Your mercy<br/>May I sing Your hallelujah<br/>Hallelujah, amen</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>May we never lose the wonder<br/>Oh the wonder of Your mercy<br/>May I sing Your hallelujah<br/>Hallelujah, amen</lines>
+    </verse>
+  </lyrics>
+</song>

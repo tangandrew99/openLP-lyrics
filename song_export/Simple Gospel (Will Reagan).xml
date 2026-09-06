@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-11-07T02:41:59">
+  <properties>
+    <titles>
+      <title>Simple Gospel</title>
+    </titles>
+    <verseOrder>v1 v2 v3 b1 p1 c1 e1</verseOrder>
+    <authors>
+      <author>Will Reagan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="p1">
+      <lines>And I reach out and You find me in the dust<br/>You say no amount of untruths can separate us</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I will rejoice in the simple gospel<br/>I will rejoice in You, Lord<br/>I will rejoice in the simple gospel<br/>I will rejoice in You, Lord</lines>
+    </verse>
+    <verse name="e1">
+      <lines>I'm saved by the blood of the Lamb<br/>I'm washed by the blood of the Lamb</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I want to know you, Lord<br/>Like I know a friend<br/>I want to know you, Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So I’m laying down all my religion<br/>I’m laying down <br/>I want to know you, Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I use to think that I could box you in<br/>But I’m laying down <br/>I want to know you, Lord</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Lord, I’ve been told to be ashamed<br/>Lord, I’ve been told I don’t measure up<br/>Lord, I’ve been told I’m not good enough<br/>But you’re here with m</lines>
+    </verse>
+  </lyrics>
+</song>

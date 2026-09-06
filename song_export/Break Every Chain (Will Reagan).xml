@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:23">
+  <properties>
+    <titles>
+      <title>Break Every Chain</title>
+    </titles>
+    <authors>
+      <author>Will Reagan</author>
+    </authors>
+    <themes>
+      <theme>Intercession</theme>
+      <theme>Freedom &amp; Power</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>There is power in the name of Jesus<br/>There is power in the name of Jesus<br/>There is power in the name of Jesus<br/><br/>To break every chain, break every chain<br/>Break every chain</lines>
+    </verse>
+    <verse name="v1">
+      <lines>All sufficient sacrifice<br/>So freely given, such a price<br/>Bought our redemption<br/>Heaven's gates swing wide</lines>
+    </verse>
+    <verse name="c2">
+      <lines>There's an army rising up<br/>There's an army rising up<br/>There's an army rising up<br/><br/>To break every chain, break every chain<br/>Break every chain</lines>
+    </verse>
+    <verse name="o1">
+      <lines>We lift high the name of Jesus<br/>The worthy Lamb crucified, now alive</lines>
+    </verse>
+  </lyrics>
+</song>

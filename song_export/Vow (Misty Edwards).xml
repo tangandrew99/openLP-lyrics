@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:28">
+  <properties>
+    <titles>
+      <title>Vow</title>
+    </titles>
+    <authors>
+      <author type="words">Misty Edwards</author>
+      <author type="music">Misty Edwards</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I do love You, I do love You, I do love You<br/>You know that I love You, Jesus</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I pay my vows right here, right now<br/>No matter what comes my way</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For every season, there's a reason and a purpose under heaven<br/>This I know, this I know</lines>
+    </verse>
+    <verse name="p1">
+      <lines>A time to laugh and a time to cry<br/>A time to live and a time to die<br/>A time to speak, and a time for silence<br/>A time to gain and a time to lose<br/>A time to mourn and a time to laugh<br/>A time for peace, and a time for war</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Through every season of the soul<br/>Through every season of Your love<br/>Through every season in this life<br/>I want You to know<br/></lines>
+    </verse>
+  </lyrics>
+</song>

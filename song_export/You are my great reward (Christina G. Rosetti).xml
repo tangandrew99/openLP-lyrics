@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-03-02T21:13:51">
+  <properties>
+    <titles>
+      <title>You are my great reward</title>
+    </titles>
+    <authors>
+      <author>Christina G. Rosetti</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When everything is shaken<br/>And everything is taken<br/>When circumstances come to tempt me<br/>When death and sorrow surround me<br/>And pain attempts to grip me<br/>I still believe</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I wanna be like Mary<br/>Sitting at Your feet<br/>Lavishing my lovе upon You<br/>And how I choose that one thing<br/>I'll give all for lovе<br/>Surrendering everything for You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are my great reward<br/>You're who I'm longing for<br/>My beautiful inheritance<br/>Oh, Jesus</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You've given me Yourself<br/>You've given me Yourself<br/>You've given me Yourself<br/>You are enough for me, for me</lines>
+    </verse>
+    <verse name="b2">
+      <lines>You've given me Yourself<br/>You've given me Yourself<br/>You've given me Yourself<br/>You are enough</lines>
+    </verse>
+  </lyrics>
+</song>

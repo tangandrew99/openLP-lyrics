@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:22">
+  <properties>
+    <titles>
+      <title>Always Forever</title>
+    </titles>
+    <authors>
+      <author>Phil Wickham</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You are the love I need<br/>You are the air I breathe<br/>You are my love, my life always forever<br/><br/>And I would lay down my life<br/>Just to be by Your side<br/>You are my love, my life always forever<br/>Always forever</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You are the hand that catches my fall<br/>You are the friend that answers my call<br/>You are my day, You are my night<br/>You are my love and all of my life</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>You are the grace that covers my sin<br/>You're everything, the beginning and end<br/>You have my soul, my heart and my mind<br/>You have my love and all of my life</lines>
+    </verse>
+  </lyrics>
+</song>

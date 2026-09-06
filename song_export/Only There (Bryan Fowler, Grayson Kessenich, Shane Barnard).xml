@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-09-04T01:39:33">
+  <properties>
+    <titles>
+      <title>Only There</title>
+    </titles>
+    <authors>
+      <author>Shane Barnard</author>
+      <author>Bryan Fowler</author>
+      <author>Grayson Kessenich</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Oh how long my heart has struggled<br/>With its fear and unbelief<br/>Though my heavy-laden spirit<br/>At the cross would find relief</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I have wandered in this darkness<br/>Not a ray of light within<br/>But my faith at last has led me<br/>To the cross with all my sin</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Only there, only there<br/>Love and mercy flow for me<br/>Only there, only there<br/>Can I find my rest in Thee</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Only there my hope is clinging<br/>Trusting Christ and Christ alone<br/>Knowing full I stand forgiven<br/>Through Thy merit, not my own</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And I know that You will keep me<br/>None can separate Your love<br/>I employ the power that saved me<br/>To the Savior's feet I come</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I find my rest (only there)<br/>I find my peace (only there)<br/>I find my hope (only there)<br/>I'm finding everything I need</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Lord, where else can I go<br/>There is none but You, oh Lord<br/>Lord, where else can I go<br/>All my hope in You alone</lines>
+    </verse>
+    <verse name="b2">
+      <lines>You are my rest (only there)<br/>You are my peace (only there)<br/>You are my hope (only there)<br/>And You are everything I need</lines>
+    </verse>
+  </lyrics>
+</song>

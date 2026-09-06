@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:26">
+  <properties>
+    <titles>
+      <title>O Praise the Name (Anastasis)</title>
+    </titles>
+    <authors>
+      <author>Marty Sampson</author>
+      <author>Benjamin Hastings</author>
+      <author>Dean Ussher</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I cast my mind to Calvary<br/>Where Jesus bled and died for me<br/>I see His wounds, His hands, His feet<br/>My Savior on that cursed tree</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His body bound and drenched in tears<br/>They laid Him down in Joseph's tomb.<br/>The entrance sealed by heavy stone<br/>Messiah still and all alone</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O praise the name of the Lord our God<br/>O praise His name forevermore<br/>For endless days we will sing Your praise<br/>O Lord, O Lord our God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Then on the third at break of dawn<br/>The Son of Heaven rose again<br/>O trampled death, where is your sting?<br/>The angels roar for Christ the King</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He shall return in robes of white<br/>The blazing sun shall pierce the night<br/>And I will rise among the saints<br/>My gaze transfixed on Jesus' face</lines>
+    </verse>
+  </lyrics>
+</song>

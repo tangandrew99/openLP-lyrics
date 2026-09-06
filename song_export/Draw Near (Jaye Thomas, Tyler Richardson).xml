@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-03-01T03:20:58">
+  <properties>
+    <titles>
+      <title>Draw Near</title>
+    </titles>
+    <authors>
+      <author>Jaye Thomas</author>
+      <author>Tyler Richardson</author>
+    </authors>
+    <themes>
+      <theme>Devotion</theme>
+      <theme>Glory</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We bow before the throne of grace again<br/>Come reveal Yourself to us<br/>All that matters is that You are pleased<br/>With the song that we lift up</lines>
+    </verse>
+    <verse name="p1">
+      <lines>With hearts wide open we sing a song to You<br/>And with expectation we ask in faith</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Draw near to us, O God, as we draw near<br/>As we come close to Your heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You’re our deepest heart’s desire<br/>Come and meet us where we are<br/>Find here that which You are drawn to<br/>A broken and a contrite heart</lines>
+    </verse>
+    <verse name="b1">
+      <lines>We came here to meet with You<br/>We won’t leave until we do</lines>
+    </verse>
+    <verse name="b2">
+      <lines>We climb this mountain<br/>To pull back the curtain<br/>We’re desperately crying<br/>Show us Your glory</lines>
+    </verse>
+    <verse name="o1a">
+      <lines>I lift my eyes up to the hill<br/>Where does my help come from<br/>It comes from You and You alone</lines>
+    </verse>
+    <verse name="o2a">
+      <lines>Our God reigns forever and ever<br/>Our God reigns forever and ever</lines>
+    </verse>
+    <verse name="o1b">
+      <lines>We want to see <br/>We want to see <br/>Lord, give us eye salve</lines>
+    </verse>
+    <verse name="o2b">
+      <lines>Son of David, have mercy <br/>Open my eyes so I can see</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-12-14T17:53:24">
+  <properties>
+    <titles>
+      <title>Take My Life</title>
+    </titles>
+    <authors>
+      <author>Scott Underwood</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Take my life and form it<br/>Take my mind transform it<br/>Take my will conform it<br/>To Yours, to Yours, oh Lord</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Holiness, holiness<br/>Is what I long for<br/>Holiness is what I need<br/>Holiness, holiness<br/>Is what You want from me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Faithfulness, faithfulness<br/>Is what I long for<br/>Faithfulness is what I need<br/>Faithfulness, faithfulness<br/>Is what You want from me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Righteousness, righteousness<br/>Is what I long for<br/>Righteousness is what I need<br/>Righteousness, righteousness<br/>Is what You want from me</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Humility, humility<br/>Is what I long for<br/>Humility is what I need<br/>Humility, Humility<br/>Is what You want from me</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Brokeness, Brokeness<br/>Is what I long for<br/>Brokeness is what I need<br/>Brokeness, Brokeness<br/>Is what You want from me</lines>
+    </verse>
+  </lyrics>
+</song>

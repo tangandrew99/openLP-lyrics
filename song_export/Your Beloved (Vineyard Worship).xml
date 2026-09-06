@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-03-02T03:32:49">
+  <properties>
+    <titles>
+      <title>Your Beloved</title>
+    </titles>
+    <authors>
+      <author>Vineyard Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I am Your beloved<br/>Your creation<br/>And You love me as I am<br/>You have called me chosen<br/>For Your kingdom<br/>Unashamed to call me Your own</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Lord, who am I<br/>Compared to Your glory?<br/>Lord, who am I<br/>Compared to Your majesty?</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Lord it was You,<br/>You created the heavens.<br/>And Lord, it was Your hands<br/>That put the stars in their place.<br/>Lord, it was Your voice<br/>That commands the morning.<br/>Even oceans and their waves bow at Your feet.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I am Your beloved<br/></lines>
+    </verse>
+  </lyrics>
+</song>

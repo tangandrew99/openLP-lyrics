@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-01-28T17:56:01">
+  <properties>
+    <titles>
+      <title>Dwelling Places</title>
+    </titles>
+    <authors>
+      <author type="words">Hillsong Worship</author>
+      <author type="music">Hillsong Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lovely are Your dwelling places<br/>Thirsty, I come after You<br/>Jesus, my joy, my reward<br/>Your love's restoring my soul<br/>Now I'm Yours<br/>And You are mine<br/>And from my heart a song will rise</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I love You, I love You, I love You<br/>I love You, I love You, I love You<br/>I love You, I love You, I love You<br/>And my heart will follow wholly after You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, there is none beside You<br/>Righteous, Ruler of the Earth<br/>Nations will come and bow down<br/>Name over all names<br/>I sing Your praises<br/>And all that I can say to You is</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:28">
+  <properties>
+    <titles>
+      <title>Tremble</title>
+    </titles>
+    <authors>
+      <author>Mosiac MSC</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Your name is a light that the shadows can't deny<br/>Your name cannot be overcome<br/>Your name is alive forever lifted high<br/>Your name cannot be overcome</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Jesus, Jesus, You make the darkness tremble<br/>Jesus, Jesus, You silence fear<br/>Jesus, Jesus, You make the darkness tremble<br/>Jesus, Jesus</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Peace, bring it all to peace<br/>The storms surrounding me<br/>Let it break at Your name</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Still, call the sea to still<br/>The rage in me to still<br/>Every wave at Your name</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Breathe, call these bones to live<br/>Call these lungs to sing<br/>Once again, I will praise</lines>
+    </verse>
+  </lyrics>
+</song>

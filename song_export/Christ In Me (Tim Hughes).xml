@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-09-29T01:45:41">
+  <properties>
+    <titles>
+      <title>Christ In Me</title>
+    </titles>
+    <authors>
+      <author>Tim Hughes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christ in me, Christ in me<br/>Christ in me, the hope of glory<br/>Be my everything</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Be my everything<br/>Be my everything<br/>Be my everything<br/>Be my everything</lines>
+    </verse>
+  </lyrics>
+</song>

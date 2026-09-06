@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:22">
+  <properties>
+    <titles>
+      <title>Alabaster Box</title>
+    </titles>
+    <authors>
+      <author>Julie Meyer</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All I am is all I have<br/>And all, all I have to give<br/>I give it to all to You</lines>
+    </verse>
+    <verse name="p1">
+      <lines>It's my fagrant oil, is my costly perfume<br/>And I'll take my alabaster box<br/>and I'll, I'll break it open</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let the fragrance arise<br/>La-la-la-la, la-la-la-la</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So take every song<br/>Every spoken word<br/>All of my dance, all of my rhyme<br/>And I give it all to you</lines>
+    </verse>
+    <verse name="b1">
+      <lines>So I pour out all my worship over you<br/>And I sing my song of worship straight to you</lines>
+    </verse>
+  </lyrics>
+</song>

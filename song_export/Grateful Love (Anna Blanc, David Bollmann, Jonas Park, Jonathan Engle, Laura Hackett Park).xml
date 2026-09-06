@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:24">
+  <properties>
+    <titles>
+      <title>Grateful Love</title>
+    </titles>
+    <authors>
+      <author>Jonas Park</author>
+      <author>Laura Hackett Park</author>
+      <author>Anna Blanc</author>
+      <author>Jonathan Engle</author>
+      <author>David Bollmann</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Find me here, You pull me close, so near<br/>Calming my every fear, You don't reject<br/>Kindness comes, deep undeserving love<br/>Breaking the rules to come rescue me here</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus, oh my Lord<br/>You have won me, won my heart<br/>Over and over and<br/>I won't hold it back<br/>All my love, all my love for You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You can see right to the depths of me<br/>You say my love is real, and call me Your own<br/>You reach in, mercy no man expects<br/>Bringing me life again, lifting me up</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Grateful love is my unending song<br/>I'll pour out all my love here at Your feet</lines>
+    </verse>
+  </lyrics>
+</song>

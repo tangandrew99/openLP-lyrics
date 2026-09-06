@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:22">
+  <properties>
+    <titles>
+      <title>All-Consuming Fire</title>
+    </titles>
+    <authors>
+      <author>Misty Edwards</author>
+    </authors>
+    <themes>
+      <theme>Devotion</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All-consuming fire<br/>You're our heart's desire<br/>Living flame of love<br/>Come baptize us, come baptize us</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let us fall more in love with You<br/>Let us fall more in love with You<br/>Let us fall more in love with You<br/>Let us fall more in love with You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>We want to know<br/>How high, how deep, how wide is<br/>Love, love, love<br/>We want to know<br/>How high, how deep, how wide is<br/>Love, love, love</lines>
+    </verse>
+  </lyrics>
+</song>

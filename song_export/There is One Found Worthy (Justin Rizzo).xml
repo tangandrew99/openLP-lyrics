@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:28">
+  <properties>
+    <titles>
+      <title>There is One Found Worthy</title>
+    </titles>
+    <authors>
+      <author type="words">Justin Rizzo</author>
+      <author type="music">Justin Rizzo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is One found worthy<br/>The Lion of the tribe of Judah<br/>There is One found worthy<br/>The Root of David</lines>
+    </verse>
+    <verse name="c1">
+      <lines>God, You became a man<br/>You took on flesh<br/>You're so beautiful</lines>
+    </verse>
+  </lyrics>
+</song>

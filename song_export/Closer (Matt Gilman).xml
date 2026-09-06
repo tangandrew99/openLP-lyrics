@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:23">
+  <properties>
+    <titles>
+      <title>Closer</title>
+    </titles>
+    <authors>
+      <author>Matt Gilman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a rainbow of mercy around You<br/>It's calling me closer, closer<br/>The blood of Your Son has made me a way<br/>A way to come closer, closer</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For You delight in showing me mercy<br/>And you desire me to draw near<br/>Now You have caused me to come and approach you<br/>And I am blessed among men</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Now there is one thing I will desire<br/>And there is one thing I will seek<br/>That I may behold You in all of your glory<br/>To gaze on the beauty of the King</lines>
+    </verse>
+  </lyrics>
+</song>

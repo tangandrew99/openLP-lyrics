@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:24">
+  <properties>
+    <titles>
+      <title>For Who You Are</title>
+    </titles>
+    <authors>
+      <author>Hillsong Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Standing here in Your presence<br/>Thinking of the good things You have done<br/>Waiting here patiently<br/>Just to hear Your still small voice again</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Holy, righteous, faithful to the end,<br/>Saviour, healer, redeemer and friend</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I will worship You for who You are<br/>I will worship You for who You are<br/>I will worship You for who You are<br/>Jesus</lines>
+    </verse>
+    <verse name="e1">
+      <lines>My soul secure, Your promise sure<br/>Your love endures always</lines>
+    </verse>
+  </lyrics>
+</song>

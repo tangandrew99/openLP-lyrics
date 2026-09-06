@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-01-28T17:45:37">
+  <properties>
+    <titles>
+      <title>I Will Offer Up My Life</title>
+    </titles>
+    <verseOrder>v1 c1 v2 b1 i1</verseOrder>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will offer up my life in spirit and truth<br/>Pouring out the oil of love, as my worship to You<br/>In surrender I must give my every part<br/>Lord, receive this sacrifice of a broken heart</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Jesus, what can I give, what can I bring<br/>To so faithful a Friend, to so loving a King?<br/>Savior, what can be said, what can be sung<br/>As a praise of Your name for the things You have done?<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>You deserve my every breath, for You've paid the great cost<br/>Pouring out Your life to death, even death on a cross<br/>You took all my shame away, there defeated my sin<br/>Opened up the gates of heaven and have welcomed me in</lines>
+    </verse>
+    <verse name="b1">
+      <lines>We'll bring an offering, unto You an offering<br/>What can I, what can I, what can I sing as an offering, Lord?<br/>I want to please Your heart<br/>What can I give, what can I bring, what can I sing as an offering, Lord?</lines>
+    </verse>
+    <verse name="i1">
+      <lines>What can I give, what can I bring, what can I sing as an offering, Lord?</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Oh, my words could not tell, not even in part<br/>Of the debt of love that is owed by this thankful heart</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-06-30T16:34:50">
+  <properties>
+    <titles>
+      <title>Psalm 45 (Fairest of All)</title>
+    </titles>
+    <authors>
+      <author>Sean Carter</author>
+      <author>Shane Barnard</author>
+      <author>Eugene Peterson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My heart burst at its banks<br/>Spilling with beauty and goodness<br/>I pour it out as a song to my King<br/>Shaping the rivers into words</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What grace pours from Your lips<br/>The sound calls the midnight to morning<br/>The melody turns my winter to spring<br/>I echo it now in my worship<br/>I echo it now in my worship</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ten thousand strong, You’re the fairest of all<br/>Fairest in heaven and earth<br/>Of the children of men, You’re the fairest of them<br/>Fairest in heaven and earth</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your heart burst at the seams<br/>Flowing with blood and with water<br/>A song of love pouring out from the tree<br/>Singing, “For the joy set before Me”<br/>Singing, “For the joy set before Me”</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You ransomed Your bride<br/>On the day that You died<br/>Ascended to heaven in glory<br/><br/>She stands clothed in white<br/>With her head lifted high<br/>Singing, “Come and return in Your glory”</lines>
+    </verse>
+    <verse name="b2">
+      <lines>You ransomed Your bride<br/>On the day that You died<br/>Ascended to heaven in glory<br/><br/>We stand clothed in white<br/>With our voice lifted high<br/>Singing, “Come and return in Your glory”</lines>
+    </verse>
+  </lyrics>
+</song>

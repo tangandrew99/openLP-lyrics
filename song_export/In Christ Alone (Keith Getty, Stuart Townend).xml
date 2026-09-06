@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:25">
+  <properties>
+    <titles>
+      <title>In Christ Alone</title>
+    </titles>
+    <authors>
+      <author>Keith Getty</author>
+      <author>Stuart Townend</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>In Christ alone my hope is found<br/>He is my light, my strength, my song<br/>This cornerstone, this solid ground<br/>Firm through the fiercest drought and storm</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>What heights of love, what depths of peace<br/>When fears are stilled, when strivings cease<br/>My Comforter, my all in all<br/>Here in the love of Christ I stand</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>In Christ alone, who took on flesh<br/>Fullness of God in helpless babe<br/>This gift of love and righteousness<br/>Scorned by the ones He came to save</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Till on that cross, as Jesus died<br/>The wrath of God was satisfied<br/>For every sin on Him was laid<br/>Here in the death of Christ I live</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>There in the ground His body lay<br/>Light of the world by darkness slain<br/>Then bursting forth in glorious day<br/>Up from the grave He rose again</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>And as He stands in victory<br/>Sin's curse has lost its grip on me<br/>For I am His and He is mine<br/>Bought with the precious blood of Christ</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>No guilt in life, no fear in death<br/>This is the power of Christ in me<br/>From life's first cry to final breath<br/>Jesus commands my destiny</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>No power of hell, no scheme of man<br/>Can ever pluck me from His hand<br/>Till He returns or calls me home<br/>Here in the power of Christ I stand</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Your love has purchased me<br/>Your blood has set me free</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>I find my strength, I find my hope<br/>I find my help in Christ alone<br/>When fear assails, when darkness falls<br/>I find my peace in Christ alone</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>I give my life, I give my all<br/>I sing this song to Christ alone<br/>The King of kings, the Lord of lords<br/>All heaven sings to Christ alone</lines>
+    </verse>
+  </lyrics>
+</song>

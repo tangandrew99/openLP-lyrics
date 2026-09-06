@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-08-16T01:00:52">
+  <properties>
+    <titles>
+      <title>Light of Your Face</title>
+    </titles>
+    <authors>
+      <author>Cassandra Campbell</author>
+      <author>David Brymer</author>
+      <author>Misty Edwards</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lord, bless me and keep me<br/>Cause Your face to shine on me<br/>Lord, be gracious <br/>Lift the light of Your countenance<br/>Give me peace</lines>
+    </verse>
+    <verse name="c1">
+      <lines>For I live only to see Your face<br/>So shine on me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Let the light of Your face shine down on my heart<br/>And let me feel it</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:23">
+  <properties>
+    <titles>
+      <title>Beautiful One</title>
+    </titles>
+    <authors>
+      <author>Tim Hughes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wonderful, so wonderful<br/>Is Your unfailing love<br/>Your cross has spoken mercy over me<br/><br/>No eye has seen, no ear has heard<br/>No heart could fully know<br/>How glorious, how beautiful You are</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Beautiful One I love<br/>Beautiful One I adore<br/>Beautiful One my soul must sing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Powerful, so powerful<br/>Your glory fills the skies<br/>Your mighty works displayed for all to see<br/><br/>The beauty of Your majesty<br/>Awakes my heart to sing<br/>How marvelous, how wonderful You are</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You’ve opened my eyes to Your wonders anew<br/>You’ve captured my heart with this love<br/>‘Cause nothing on earth is as beautiful as You</lines>
+    </verse>
+    <verse name="b2">
+      <lines>My soul, my soul must sing<br/>My soul, my soul must sing<br/>My soul, my soul must sing<br/>Beautiful one</lines>
+    </verse>
+  </lyrics>
+</song>

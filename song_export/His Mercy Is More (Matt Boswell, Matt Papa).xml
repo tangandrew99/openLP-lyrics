@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-11-24T16:55:20">
+  <properties>
+    <titles>
+      <title>His Mercy Is More</title>
+    </titles>
+    <authors>
+      <author>Matt Papa</author>
+      <author>Matt Boswell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Praise the Lord, His mercy is more<br/>Stronger than darkness, new every morn’<br/>Our sins they are many, His mercy is more</lines>
+    </verse>
+    <verse name="v1">
+      <lines>What love could remember no wrongs we have done<br/>Omniscient, all-knowing, He counts not their sum<br/>Thrown into a sea without bottom or shore<br/>Our sins they are many, His mercy is more</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What patience would wait as we constantly roam<br/>What Father so tender is calling us home<br/>He welcomes the weakest, the vilest, the poor<br/>Our sins they are many, His mercy is more</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What riches of kindness He lavished on us<br/>His blood was the payment His life was the cost<br/>We stood ‘neath a debt we could never afford<br/>Our sins they are many, His mercy is more</lines>
+    </verse>
+    <verse name="o1">
+      <lines>When I was far away<br/>Dead in my sinful ways<br/>You saw me, had mercy<br/>And ran to embrace me</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Rich in mercy, how You loved me<br/>Too much to let me stay lost<br/>My salvation sent from heaven<br/>Nailing my sin to a cross<br/>Oh but God</lines>
+    </verse>
+  </lyrics>
+</song>

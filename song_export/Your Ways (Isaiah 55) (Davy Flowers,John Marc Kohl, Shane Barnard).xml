@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-03-29T01:08:09">
+  <properties>
+    <titles>
+      <title>Your Ways (Isaiah 55)</title>
+    </titles>
+    <authors>
+      <author type="words">Davy Flowers,John Marc Kohl, Shane Barnard</author>
+      <author type="music">Davy Flowers,John Marc Kohl, Shane Barnard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tried my way chasing the wind<br/>Went astray in sinking sand<br/>Leaned on my understanding<br/>Til You showed me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Your ways, Your ways are better than mine<br/>Always, always Your thoughts are divine<br/>As high as the heavens above the earth<br/>Your ways, Your ways are better</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All like sheep we've gone astray<br/>You found me and took my place<br/>All my sin laid upon You<br/>'Cause You love me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Show me Your, show me Your ways are better<br/>Show me Your, show me Your thoughts are higher<br/>Show me Your ways and I will follow</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Trust in the Lord with all Your heart<br/>Lean not on Your understanding<br/>Seek Him and He will make Your paths straight</lines>
+    </verse>
+  </lyrics>
+</song>

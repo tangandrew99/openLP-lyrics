@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-04-07T16:59:33">
+  <properties>
+    <titles>
+      <title>Fountains</title>
+    </titles>
+    <authors>
+      <author>Jon Thurlow</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cast all your cares on me<br/>'Cause I care for you, I care for you</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All your fountains are in Me<br/>I have everything you need<br/>Just keep coming back to Me<br/><br/>Those who call upon My name<br/>They will not be put to shame<br/>Just keep coming back to Me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So come to Me if you're weary<br/>And I'll give you rest, I'll give you rest<br/>My yoke is so easy<br/>And My burden is less, My burden is less</lines>
+    </verse>
+    <verse name="c2">
+      <lines>All my fountains are in You,  You have everything I need<br/>I'll just keep coming back to You<br/>When I call upon Your name I will not be put to shame<br/>I'll just keep coming back to You</lines>
+    </verse>
+  </lyrics>
+</song>

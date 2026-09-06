@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-07-14T00:59:24">
+  <properties>
+    <titles>
+      <title>Everlasting God</title>
+    </titles>
+    <authors>
+      <author>William Murphy</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord's my light and salvation<br/>Whom shall I fear?<br/>Whom shall I be afraid?</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>I will wait for you, I will wait for you<br/>I will trust in you, I will trust in you</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>I will remain confident in this <br/>I will see the goodness of the Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We set our hope on You<br/>We set our hope on Your love<br/>We set our hope on the One who is the Everlasting God<br/>You are the Everlasting God</lines>
+    </verse>
+  </lyrics>
+</song>

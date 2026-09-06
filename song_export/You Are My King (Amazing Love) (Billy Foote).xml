@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2025-06-29T16:23:00">
+  <properties>
+    <titles>
+      <title>You Are My King (Amazing Love)</title>
+    </titles>
+    <ccliNo>2456623</ccliNo>
+    <authors>
+      <author>Billy Foote</author>
+    </authors>
+    <themes>
+      <theme>Devotion</theme>
+      <theme>Gospel</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm forgiven because You were forsaken<br/>I'm accepted, You were condemned<br/>I'm alive and well, Your Spirit is within me<br/>Because You died and rose again</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Amazing love, how can it be<br/>That You, my King, would die for me<br/>Amazing love, I know it's true<br/>And it's my joy to honor You<br/>In all I do, I honor You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Jesus,You are my King<br/>Jesus, You are my King</lines>
+    </verse>
+  </lyrics>
+</song>
